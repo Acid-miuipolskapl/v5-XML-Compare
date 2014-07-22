@@ -198,6 +198,7 @@ Custom service will contact you in a moment"</string>
   <string name="navigation_search_no_city_list">"Didn't find anything"</string>
   <string name="navigation_search_positioning">Locating…</string>
   <string name="navigation_search_positioning_failed">Select a city</string>
+  <string name="nearby_average_price">Average %d RMB</string>
   <string name="nearby_no_yellow_page">No result nearby</string>
   <string name="nearby_yellow_page_title">Nearby</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>

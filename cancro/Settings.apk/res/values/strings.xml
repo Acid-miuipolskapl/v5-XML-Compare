@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Settings_title_anti_spam">Antispam settings</string>
-  <string name="Settings_title_anti_virus">AntiVirus settings</string>
+  <string name="Settings_title_anti_virus">Antivirus settings</string>
   <string name="Settings_title_garbage_cleanup">Garbage cleanup settings</string>
   <string name="Settings_title_network_assistants">Network assistant settings</string>
   <string name="Settings_title_power_center">Power manager settings</string>
@@ -55,7 +55,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_service_default_description">No description provided.</string>
   <string name="accessibility_service_no_apps_confirm">OK</string>
   <string name="accessibility_service_no_apps_message">TalkBack provides spoken feedback to help blind and low-vision users. Do you want to install it for free from Android Market?</string>
-  <string name="accessibility_service_no_apps_prompt">TalkBack provides spoken feedback to help visually impaired users. Get this service for free from the Google Play Store.</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack provides spoken feedback to help blind and low-vision users. Get this service for free from the Google Play Store.</string>
   <string name="accessibility_service_no_apps_title">Need a screen reader?</string>
   <string name="accessibility_services_title">Services</string>
   <string name="accessibility_settings">Accessibility</string>
@@ -183,7 +183,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_factory_reset">Uninstall updates</string>
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
-  <string name="app_feedback">Report Bug</string>
+  <string name="app_feedback">Report bug</string>
   <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app.
 Disable floating windows?"</string>
   <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires the app to restart. You can also stop running the app manually.
@@ -735,7 +735,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="cta_button_text_cancel">Cancel</string>
   <string name="cta_checkbox_title">"Don't show again"</string>
   <string name="cta_dialog_msg">Security Center may need to connect to the internet to get updates.</string>
-  <string name="cta_dialog_title">Terms and Conditions</string>
+  <string name="cta_dialog_title">Internet connection</string>
   <string name="cta_settings">Allow internet connection</string>
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Default</string>
@@ -972,7 +972,7 @@ This setting affects all users on this phone."</string>
   <string name="dndm_dlg_remove_ok">Remove</string>
   <string name="dndm_dlg_remove_vip">Calls from this person will be silenced when Do Not Disturb is on.</string>
   <string name="dndm_menu_add_vip_custom">Add exception</string>
-  <string name="dndm_mute_all">Silence calls and messages.</string>
+  <string name="dndm_mute_all">Calls and messages are being silenced.</string>
   <string name="dndm_notification">Do Not Disturb is on</string>
   <string name="dndm_open">Do Not Disturb</string>
   <string name="dndm_repeated_call_setting_title">Repeated calls</string>
@@ -1060,6 +1060,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_drive_mode">Car mode</string>
   <string name="enable_firewall">Block unwanted calls</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_quickboot_summary">Put device into QuickBoot mode instead of normal power off.</string>
   <string name="enable_quickboot_title">Enable QuickBoot mode</string>
@@ -1641,8 +1642,8 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="menu_item_about_title">About</string>
   <string name="menu_item_app_details">Details</string>
   <string name="menu_item_force_stop">Force stop</string>
-  <string name="menu_item_notification_antispam_text_avail">Spam</string>
-  <string name="menu_item_notification_antispam_text_normal">Spam</string>
+  <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
+  <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Error</string>
   <string name="menu_item_notification_power_text">Power</string>
@@ -3129,7 +3130,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
-  <string name="upload_debug_log_summary">Help Xiaomi improve its products and services by sending anonymous diagnostic and usage data</string>
+  <string name="upload_debug_log_summary">Help improve MIUI by sending anonymous usage data</string>
   <string name="upload_debug_log_title">User experience program</string>
   <string name="usage_log">App usage statistics</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>

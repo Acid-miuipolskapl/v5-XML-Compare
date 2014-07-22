@@ -567,7 +567,7 @@ albums from anywhere.
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
   <string name="error_cloud_not_active">Cloud album not in use</string>
-  <string name="error_forbidden">Sync has been disabled due to some problems with your Mi Account.</string>
+  <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
   <string name="error_invalid_link">Invalid link</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_repeat_apply">This album has already been shared</string>
@@ -647,7 +647,7 @@ albums from anywhere.
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import complete</string>
   <string name="import_fail">Import failed</string>
-  <string name="initial_cloud_button_text">Begin using</string>
+  <string name="initial_cloud_button_text">Sign in</string>
   <string name="initial_cloud_text">Store and view your pictures from anywhere.</string>
   <string name="initializing_cloud">Initializing…</string>
   <string name="input_cloudfolder_name">Folder name</string>

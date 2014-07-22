@@ -275,7 +275,7 @@
   <string name="view_event_organizer_label">Organizer:</string>
   <string name="view_event_response_label">Attending?</string>
   <string name="week_view">Week</string>
-  <string name="week_view_today_toast">Already in this week</string>
+  <string name="week_view_today_toast">"You're currently viewing this week"</string>
   <string name="weekly">Weekly (every %s)</string>
   <string name="what_label">What</string>
   <string name="when_label">When</string>

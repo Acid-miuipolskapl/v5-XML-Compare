@@ -469,6 +469,7 @@
   <string name="fdn_contact_added">Fixed dialing number added.</string>
   <string name="fdn_contact_deleted">Fixed dialing number deleted.</string>
   <string name="fdn_contact_updated">Fixed dialing number updated.</string>
+  <string name="fdn_contacts_empty_miui">No contacts in FDN list.</string>
   <string name="fdn_disabled">Fixed Dialing Numbers are disabled</string>
   <string name="fdn_disabled_miui">FDNs disabled</string>
   <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 Blocked. Please change PIN2 and retry!</string>

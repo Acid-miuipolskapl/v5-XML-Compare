@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Google Account, Xiaomi Account, and Contacts data</string>
+  <string name="account_contact_backup_info">Google Account, Mi Account, and Contacts data</string>
   <string name="account_login">Sign in</string>
-  <string name="account_summary">Backup Google Account, Xiaomi Account, and other user data</string>
+  <string name="account_summary">Backup Google Account, Mi Account, and other user data</string>
   <string name="already_enable_encrypt">Encryption enabled</string>
   <string name="app_name">Backup</string>
   <string name="auto_backup">Back up automatically</string>
@@ -110,7 +110,7 @@
   <string name="cloud_app_version_size">Version: %1$s, Size: %2$s</string>
   <string name="cloud_app_wait_wifi">Waiting for WLAN connection</string>
   <string name="cloud_backup_hint">To access your backups, sign in now</string>
-  <string name="cloud_backup_login">Sign in with your Xiaomi Account</string>
+  <string name="cloud_backup_login">Sign in with your Mi Account</string>
   <string name="cloud_backup_window_title">Mi Cloud backup</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
@@ -139,8 +139,8 @@
   <string name="enable_encrypt_fail">Encryption failed</string>
   <string name="enable_encrypt_indicator">Touch to encrypt</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">You need to sign in with your Xiaomi Account to access encrypted backups.</string>
-  <string name="enable_encrypt_summery2">"Your backups will be encrypted automatically. You'll need to sign in to your Xiaomi Account to access encrypted backups."</string>
+  <string name="enable_encrypt_summery1">You need to sign in with your Mi Account to access encrypted backups.</string>
+  <string name="enable_encrypt_summery2">"Your backups will be encrypted automatically. You'll need to sign in to your Mi Account to access encrypted backups."</string>
   <string name="enable_encrypt_title">Enable encryption</string>
   <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s. To restore, delete the current account and sign in as %2$s.</string>
   <string name="exchange_account">Switch account</string>
@@ -152,7 +152,7 @@
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Download the MiTalk app and sign in.
 \u0009http://www.miliao.com
 
-2.\u0009Go to MiTalk Settings and select ”Back up contacts to Xiaomi Account”"</string>
+2.\u0009Go to MiTalk Settings and select ”Back up contacts to Mi Account”"</string>
   <string name="import_from_xiaomi_account_hint2">If you already have a backup, touch Next.</string>
   <string name="import_from_xiaomi_account_hint_title">Use MiTalk to back up your contacts accross devices.</string>
   <string name="just_support_op_with_wifi_connected">You can only use this function when you have a WLAN connection</string>
@@ -165,7 +165,7 @@
   <string name="local_select_sysdata">System</string>
   <string name="local_select_userapp">Apps</string>
   <string name="menu_patch_delete">Delete backups</string>
-  <string name="miliao_account_guide">"Create a Xiaomi Account to enjoy all of Xiaomi's online services"</string>
+  <string name="miliao_account_guide">"Create a Mi Account to enjoy all of Xiaomi's online services"</string>
   <string name="miliao_account_login">Sign in with MiTalk</string>
   <string name="mms_title">Multimedia messaging</string>
   <string name="multi_select_title">%1$s selected</string>
@@ -199,7 +199,7 @@
   <string name="sc_internal_server_error">Internal server error</string>
   <string name="sc_network_unavailable">Network connection error</string>
   <string name="sc_others">An error occurred</string>
-  <string name="sc_precondition_failed">You need to link your Xiaomi Account with a valid email address</string>
+  <string name="sc_precondition_failed">You need to associate your Mi Account with a valid email address</string>
   <string name="sc_request_timeout">Request timed out</string>
   <string name="sc_service_unavailable">Mi Cloud unavailable</string>
   <string name="sc_unaccess_password_file">"Don't store WLAN password"</string>

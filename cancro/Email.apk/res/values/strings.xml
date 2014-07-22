@@ -568,6 +568,9 @@ CC: %4$s
   <string name="outbox_alert_button_confirm">Edit</string>
   <string name="outbox_alert_button_no_resend">"Don't send"</string>
   <string name="outbox_alert_button_resend">Resend</string>
+  <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
+  <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
+  <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
   <string name="outbox_alert_description_sent_failed">"Attachment's size exceeds the recipient's limit."</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
   <string name="outbox_alert_title_sent_failed">"Can't send mail"</string>

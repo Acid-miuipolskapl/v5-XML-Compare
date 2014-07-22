@@ -409,7 +409,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_selectablezoneaf_default">auto</string>
   <string name="pref_camera_settings_category">Camera settings</string>
   <string name="pref_camera_settings_title">Settings</string>
-  <string name="pref_camera_shader_coloreffect_default">-1</string>
+  <string name="pref_camera_shader_coloreffect_default">normal</string>
   <string name="pref_camera_sharpness_default">12</string>
   <string name="pref_camera_sharpness_title">Sharpness</string>
   <string name="pref_camera_show_gender_age_default">on</string>

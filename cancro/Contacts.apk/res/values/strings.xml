@@ -1145,6 +1145,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
+  <string name="yellowpage_navigation_search_result_average_price">Average %d RMB</string>
   <string name="yellowpage_navigation_search_result_network_error">"Couldn't connect to network"</string>
   <string name="yellowpage_navigation_search_result_no_more">No more results</string>
   <string name="yellowpage_navigation_search_result_service_error">Service unavailable</string>
