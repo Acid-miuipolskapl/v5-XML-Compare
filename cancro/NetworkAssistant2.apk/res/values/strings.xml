@@ -93,10 +93,10 @@ For more info check the message you received from your service provider"</string
 a mobile data connection"</string>
   <string name="main_button_idel_traffic">Off-peak</string>
   <string name="main_button_normal_traffic">Peak</string>
-  <string name="main_button_usage_adjust">Set data usage</string>
-  <string name="main_button_usage_adjust_manual">Set data usage</string>
+  <string name="main_button_usage_adjust">Set data usage limit</string>
+  <string name="main_button_usage_adjust_manual">Set data usage limit</string>
   <string name="main_button_usage_adjusting">Changing…</string>
-  <string name="main_button_usage_package_setting">Set data usage</string>
+  <string name="main_button_usage_package_setting">Set data usage limit</string>
   <string name="main_toolbar_firewall">Restrict</string>
   <string name="main_toolbar_purchase">Top-up</string>
   <string name="main_toolbar_saving">Saver</string>
@@ -109,9 +109,14 @@ Remaining"</string>
 Used"</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Set data usage</string>
+  <string name="mi_service_app_detail">Data usage details</string>
+  <string name="mi_service_framework">Mi Service Framework</string>
+  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+  <string name="mi_service_traffic_detail">Framework details</string>
   <string name="network_assistant_upgraded_body">Tap to restrict data usage</string>
   <string name="network_assistant_upgraded_title">Update finished</string>
   <string name="network_control">View app settings</string>
+  <string name="none_mi_service_app_detail">Empty</string>
   <string name="notification_content_title">Used %1$s while locked</string>
   <string name="notification_title">%1$s-%2$s: about %3$s used</string>
   <string name="ok_button">OK</string>
@@ -178,12 +183,14 @@ Used"</string>
   <string name="pref_title_traffic_speed_state">Show network speed</string>
   <string name="pref_title_update_notification">Show data usage notifications</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Will enabling Data Saver affect my privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;No. Your data will remain private and will not be shared with third parties. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Why isn't Data Saver working? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data Saver only kicks in when you're using your carrier's network to send or download content."</string>
+  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Will enabling Data Saver affect my privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Your data will remain private and will not be shared with third parties. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Why isn't Data Saver working? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data Saver only kicks in when you're using your carrier's network to send or download content."</string>
   <string name="pref_traffic_saving_notify_switch">Show in notification shade</string>
   <string name="pref_traffic_saving_notify_switch_hint">Show Data Saver info in the notification shade</string>
   <string name="pref_traffic_saving_switch">Data Saver</string>
   <string name="pref_traffic_saving_switch_hint">Use proxy to compress data</string>
   <string name="pref_traffic_saving_title">Data saver settings</string>
+  <string name="pref_traffic_saving_whitelist">Exceptions</string>
+  <string name="pref_traffic_saving_whitelist_hint">"These apps' data usage will not be restricted"</string>
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Data usage warning level</string>
   <string name="right_precent">100%</string>
@@ -221,14 +228,21 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_protection_unknown">&lt;u&gt;Set up later&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Data enabled</string>
   <string name="traffic_saving_button_sorted">Details</string>
-  <string name="traffic_saving_button_sorted_chose_simcard">选择排行</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Sort by</string>
   <string name="traffic_saving_button_start">Enable</string>
   <string name="traffic_saving_button_stop">Disable</string>
   <string name="traffic_saving_history_title">History</string>
-  <string name="traffic_saving_history_total_money">Cash saved</string>
-  <string name="traffic_saving_history_total_money_unit"/>
+  <string name="traffic_saving_history_total_money">约合人民币</string>
+  <string name="traffic_saving_history_total_money_unit">元</string>
+  <string name="traffic_saving_history_total_month">本月您节省的流量相当于</string>
+  <string name="traffic_saving_history_total_month_default">我们每月为用户平均节省的流量相当于</string>
+  <string name="traffic_saving_history_total_month_value">"在线听歌 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 首 / 在线聊天 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 小时 / 在线阅读 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 篇新闻"</string>
+  <string name="traffic_saving_history_total_month_value_default">"在线听歌 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 首 / 在线聊天 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 小时 / 在线阅读 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 篇新闻"</string>
+  <string name="traffic_saving_history_total_rate">节省率</string>
+  <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Data saved</string>
-  <string name="traffic_saving_msg_month">This month: %1$s (RMB %2$s)</string>
+  <string name="traffic_saving_msg_month">当月节省</string>
+  <string name="traffic_saving_msg_not_started">尚未开启</string>
   <string name="traffic_saving_msg_today">Saved today:</string>
   <string name="traffic_saving_notify_start_content">%s saved this month</string>
   <string name="traffic_saving_notify_start_title">Reduce your data usage</string>
@@ -238,6 +252,13 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_toast_start_none_mobile">Data Saver will start whenever you begin consuming mobile data</string>
   <string name="traffic_saving_toast_start_unreachable">"Can't start Data Saver"</string>
   <string name="traffic_saving_toast_stop">Data Saver is off</string>
+  <string name="traffic_saving_whitelist_btn_add">Add</string>
+  <string name="traffic_saving_whitelist_btn_add_app">Add</string>
+  <string name="traffic_saving_whitelist_btn_added">Added</string>
+  <string name="traffic_saving_whitelist_btn_remove">Remove</string>
+  <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
+  <string name="traffic_saving_whitelist_count">"%d apps' data usage are not being restricted"</string>
+  <string name="traffic_saving_whitelist_no_app">No apps</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
   <string name="traffic_setting_fragment_button2_text">Save</string>
