@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">DS</string>
+  <string name="game">Game</string>
+  <string name="movie">Movie</string>
+  <string name="music">Music</string>
+  <string name="name_widget_extra_large">DS 6 Profile Widget</string>
+  <string name="name_widget_large">DS 3 Profile Widget</string>
+  <string name="name_widget_small">DS On/Off Widget</string>
+  <string name="preset_1">Custom 1</string>
+  <string name="preset_2">Custom 2</string>
+  <string name="remote_service_stopped">Remote service has stopped</string>
+  <string name="voice">Voice</string>
+</resources>
