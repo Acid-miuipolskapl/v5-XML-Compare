@@ -109,6 +109,7 @@
   <string name="error_device_id">"Can't get IMEI"</string>
   <string name="error_dup_phone">This phone number is already associated with another account</string>
   <string name="error_invalid_dev_id">Invalid device ID</string>
+  <string name="error_login">"Couldn't sign in"</string>
   <string name="error_network">"Can't connect to network"</string>
   <string name="error_no_sms_service">"Can't send text message. Mobile network not available."</string>
   <string name="error_phone_error">Invalid phone number</string>
@@ -227,7 +228,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="mili_center">Mi Credit</string>
   <string name="next">Next</string>
-  <string name="noRemind">"Don't remind me"</string>
+  <string name="noRemind">"Don't show again"</string>
   <string name="nobind">Not bound</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Enter your password</string>
@@ -242,6 +243,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="reg_type_phone">Create account using phone number</string>
   <string name="reging">Creating account…</string>
   <string name="relogin">Sign in again</string>
+  <string name="relogin_notice">You need to sign in again</string>
   <string name="remove_account_notice">What would you like to do with the messages, contacts, music, and notes on this device that have been synced from your Mi Account?</string>
   <string name="remove_confirm">Sign out</string>
   <string name="remove_unactivated_account_notice">"Your account hasn't been activated yet."</string>

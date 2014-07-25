@@ -232,17 +232,17 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_button_start">Enable</string>
   <string name="traffic_saving_button_stop">Disable</string>
   <string name="traffic_saving_history_title">History</string>
-  <string name="traffic_saving_history_total_money">约合人民币</string>
-  <string name="traffic_saving_history_total_money_unit">元</string>
-  <string name="traffic_saving_history_total_month">本月您节省的流量相当于</string>
-  <string name="traffic_saving_history_total_month_default">我们每月为用户平均节省的流量相当于</string>
-  <string name="traffic_saving_history_total_month_value">"在线听歌 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 首 / 在线聊天 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 小时 / 在线阅读 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 篇新闻"</string>
-  <string name="traffic_saving_history_total_month_value_default">"在线听歌 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 首 / 在线聊天 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 小时 / 在线阅读 &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; 篇新闻"</string>
-  <string name="traffic_saving_history_total_rate">节省率</string>
+  <string name="traffic_saving_history_total_money">Total saved</string>
+  <string name="traffic_saving_history_total_money_unit">RMB</string>
+  <string name="traffic_saving_history_total_month">"Saved this month: "</string>
+  <string name="traffic_saving_history_total_month_default">Avg monthly savings:</string>
+  <string name="traffic_saving_history_total_month_value">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+  <string name="traffic_saving_history_total_month_value_default">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+  <string name="traffic_saving_history_total_rate">Rate</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Data saved</string>
-  <string name="traffic_saving_msg_month">当月节省</string>
-  <string name="traffic_saving_msg_not_started">尚未开启</string>
+  <string name="traffic_saving_msg_month">Saved this month:</string>
+  <string name="traffic_saving_msg_not_started">Data Saver is off</string>
   <string name="traffic_saving_msg_today">Saved today:</string>
   <string name="traffic_saving_notify_start_content">%s saved this month</string>
   <string name="traffic_saving_notify_start_title">Reduce your data usage</string>

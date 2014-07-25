@@ -147,7 +147,7 @@
   <string name="click_close">Tap to close</string>
   <string name="close_dial_pad">Close dial pad</string>
   <string name="cloud_antispam_mark">Label as spam</string>
-  <string name="cloud_antispam_title">Indentify unknown numbers</string>
+  <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>
   <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone.</string>
   <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
@@ -201,12 +201,6 @@
   <string name="createContactShortcutSuccessful">Contact widget added to Home screen</string>
   <string name="create_group_dialog_title">Create new group</string>
   <string name="create_group_item_label">Create new group</string>
-  <string name="cta_notice_checkbox">"Don't show me this again"</string>
-  <string name="cta_notice_new_contact_message">Saving contacts under account \"%s\" will access network, agree?</string>
-  <string name="cta_notice_ok">Agree</string>
-  <string name="cta_notice_photo_message">Editing contacts photo with photo package will access network, agree?</string>
-  <string name="cta_notice_settings">Remind when accessing network</string>
-  <string name="cta_notice_title">Remind</string>
   <string name="customLabelPickerTitle">Custom label name</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
