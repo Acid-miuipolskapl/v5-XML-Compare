@@ -4,7 +4,6 @@
         <item>@string/safe_relative</item>
         <item>@string/privacy_relative</item>
         <item>@string/other_relative</item>
-        <item>@string/ad_relative</item>
     </string-array>
     <string-array name="perimission_action_entries">
         <item>@string/perm_action_accept</item>

@@ -89,7 +89,6 @@
   <string name="file_info_modified">Last modified:</string>
   <string name="file_info_size">Size:</string>
   <string name="file_loading">Loading…</string>
-  <string name="file_not_exist">file not exist</string>
   <string name="file_too_large">File is too big.</string>
   <string name="finished">Complete</string>
   <string name="folder_exist">The folder already exists</string>
@@ -128,37 +127,8 @@
   <string name="menu_item_sort_type">Type</string>
   <string name="migrate_announcement_msg">Sync your existing KuaiPan account with your Mi Account in KuaiPan settings.</string>
   <string name="migrate_announcement_title">Move complete</string>
-  <string name="mobile_photo">Phone photos</string>
-  <string name="mobile_photo_desc"/>
   <string name="move_failed">Failed to cut</string>
   <string name="multi_select_title">%1$s selected</string>
-  <string name="my_app">App data</string>
-  <string name="my_app_desc"/>
-  <string name="my_bak">Backups</string>
-  <string name="my_bak_desc"/>
-  <string name="my_bakup">Phone backups</string>
-  <string name="my_bakup_app">Apps</string>
-  <string name="my_bakup_app_desc"/>
-  <string name="my_bakup_doc">Docs</string>
-  <string name="my_bakup_doc_desc"/>
-  <string name="my_bakup_music">Music</string>
-  <string name="my_bakup_music_desc"/>
-  <string name="my_bakup_other">Other</string>
-  <string name="my_bakup_other_desc"/>
-  <string name="my_bakup_pic">Photos</string>
-  <string name="my_bakup_pic_desc"/>
-  <string name="my_bakup_video">Videos</string>
-  <string name="my_bakup_video_desc"/>
-  <string name="my_camera_album">Albums</string>
-  <string name="my_camera_album_desc"/>
-  <string name="my_doc">Docs</string>
-  <string name="my_doc_desc"/>
-  <string name="my_music">Music</string>
-  <string name="my_music_desc"/>
-  <string name="my_photo">Photos</string>
-  <string name="my_photo_desc"/>
-  <string name="my_video">Videos</string>
-  <string name="my_video_desc"/>
   <string name="name_illegal">Enter a name</string>
   <string name="net_lose_connected">Connection lost</string>
   <string name="networkView_notConnected">"Can't connect to the network"</string>
@@ -179,7 +149,6 @@
 1. Download the file again to make sure you have the most recent version.
 2. Upload it your KuaiPan account."</string>
   <string name="open_changed_file_title">Change applied</string>
-  <string name="open_file_failed">open failed</string>
   <string name="operating">Processing…</string>
   <string name="operation_agree">Agree</string>
   <string name="operation_cancel">Cancel</string>
@@ -232,9 +201,6 @@
   <string name="server_control_advanced_settings">FTP settings</string>
   <string name="server_control_charset">Transfer encoding</string>
   <string name="server_control_settings">Settings</string>
-  <string name="share_box">Shared</string>
-  <string name="share_box_receive">Received</string>
-  <string name="share_box_send">Sent</string>
   <string name="share_link_failed">Failed to generate link</string>
   <string name="show_message">You need to download this file before you can open it.</string>
   <string name="sign_description">Signing in…</string>

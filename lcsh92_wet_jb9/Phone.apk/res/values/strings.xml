@@ -183,7 +183,7 @@
   <string name="calling_via_template">Calling via %s</string>
   <string name="calling_via_template_miui">"Calling via ^1
 "&lt;b&gt;^2&lt;/b&gt;</string>
-  <string name="callwait_open_hint">\"Call waiting\" is a feature provided by your mobile service provider. If you receive an error notification, contact your service provider and make sure that this feature is enabled for your number.</string>
+  <string name="callwait_open_hint">\"来电等待\"是运营商提供的服务,如果您收到\"MMI码错误\"的提示,请联系当地运营商开通来电等待业务</string>
   <string name="cancel">Cancel</string>
   <string name="cannot_answered_Video_Call">Video call cannot be answered since there is already a voice call</string>
   <string name="cannot_answered_Voice_Call">Voice call cannot be answered since there is already a video call</string>
@@ -928,7 +928,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_group_title_miui">Mobile network (%s)</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">Prefer 3G networks</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred_miui">Prefer 4G networks</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatic</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">2G networks only (saves battery)</string>

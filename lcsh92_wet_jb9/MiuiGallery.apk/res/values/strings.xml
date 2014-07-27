@@ -38,8 +38,6 @@
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Notice</string>
-  <string name="alert_init_merged_message">"Now, photos on your device and photos you've stored in Mi Cloud will be displayed together."</string>
-  <string name="alert_init_merged_title">All your photos. Together at last.</string>
   <string name="alert_message_open_sync">You need to enable sync first.</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -457,7 +455,6 @@
   <string name="clear_thumbnail_cache">Clear thumbnail cache</string>
   <string name="clear_thumbnail_cache_confirm">All thumbnails cached in Browser will be cleared.</string>
   <string name="clear_thumbnail_cache_summary">Clear thumbnails cached in Browser</string>
-  <string name="click_to_add_picture">Click to add images</string>
   <string name="click_top_right">Tap the icon on the top-right</string>
   <string name="close">Close</string>
   <string name="cloud_album_more_settings">Sync with Mi Cloud</string>
@@ -545,7 +542,8 @@ album from anywhere.
   <string name="download">Download</string>
   <string name="download_fail">Failed to download</string>
   <string name="download_fail_confirm_continue">Failed to download %s. Continue?</string>
-  <string name="download_refocus_data">Download refocusing data</string>
+  <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; uniform bool mg_Transparent_Title_Enabled; uniform vec2 mg_Transparent_Title; uniform float mg_Transparent_Title_E; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Transparent_Title_Enabled &amp;&amp; gl_FragCoord.y &gt;= mg_Transparent_Title[1]) { discard; } if(mg_Texture0_Weight &gt; 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight &gt; 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight &gt; 0.05) { col += mg_Color * mg_Color_Weight; } if(mg_Transparent_Title_Enabled &amp;&amp; gl_FragCoord.y &gt;= mg_Transparent_Title[0]) { col = clamp(col, vec4(0), vec4(1)); float total = mg_Transparent_Title[1] - mg_Transparent_Title[0]; float toTop = mg_Transparent_Title[1] - gl_FragCoord.y; float scale = toTop / total; col.a *= pow(scale, mg_Transparent_Title_E); } if(col.a &lt; 0.01) { discard; } gl_FragColor = col; }</string>
+  <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Duration</string>
   <string name="edit">Edit</string>
@@ -646,9 +644,7 @@ album from anywhere.
   <string name="invalid_invition_url">Invalid invitation URL</string>
   <string name="invalid_recipient_message">The recipient names you entered are invalid</string>
   <string name="iso">ISO</string>
-  <string name="item_not_sync_for_origin_image">This picture has not been synchronized to the cloud and its origin image can not be downloaded</string>
-  <string name="item_not_sync_for_origin_video">This video has not been synchronized to the cloud and can not be downloaded</string>
-  <string name="item_not_sync_for_refocus_data">This picture has not been synchronized to the cloud and its refocus data can not be downloaded</string>
+  <string name="item_not_sync">This item has not been synchronized to the cloud and can not be downloaded</string>
   <string name="kick_owner_user_positive_button_text">Remove</string>
   <string name="kick_owner_user_title">Remove this member?</string>
   <string name="kick_sharer">Remove shared used</string>
@@ -662,11 +658,9 @@ album from anywhere.
   <string name="loading_thumbnail">Downloading thumbnail…</string>
   <string name="loading_video">Downloading video…</string>
   <string name="local_albums">Local images</string>
-  <string name="local_time">(Local)</string>
   <string name="location">Location</string>
   <string name="locations">Locations</string>
   <string name="lomoish">Lomo</string>
-  <string name="long_press_to_refocus">Keep pressing to refocus</string>
   <string name="make_download_dir_fail">Failed to create a directory to store the files</string>
   <string name="maker">Maker</string>
   <string name="manual">Manual</string>
@@ -736,7 +730,6 @@ album from anywhere.
   <string name="path">Path</string>
   <string name="people">People</string>
   <string name="photo_page_always_rotate">Auto-rotate images</string>
-  <string name="photo_page_detail_show_in_the_map">Show the location in the map</string>
   <string name="photo_page_save_image">Save</string>
   <string name="photo_page_save_uri_image_fail">Failed to save photo.</string>
   <string name="photo_page_save_uri_image_ok">Photo saved to Camera photos.</string>
@@ -749,7 +742,7 @@ album from anywhere.
   <string name="picker_no_album_selected">No album selected</string>
   <string name="picker_no_items_selected">No items selected</string>
   <string name="picker_select_album_title_empty">Select an album</string>
-  <string name="picker_tab_photo">Photo</string>
+  <string name="picker_tab_camera">Camera</string>
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Preparing to delete images…</string>
@@ -765,7 +758,6 @@ album from anywhere.
   <string name="redeye">Red Eye</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tap to remove red eyes</string>
-  <string name="refocus_data_downloading">Downloading refocusing data…</string>
   <string name="remove_hidden_album">Unhide album</string>
   <string name="remove_recent_album">Remove from favorites</string>
   <string name="rename_failed">Failed to rename</string>
@@ -854,7 +846,6 @@ album from anywhere.
   <string name="slideshow_repeat_mode">Loop</string>
   <string name="slideshow_time_select_title">Set slideshow duration</string>
   <string name="slideshow_time_title">Duration</string>
-  <string name="start_slide_show">Start slide show</string>
   <string name="storage_all_volumes">All storage devices</string>
   <string name="storage_no_space">Not enough space</string>
   <string name="straighten">Straighten</string>
@@ -866,7 +857,6 @@ album from anywhere.
   <string name="sync_album_set_error">Failed to download the list of albums. Please retry later.</string>
   <string name="sync_album_summary">Upload photos to your cloud</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
-  <string name="sync_in_progress_message">Sync is now in progressing...</string>
   <string name="sync_only_in_wifi">Upload via WLAN only</string>
   <string name="sync_only_in_wifi_alert">Turning off this option may increase your mobile data usage.</string>
   <string name="sync_only_in_wifi_summary">Gallery will use your mobile network to upload images when this option is switched off</string>
@@ -890,10 +880,6 @@ album from anywhere.
   <string name="to_count">%d total</string>
   <string name="too_many_recipients">Too many recipients (%1$s). (Max: %2$s recipients)</string>
   <string name="try_to_send">Send</string>
-  <string name="ubifocus_data_missing">Some data is lost</string>
-  <string name="ubifocus_guide_text">Long press to refocus</string>
-  <string name="ubifocus_map_error">Some data is wrong</string>
-  <string name="ubifocus_refocus_fail_tip">Cannot refocus due to some missing or wrong data</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Failed to unpublish</string>
