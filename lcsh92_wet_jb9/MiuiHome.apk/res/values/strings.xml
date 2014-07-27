@@ -10,6 +10,7 @@
   <string name="aqi_quality_index_light_pollution">Light pollution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
+  <string name="bad_wallpaper_source_prompt">Failed to load wallpaper</string>
   <string name="cancel_action">Cancel</string>
   <string name="cancel_btn_label">Cancel</string>
   <string name="chooser_wallpaper">Choose wallpaper from</string>
@@ -20,7 +21,6 @@
   <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_name">Default</string>
-  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -180,6 +180,11 @@
   <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
+  <string name="status_downloaded">downloaded</string>
+  <string name="status_downloading">downloading</string>
+  <string name="status_installing">installing</string>
+  <string name="status_paused">paused</string>
+  <string name="status_pending">pending</string>
   <string name="title_select_shortcut">Select shortcut</string>
   <string name="toggle_select_title">Choose toggle</string>
   <string name="toggle_title">Toggles</string>

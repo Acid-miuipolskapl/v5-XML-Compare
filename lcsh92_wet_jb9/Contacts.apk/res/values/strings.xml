@@ -6,8 +6,9 @@
   <string name="accessibility_calllog_detail">Call log details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>
+  <string name="account_msim">SIM card %s</string>
   <string name="account_phone">Phone-only, unsynced</string>
-  <string name="account_sim">SIM card %s</string>
+  <string name="account_sim">SIM card</string>
   <string name="account_type_format">%1$s contact</string>
   <string name="account_unactivated">Account not activated</string>
   <string name="actionIncomingCall">Incoming calls</string>
@@ -360,7 +361,8 @@ Contact data stored in your Xiaomi Account will also be deleted."</string>
   <string name="export_sim_contact_finish_success">Copied %d contacts</string>
   <string name="export_sim_contacts_dialog_message">Your SIM card can store %d contacts</string>
   <string name="export_to_sdcard">Export to storage</string>
-  <string name="export_to_sim">Export to SIM card 1</string>
+  <string name="export_to_sim">Export to SIM card</string>
+  <string name="export_to_sim1">Export to SIM card 1</string>
   <string name="export_to_sim2">Export to SIM card 2</string>
   <string name="export_to_sim_title">Exporting…</string>
   <string name="export_vcard_description">Export vCard to SD card</string>
@@ -438,7 +440,8 @@ Reason: \"%s\""</string>
   <string name="import_failure_no_vcard_file">No vCard file found on the SD card.</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
-  <string name="import_from_sim">Import from SIM card 1</string>
+  <string name="import_from_sim">Import from SIM card</string>
+  <string name="import_from_sim1">Import from SIM card 1</string>
   <string name="import_from_sim2">Import from SIM card 2</string>
   <string name="import_multiple_vcard_string">Import multiple vCard files</string>
   <string name="import_name">Name</string>
@@ -511,6 +514,7 @@ Reason: \"%s\""</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
   <string name="meid">MEID</string>
+  <string name="meid_invalid">Invalid MEID</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Add to favorites</string>
   <string name="menu_bar_group_add">Add</string>

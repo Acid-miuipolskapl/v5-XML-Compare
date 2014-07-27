@@ -2,6 +2,11 @@
 <resources>
   <string name="Parse_error_dlg_text">There is a problem parsing the package.</string>
   <string name="Parse_error_dlg_title">Parse error</string>
+  <string name="ad_block_button_title">Block adware</string>
+  <string name="ad_relative">Adware</string>
+  <string name="adware_count">Contains %d plugins</string>
+  <string name="adware_hint">These plugins are used by third-party developers to display advertisements on your device</string>
+  <string name="adware_title">AdWare</string>
   <string name="allow_source_dlg_text">"%1$s wants to install other apps.
 
 Allow this now and in the future?"</string>

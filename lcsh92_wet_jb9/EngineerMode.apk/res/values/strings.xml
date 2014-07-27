@@ -1621,11 +1621,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
 
  MCR: Read and write WLAN control register. Warning: The operation of non-professionals is forbidden.
 
- NVRAM: Read and write WLAN NVRAM, could accessed in word or byte string.
-
- Switch: Some switches used by RD.
-
-"</string>
+ NVR\u0091\u0015"</string>
   <string name="wifi_item_dpd">DPD Calibration</string>
   <string name="wifi_item_mcr">MCR</string>
   <string name="wifi_item_nvram">NVRAM</string>

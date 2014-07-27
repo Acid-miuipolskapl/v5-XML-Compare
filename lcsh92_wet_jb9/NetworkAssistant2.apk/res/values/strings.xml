@@ -8,7 +8,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
   <string name="app_detail">Details</string>
-  <string name="app_mobile">Mobile data</string>
+  <string name="app_mobile">Mobile</string>
   <string name="app_name">Data usage</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
@@ -25,7 +25,7 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="data_usage_leisure_warning_body">Touch to view data usage details</string>
   <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
   <string name="data_usage_limit_body">Touch to enable mobile data</string>
-  <string name="data_usage_limit_snoozed_body">"You've exceeded your data usage limit"</string>
+  <string name="data_usage_limit_snoozed_body">"You've exceeded your data usage limit for the month."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Data usage limit exceeded</string>
   <string name="data_usage_mobile_limit_title">Mobile data has been disabled</string>
   <string name="data_usage_no_total_package_body">Do you want to set a data usage limit?</string>
@@ -35,6 +35,29 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="data_usage_restricted_title">Background data restricted</string>
   <string name="data_usage_warning_body">Touch to view data usage details</string>
   <string name="data_usage_warning_title">Data usage warning</string>
+  <string name="datausage_purchase_backto_ns">Back</string>
+  <string name="datausage_purchase_banner_title">"You're %s over your limit"</string>
+  <string name="datausage_purchase_buy">Buy</string>
+  <string name="datausage_purchase_confirm_tip">Order:</string>
+  <string name="datausage_purchase_get_captcha">Get verification code(%d)</string>
+  <string name="datausage_purchase_get_captcha_again">Send again</string>
+  <string name="datausage_purchase_get_captcha_failed">"Can't get verification code. Check your data connection and try again."</string>
+  <string name="datausage_purchase_goto_monthsetting">Readjust data limit</string>
+  <string name="datausage_purchase_ordering">Purchasing…</string>
+  <string name="datausage_purchase_pay_captcha_hint">Enter verification code</string>
+  <string name="datausage_purchase_pay_captcha_tips">"After you've entered your verification code tap Pay. You'll receive a confirmation within 10 minutes."</string>
+  <string name="datausage_purchase_pay_confirm">Pay</string>
+  <string name="datausage_purchase_pay_hint">To cancel call %s</string>
+  <string name="datausage_purchase_pkglist_networkerror">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="datausage_purchase_pkglist_nodata">"There's a conflict with your existing data plan and your current order. Contact your service provider for more information."</string>
+  <string name="datausage_purchase_pkglist_servererror">Server error</string>
+  <string name="datausage_purchase_result_failed">"Can't complete purchase"</string>
+  <string name="datausage_purchase_result_ok">"You purchased %s
+See the message sent by your service provider for more info."</string>
+  <string name="datausage_purchase_title_confirm">Purchase details</string>
+  <string name="datausage_purchase_title_order">Buy data</string>
+  <string name="datausage_purchase_title_pkglist">Buy data</string>
+  <string name="datausage_purchase_view_detail">View details</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deleted_apps">Deleted Apps</string>
   <string name="detail_app_button">Details</string>
@@ -65,14 +88,14 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="lock_screen_traffic_warn_title">Data usage warning</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
   <string name="main_alert_message_no_mobile_package">"Mobile data limit hasn't been set"</string>
-  <string name="main_alert_message_slot_no_data_connection">"The SIM card slot doesn't support
+  <string name="main_alert_message_slot_no_data_connection">"SIM card slot doesn't support
 a mobile data connection"</string>
   <string name="main_button_idel_traffic">Off-peak</string>
   <string name="main_button_normal_traffic">Peak</string>
-  <string name="main_button_usage_adjust">Set mobile data usage</string>
-  <string name="main_button_usage_adjust_manual">Set mobile data usage</string>
+  <string name="main_button_usage_adjust">Set data usage</string>
+  <string name="main_button_usage_adjust_manual">Set data usage</string>
   <string name="main_button_usage_adjusting">Changing…</string>
-  <string name="main_button_usage_package_setting">Set mobile data usage</string>
+  <string name="main_button_usage_package_setting">Set data usage</string>
   <string name="main_toolbar_firewall">Restrict</string>
   <string name="main_toolbar_purchase">Top-up</string>
   <string name="main_toolbar_statistic">Stats</string>
@@ -158,11 +181,25 @@ Used"</string>
   <string name="settings">Data usage settings</string>
   <string name="sorted_button">Sort by</string>
   <string name="sorted_dialog_title">Sort by</string>
+  <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="stop_app_button">Stop</string>
   <string name="system_app">System Apps</string>
   <string name="text_day"/>
   <string name="tips_dialog_title">"Don't know your limit?"</string>
   <string name="tips_message">"If you're unclear about the details of your wireless plan, you can view them by dialing %2$s (%1$s)."</string>
+  <string name="traffic_config_alert_body">"Your carrier's data usage accounting shows you have %s remaining.
+Do you want to update your local data usage limit?"</string>
+  <string name="traffic_config_alert_body_leisure">"
+Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. This is different from the %2$s limit you've set locally."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. You haven't set a limit."</string>
+  <string name="traffic_config_alert_body_normal">"
+Your carrier's data usage accounting shows you have %1$s of peak usage remaining. This is different from the %2$s limit you've set locally."</string>
+  <string name="traffic_config_alert_cancel">Cancel</string>
+  <string name="traffic_config_alert_nomore">"Don't ask again"</string>
+  <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_setted">Data limit set</string>
+  <string name="traffic_config_alert_title">%s difference</string>
   <string name="traffic_correction_failed">"Can't get data usage info"</string>
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>

@@ -7,7 +7,12 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">版本号</string>
   <string name="actors_colon">"Cast: "</string>
+  <string name="add_more_addons">add more specials</string>
   <string name="add_review">Add comment</string>
+  <string name="addon"/>
+  <string name="addon_category">Hot Specials</string>
+  <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
+  <string name="addon_update_desc">New version found, update mow?</string>
   <string name="adjust_position_next_media_notice">下一个</string>
   <string name="adjust_position_prev_media_notice">上一个</string>
   <string name="airkan_control_device_des">您可以通过底部的按钮控制视频的播放</string>
@@ -90,6 +95,8 @@
   <string name="declaration_content">Do you accept the terms of use stipulated by Sohu Video, iQiyi, and other video content providers?</string>
   <string name="declaration_content_short">Do you accept the terms of use stipulated by Sohu Video, iQiyi, and other video content providers?</string>
   <string name="delete">Delete</string>
+  <string name="delete_addon">Delete</string>
+  <string name="delete_addon_content">Delete this item?</string>
   <string name="delete_media">Delete</string>
   <string name="delete_media_content">Delete this item?</string>
   <string name="di_count_ji">Ep. %d</string>
@@ -110,6 +117,14 @@
   <string name="download_is_success">Has been cached</string>
   <string name="end_live_status">Broadcast has ended</string>
   <string name="episode_suffix">第%d集</string>
+  <string name="failed_text">can not get certificate, retry please!</string>
+  <string name="failed_text_11">verify fail! retry please!</string>
+  <string name="failed_text_21">the film you try to play is not online, please wait!</string>
+  <string name="failed_text_49">the account do not buy this film, can not play, you can buy it in thunder cinema</string>
+  <string name="failed_text_502">the film you try to play is offline or expired, can not play it</string>
+  <string name="failed_text_708">the number of terminal is too many, please play it on the terminal you play ever</string>
+  <string name="failed_text_parse_file">error! wrong file format</string>
+  <string name="failed_title">attention</string>
   <string name="favorite">Star</string>
   <string name="favorited_cannot_hide">"Can't hide starred items"</string>
   <string name="fenghuang">iFeng</string>
@@ -128,7 +143,9 @@
   <string name="fullscreen_hint_vertical">To enter fullscreen, touch the button below</string>
   <string name="fullscreen_to_play">Fullscreen</string>
   <string name="funshion">Funshion</string>
+  <string name="get_cert_file_failed">can not get thunder certificate,please press the back key</string>
   <string name="gong_count_dlna">%d DLNA</string>
+  <string name="gong_count_netdevice">%d net devices</string>
   <string name="gong_count_xiang">%d Videos</string>
   <string name="good">OK</string>
   <string name="have_no_cameravideo">No videos</string>
@@ -144,6 +161,7 @@
   <string name="in_download_notification">%d videos are in caching</string>
   <string name="in_pause">Paused</string>
   <string name="in_waiting">Waiting</string>
+  <string name="install_comfirm">click to install</string>
   <string name="jni_invalid_param">Parameters invalid</string>
   <string name="jni_no_media_source">No media source</string>
   <string name="jni_res_connect_error">"Couldn't connect to network"</string>
@@ -170,6 +188,7 @@
   <string name="loading">&lt;CDATA&gt;Loading &lt;/CDATA&gt;</string>
   <string name="loading_review">&lt;CDATA&gt;Loading &lt;/CDATA&gt;</string>
   <string name="loading_review_failed">Failed to load comment</string>
+  <string name="loading_text">&lt;CDATA&gt;Loading... &lt;/CDATA&gt;</string>
   <string name="loading_tv">&lt;CDATA&gt;Loading &lt;/CDATA&gt;</string>
   <string name="loading_video">&lt;CDATA&gt;Loading &lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">正在载入视频, 请稍候...</string>
@@ -208,12 +227,14 @@
   <string name="mydlna">DLNA resource</string>
   <string name="myfavorite">Starred</string>
   <string name="myfavorite_onlylocal">Starred</string>
+  <string name="net_device_name">net device</string>
   <string name="netease">NetEase</string>
   <string name="network_setting">Network</string>
   <string name="no_comment_tip">"Can't submit an empty comment"</string>
   <string name="no_favorite">No favorites</string>
   <string name="no_favoritehistory">No favorite Channel</string>
   <string name="no_filter_media">"Couldn't find anything. Try altering your search."</string>
+  <string name="no_hot_special">not special</string>
   <string name="no_login_xiaomi_account">Sign in with your Xiaomi Account to submit comments.</string>
   <string name="no_media">Empty</string>
   <string name="no_myfavorite">Not starred</string>
@@ -252,6 +273,7 @@
   <string name="others">Other</string>
   <string name="pause_download">Caching paused</string>
   <string name="paused">Paused</string>
+  <string name="pick_addon_to_delete">choose items</string>
   <string name="pick_hide_to_show">Choose items</string>
   <string name="pick_myfavorite_to_cancel">Choose items</string>
   <string name="pick_video_to_delete">Choose items</string>
@@ -296,6 +318,7 @@
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
   <string name="special_subject">Specials</string>
+  <string name="start_addon">start addon</string>
   <string name="start_download">Start caching</string>
   <string name="start_time">start time</string>
   <string name="subchannel_all">全部</string>
@@ -308,6 +331,7 @@
   <string name="tags_colon">"Genre: "</string>
   <string name="temp_play_history_button_label">Show Play history</string>
   <string name="tencent">Tencent</string>
+  <string name="thunder_cinema">thunder cinema</string>
   <string name="time_colon">"Date: "</string>
   <string name="to_be_play_label_v5">即将播放</string>
   <string name="to_live_status">Waiting for broadcast to begin</string>
@@ -328,6 +352,7 @@
   <string name="update_to_count_ji">Updated to Ep. %d</string>
   <string name="update_to_count_qi">Updated to S. %s</string>
   <string name="updatedalready">Updated</string>
+  <string name="upgrade">Upgrade</string>
   <string name="use_cellular_network">use cellular network</string>
   <string name="use_cellular_network_summary">use cellular network to download videos, this will cause the traffic cost.</string>
   <string name="variety">综艺</string>
@@ -361,6 +386,8 @@
   <string name="write_comment">Add comment</string>
   <string name="xiaomi_account_type_unsupported">"System doesn't support Xiaomi Accounts."</string>
   <string name="xiaomi_user">Xiaomi user</string>
+  <string name="xunlei_cinema_title">thunder cinema</string>
+  <string name="xunlei_login_error">thunder login in error</string>
   <string name="year">Year</string>
   <string name="yestorday">Yesterday</string>
   <string name="yinyuetai">YinYueTai</string>
