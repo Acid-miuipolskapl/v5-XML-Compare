@@ -172,6 +172,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="apn_settings">APNs</string>
   <string name="apn_type">APN type</string>
   <string name="apn_user">Username</string>
+  <string name="app_backup">Backup</string>
   <string name="app_disable_dlg_text">If you disable a built-in app, other apps may misbehave.</string>
   <string name="app_disable_dlg_title">Disable built-in app?</string>
   <string name="app_disable_notifications_dlg_text">If you turn off notifications for this app, you may miss important alerts and updates.</string>
@@ -179,6 +180,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_factory_reset">Uninstall updates</string>
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
+  <string name="app_feedback">Report Bug</string>
   <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app.
 Disable floating windows?"</string>
   <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires the app to restart. You can also stop running the app manually.
@@ -1073,7 +1075,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="free_ram">Memory</string>
-  <string name="free_wifi_confirm">I know</string>
+  <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
   <string name="free_wifi_connect_dialog_title">WLAN available</string>
@@ -1184,6 +1186,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="global_change_warning">This setting affects all users on this phone.</string>
   <string name="global_font_change_title">Change font size</string>
   <string name="global_locale_change_title">Change language</string>
+  <string name="google_backup_section_title">Google backup &amp; restore</string>
   <string name="gsm_to_wifi_connect_type_title">Cellular to WLAN</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration</string>
@@ -1381,6 +1384,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
+  <string name="local_backup_section_summary">Backup system settings, account and apps</string>
+  <string name="local_backup_section_title">Local backups</string>
   <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
   <string name="location_access_title">Access to my location</string>
   <string name="location_gps">GPS satellites</string>
@@ -2713,6 +2718,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">WLAN only</string>
   <string name="system">System</string>
+  <string name="system_backup_section_title">Backup</string>
   <string name="system_cache_title">System cache</string>
   <string name="system_package">"System updates can't be installed on external media."</string>
   <string name="system_storage">Internal storage</string>
@@ -2743,6 +2749,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
   <string name="title_dolby_control">Dobly digital plus</string>
+  <string name="title_font">Font</string>
+  <string name="title_font_current">Using</string>
   <string name="title_font_size">Font size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
   <string name="title_install_virus_no">Install monitor off</string>
@@ -2921,6 +2929,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_default_tts_settings_title">Always use my settings</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
+  <string name="use_network_warning">Xiaomi Service Framework and Cloud Service require network connection</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_profile_item_summary">You can restrict access to apps and content from your account</string>

@@ -4,8 +4,6 @@
 %1$s"</string>
   <string name="app_name">Payment service</string>
   <string name="balance">Balance: %1$s MiCredits</string>
-  <string name="balance_giftcard_payment">%1$s MiCredits (%2$s-MiCredit gift card)</string>
-  <string name="balance_no_giftcard_payment">%1$s MiCredits (cannot use MiCredit gift card for this order)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="bankcall_bank_account">Bank card:</string>
   <string name="bankcall_call_hint">You will receive a call from UnionPay (020-96585) shortly.</string>
@@ -52,14 +50,18 @@
   <string name="btn_wait_call_count">Waiting (%1$s)</string>
   <string name="btn_wait_confirm">Waiting</string>
   <string name="btn_wait_confirm_count">Waiting（%1$s）</string>
+  <string name="button_bind_phone">Bind now</string>
   <string name="button_call">Call</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_confirm">Confirm</string>
+  <string name="button_count_down_reget">Gets the verification code(%1$s)</string>
   <string name="button_next">Next</string>
   <string name="button_pay">Confirm</string>
   <string name="button_recharge">Top up</string>
   <string name="button_recharge_pay">Confirm</string>
+  <string name="button_reget">Gets the verification code</string>
   <string name="button_retry">Retry</string>
+  <string name="button_sms_code">Confirm</string>
   <string name="cancel">Cancel</string>
   <string name="change_security_lock">More screen locks</string>
   <string name="colon">": "</string>
@@ -111,6 +113,7 @@ Please contact Xiaomi customer service."</string>
   <string name="giftcard_expire_notification_prime_title">Yikes! Your promotional code is about to expire …</string>
   <string name="giftcard_expire_notification_sub_title">Your Mi Credit Gift Card expires on %1$s</string>
   <string name="giftcard_hint">MiCredits added via gift card will be spent first automatically.</string>
+  <string name="giftcard_payment">%1$s MiCredits</string>
   <string name="giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit giveaway.</string>
   <string name="giftcard_record">My gift cards</string>
@@ -137,6 +140,7 @@ Please contact Xiaomi customer service."</string>
   <string name="hfb_succ_label">购买成功</string>
   <string name="hfb_succ_result">感谢您使用通信账户支付服务。</string>
   <string name="label_balance">Balance:</string>
+  <string name="label_giftcard">Giftcard:</string>
   <string name="label_order_name">Product:</string>
   <string name="label_order_price">Price:</string>
   <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
@@ -163,7 +167,9 @@ Please contact Xiaomi customer service."</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="login">Login</string>
   <string name="memu_refresh">Refresh</string>
-  <string name="mibi_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s."</string>
+  <string name="mibi_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s. 
+
+You need an internet connection to use Mi Credit."</string>
   <string name="mibi_license_message_span">MiCredit User Agreement</string>
   <string name="mibi_license_title">Terms and conditions</string>
   <string name="mili_center">MiCredit</string>
@@ -186,6 +192,7 @@ Please contact Xiaomi customer service."</string>
   <string name="msg_telecom_order_goods_label">Product description:</string>
   <string name="msg_telecom_sending">Contacting network provider…</string>
   <string name="order_price">%1$s MiCredits</string>
+  <string name="partner_giftcard_payment">%1$sMiCredits（Only for %2$s）</string>
   <string name="password_error">Password incorrect.</string>
   <string name="password_forget">forgot?</string>
   <string name="password_hint">Enter account password</string>
@@ -196,11 +203,13 @@ Please contact Xiaomi customer service."</string>
   <string name="paytool_error_msp">%1$s failed</string>
   <string name="paytool_msp_not_installed">You have not installed %1$s mobile security plugin, install it now?</string>
   <string name="paytool_tenpay">Tenpay</string>
+  <string name="prepaid_card_order_info">%1$s top-up card: RMB %2$s</string>
   <string name="prepaid_edit_limit">digits</string>
   <string name="prepaid_error_card_length">Invalid card number or password.</string>
   <string name="prepaid_error_card_number">Card number invalid.</string>
   <string name="prepaid_error_carrier">Select carrier</string>
   <string name="prepaid_error_denomination">Select amount</string>
+  <string name="prepaid_error_not_choose_carrier">No carrier selected.</string>
   <string name="prepaid_error_password">Card password invalid.</string>
   <string name="prepaid_grid_carrier_hint">Select carrier</string>
   <string name="prepaid_grid_denomination_hint">Select amount</string>
@@ -265,7 +274,12 @@ We will check again within two working days."</string>
   <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
   <string name="scan_prompt_voucher">Scan MiCredit password</string>
   <string name="security_setting">Security settings</string>
+  <string name="sms_code_error">Mobile phone verification code error, please get again</string>
+  <string name="sms_code_hint">Mobile phone verification code</string>
+  <string name="summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
   <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
+  <string name="summary_sms_code">To ensure the safety of your account, please input the verification code received by phone %1$s，and then finish payment</string>
+  <string name="title_bind_phone">Binding mobile phone No.</string>
   <string name="title_change_lockpattern">Configure pattern lock</string>
   <string name="title_discounts">Discounts</string>
   <string name="title_gesture">Pattern lock</string>
@@ -280,6 +294,7 @@ We will check again within two working days."</string>
   <string name="title_pay_record">Payment records</string>
   <string name="title_recharge">Top up MiCredit</string>
   <string name="title_recharge_record">Top-up records</string>
+  <string name="title_sms_code">Please enter the mobile phone verification code</string>
   <string name="title_transaction">Transactions</string>
   <string name="title_visible_pattern">Make pattern visible</string>
   <string name="voucher_edit_hint">Code</string>

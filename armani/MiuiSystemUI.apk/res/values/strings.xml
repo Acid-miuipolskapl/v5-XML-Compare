@@ -27,6 +27,7 @@
   <string name="accessibility_no_wifi">No WLAN.</string>
   <string name="accessibility_no_wimax">No WiMAX.</string>
   <string name="accessibility_notifications_button">Notifications.</string>
+  <string name="accessibility_phone_four_bars">Phone four bars.</string>
   <string name="accessibility_phone_one_bar">Phone one bar.</string>
   <string name="accessibility_phone_signal_full">Phone signal full.</string>
   <string name="accessibility_phone_three_bars">Phone three bars.</string>

@@ -31,8 +31,14 @@
         <item>com.autonavi.xmgd.navigator</item>
     </string-array>
     <string-array name="system_foreground_notification_whitelist">
-        <item>com.miui.fmradio</item>
-        <item>com.android.soundrecorder</item>
+        <item>com.android.settings</item>
+        <item>com.miui.home</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.updater</item>
+        <item>com.miui.backup</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.player</item>
+        <item>com.android.fileexplorer</item>
     </string-array>
     <string-array name="carrier_name">
         <item>SmarToneVodafone</item>

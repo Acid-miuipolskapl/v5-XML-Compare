@@ -386,6 +386,9 @@
   <string name="sms_full_title">Text message memory full</string>
   <string name="sms_rejected_body">An incoming text message was rejected.</string>
   <string name="sms_rejected_title">Text message rejected</string>
+  <string name="sp_category_all">All service messages</string>
+  <string name="sp_category_bank">Bank service messages</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notification messages</string>
   <string name="sp_mark_as_read_progress">Marking as read…</string>
   <string name="sp_mark_as_read_title">Mark all as read</string>
