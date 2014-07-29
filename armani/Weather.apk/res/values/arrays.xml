@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>Text message</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_json_key">
+        <item>wind1</item>
+        <item>紫外线指数</item>
+        <item>穿衣指数</item>
+        <item>舒适度指数</item>
+        <item>洗车指数</item>
+        <item>晾晒指数</item>
+        <item>晨练指数</item>
+        <item>旅游指数</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Wind speed:</item>
+        <item>UV index:　</item>
+        <item>Clothing:</item>
+        <item>Comfort:</item>
+        <item>Car wash:</item>
+        <item>Drying index:</item>
+        <item>AM exercise:</item>
+        <item>Leisure:</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Clear</item>
+        <item>Cloudy</item>
+        <item>Hazy</item>
+        <item>Foggy</item>
+        <item>Severe rain storms</item>
+        <item>Rain storm</item>
+        <item>Heavy rainfall</item>
+        <item>Thunderstorm</item>
+        <item>Showers</item>
+        <item>Heavy rainfall</item>
+        <item>Rain</item>
+        <item>Drizzle</item>
+        <item>Sleet</item>
+        <item>Blizzard</item>
+        <item>Patches of snowfall</item>
+        <item>Heavy snowfall</item>
+        <item>Snowfall</item>
+        <item>Light snowfall</item>
+        <item>Strong sand storm</item>
+        <item>Sand storm</item>
+        <item>Light sand storms</item>
+        <item>Sand storm</item>
+        <item>Hail</item>
+        <item>Dust</item>
+        <item>Haze</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Unavailable</item>
+        <item>Suitable</item>
+        <item>Good</item>
+        <item>Avoid if possible</item>
+        <item>Not recommended</item>
+        <item>Ideal</item>
+        <item>Moderate</item>
+        <item>Weak</item>
+        <item>Medium</item>
+        <item>Strong</item>
+        <item>Very strong</item>
+        <item>Cool</item>
+        <item>Comfortable</item>
+        <item>Very hot</item>
+        <item>Hot</item>
+        <item>Warm</item>
+        <item>Cool</item>
+        <item>Cooler</item>
+        <item>Cold</item>
+        <item>Freezing</item>
+        <item>High</item>
+        <item>Middle</item>
+        <item>Low</item>
+        <item>Clear skies</item>
+        <item>Cloudy</item>
+        <item>Rain</item>
+        <item>Sand storm</item>
+        <item>Snow</item>
+        <item>Relatively suitable</item>
+        <item>Suitable conditions</item>
+        <item>Cloudy</item>
+        <item>Less than ideal</item>
+        <item>Ideal conditions</item>
+        <item>Poor conditions</item>
+        <item>Average conditions</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Be careful out there!</item>
+        <item>Be careful out there!</item>
+        <item>Be careful out there!</item>
+        <item>Be careful out there!</item>
+        <item>Be careful! The roads are slippery.</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Remember to put on sunscreen.</item>
+        <item>It will be cloudy today.</item>
+        <item>Try to stay indoors.</item>
+        <item>Drive safely</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>"It's really coming down out there!"</item>
+        <item>Remember to bring a hat and scarf.</item>
+        <item>Bundle up!</item>
+        <item>Remember to wear a hat and scarf!</item>
+        <item>Remember to wear a hat and scarf!</item>
+        <item>Remember to wear a mask.</item>
+        <item>Remember to wear a mask.</item>
+        <item>Remember to wear a mask.</item>
+        <item>Remember to wear a mask.</item>
+        <item>"It's really coming down out there!"</item>
+        <item>Remember to wear a mask.</item>
+        <item>Try to stay indoors.</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>"It's $ in @."</item>
+        <item>Temperature: % degrees.</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Try to stay dry! :)</item>
+        <item>"If you're drying clothes outside, remember to take them in later!"</item>
+        <item>Avoid driving if possible.</item>
+        <item>Drive safely!</item>
+        <item>"Be careful out there, it's slippery."</item>
+        <item>Take your time. Be careful out there.</item>
+        <item>Be careful outside.</item>
+        <item>Try not to be outdoors.</item>
+        <item>Bring your sunglasses.</item>
+        <item>Wear sunscreen and bring sunglasses.</item>
+        <item>"It's windy out. Remember to wear a jacket."</item>
+        <item>Remember to wear a mask.</item>
+        <item>Remember to bring a jacket.</item>
+        <item>Remember to wear a mask.</item>
+        <item>Remember to bring gloves and a hat.</item>
+        <item>"It's hot out!"</item>
+        <item>Try to stay cool!</item>
+        <item>Bundle up!</item>
+        <item>The temperature may drop…</item>
+        <item>Try to stay warm!</item>
+        <item>Wear ear muffs if you have them!</item>
+        <item>Go outside and enjoy the weather.</item>
+        <item>Go for a run and get some sun!</item>
+        <item>"It's a good day to dry clothes!"</item>
+        <item>Remember to wear a jacket!</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>6</item>
+        <item>"Don't forget to use sunscreen."</item>
+        <item>7</item>
+        <item>"Don't forget to use sunscreen."</item>
+        <item>8</item>
+        <item>"Don't forget to use sunscreen."</item>
+        <item>9</item>
+        <item>Put on sunscreen if you need to go out!</item>
+        <item>10</item>
+        <item>Put on sunscreen if you need to go out!</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>11</item>
+        <item>Light jacket</item>
+        <item>12</item>
+        <item>Light jacket</item>
+        <item>13</item>
+        <item>Summer clothing</item>
+        <item>14</item>
+        <item>Summer clothing</item>
+        <item>15</item>
+        <item>Light jacket</item>
+        <item>16</item>
+        <item>Remember to bring additional layers!</item>
+        <item>17</item>
+        <item>Bring a jacket!</item>
+        <item>18</item>
+        <item>Bundle up!</item>
+        <item>19</item>
+        <item>Bundle up!</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>1</item>
+        <item>"It's a good day for morning exercises"</item>
+        <item>2</item>
+        <item>Bring layers!</item>
+        <item>3</item>
+        <item>Bring layers!</item>
+        <item>4</item>
+        <item>Exercise indoors!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>20</item>
+        <item>Temperature will be stable</item>
+        <item>21</item>
+        <item>Cool and comfortable</item>
+        <item>22</item>
+        <item>Temperature will be volatile</item>
+        <item>23</item>
+        <item>Clear skies and uncomfortable temperatures</item>
+        <item>24</item>
+        <item>Hot and humid!</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>1</item>
+        <item>"It's a good day to wash your car!"</item>
+        <item>2</item>
+        <item>"It's a good day to wash your car!"</item>
+        <item>3</item>
+        <item>"It's going to rain! Hold off on washing your car."</item>
+        <item>25</item>
+        <item>"It's going to rain! Hold off on washing your car."</item>
+        <item>26</item>
+        <item>"There's a sand storm in the forecast! Hold off on washing your car."</item>
+        <item>27</item>
+        <item>"It's going to snow. Hold off on washing your car."</item>
+        <item>4</item>
+        <item>Hold off on washing your car.</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>28</item>
+        <item>Hang your clothes to dry in the afternoon.</item>
+        <item>29</item>
+        <item>Hang your clothes to dry any time.</item>
+        <item>30</item>
+        <item>"It's cloudy, but with the high temperatures, your clothes will still dry."</item>
+        <item>1</item>
+        <item>"It's a great day to dry clothes."</item>
+        <item>3</item>
+        <item>Intermittent rain throughout the day.</item>
+        <item>5</item>
+        <item>Good drying conditions.</item>
+        <item>4</item>
+        <item>Dry your clothing indoors.</item>
+        <item>31</item>
+        <item>Dry your clothing indoors.</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>32</item>
+        <item>Clear and sunny with good temperatures.</item>
+        <item>2</item>
+        <item>Comfortable and stable temperatures.</item>
+        <item>1</item>
+        <item>Comfortable and stable temperatures.</item>
+        <item>3</item>
+        <item>"Today's weather will be volatile."</item>
+        <item>33</item>
+        <item>"Today's weather will be volatile."</item>
+        <item>34</item>
+        <item>Clear skies and mild winds.</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Bundle up!</item>
+        <item>微风</item>
+        <item>Comfortable</item>
+        <item>暂缺</item>
+        <item>Unavailable</item>
+    </string-array>
+</resources>
