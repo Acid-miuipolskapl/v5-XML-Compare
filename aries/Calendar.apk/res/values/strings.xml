@@ -91,12 +91,13 @@
   <string name="do_not_check">Do NOT check -&gt;</string>
   <string name="does_not_repeat">One-time event</string>
   <string name="done">Return</string>
-  <string name="edit_event_all_day_label">ALL DAY</string>
+  <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_calendar_label">Calendar</string>
-  <string name="edit_event_from_label">FROM</string>
+  <string name="edit_event_confirm_message">Discard changes to event?</string>
+  <string name="edit_event_from_label">From</string>
   <string name="edit_event_label">Details</string>
   <string name="edit_event_show_all">Show all</string>
-  <string name="edit_event_to_label">TO</string>
+  <string name="edit_event_to_label">To</string>
   <string name="edit_label">Edit</string>
   <string name="email_guests_label">Email guests</string>
   <string name="email_picker_label">Email with</string>
@@ -167,8 +168,8 @@
   <string name="month_medium_september">Sep</string>
   <string name="month_view">Month</string>
   <string name="monthly">Monthly</string>
-  <string name="monthly_on_day">Monthly (on the same day each month)</string>
-  <string name="monthly_on_day_count">Monthly (%1$s %2$s of every month)</string>
+  <string name="monthly_on_day">Monthly (same day)</string>
+  <string name="monthly_on_day_count">Monthly (%1$s %2$s)</string>
   <string name="more_string">%1$s more...</string>
   <string name="movable_list_header_label">简介</string>
   <string name="new_event_dialog_label">New event</string>
