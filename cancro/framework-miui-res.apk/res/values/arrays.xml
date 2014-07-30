@@ -81,8 +81,6 @@
         <item>Chunghwa</item>
         <item>Taiwan Mobile</item>
         <item>Alibaba</item>
-        <item>China Mcom</item>
-        <item>SOSHARE MOBILE</item>
         <item>ISLACOM</item>
         <item>GLOBE</item>
         <item>Smart</item>
@@ -111,13 +109,12 @@
         <item>XL</item>
         <item>Indosat</item>
         <item>3</item>
-        <item>TRUE-H</item>
-        <item>AIS</item>
-        <item>AIS</item>
-        <item>TRUE-H</item>
-        <item>DTAC</item>
+        <item>TH 3G+</item>
+        <item>TH GSM</item>
         <item>TOT 3G</item>
-        <item>DTAC</item>
+        <item>dtac</item>
+        <item>ACeS</item>
+        <item>GSM 1800</item>
         <item>TRUE</item>
         <item>Mobifone</item>
         <item>Vinaphone</item>
@@ -388,8 +385,6 @@
         <item>46692</item>
         <item>46697</item>
         <item>46001</item>
-        <item>46001</item>
-        <item>46002</item>
         <item>51501</item>
         <item>51502</item>
         <item>51503</item>
@@ -420,11 +415,10 @@
         <item>51089</item>
         <item>52000</item>
         <item>52001</item>
-        <item>52001</item>
-        <item>52000</item>
-        <item>52005</item>
         <item>52015</item>
-        <item>52005</item>
+        <item>52018</item>
+        <item>52020</item>
+        <item>52023</item>
         <item>52099</item>
         <item>45201</item>
         <item>45202</item>
@@ -695,8 +689,6 @@
         <item>46692</item>
         <item>46697</item>
         <item>阿里通信</item>
-        <item>中麦通信</item>
-        <item>分享通信</item>
         <item>51501</item>
         <item>51502</item>
         <item>51503</item>
@@ -727,11 +719,10 @@
         <item>51089</item>
         <item>52000</item>
         <item>52001</item>
-        <item>52003</item>
-        <item>52004</item>
-        <item>52005</item>
         <item>52015</item>
         <item>52018</item>
+        <item>52020</item>
+        <item>52023</item>
         <item>52099</item>
         <item>45201</item>
         <item>45202</item>
@@ -1438,5 +1429,4 @@
         <item>0</item>
         <item>5</item>
     </integer-array>
-    <array name="boot_msg_text" />
 </resources>

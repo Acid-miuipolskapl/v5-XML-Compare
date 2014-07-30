@@ -40,7 +40,7 @@
   <string name="compress_title">Compress</string>
   <string name="confirm">Confirm</string>
   <string name="confirm_know">OK</string>
-  <string name="connect_network_setting_des">Remind me when accessing network</string>
+  <string name="connect_network_setting_des">Remind when accessing network</string>
   <string name="copy_failed">Failed to copy</string>
   <string name="create_kuaipan_shortcut_pref">Add to shortcut Home screen</string>
   <string name="create_new_folder_desctiption">Creating folder…</string>
@@ -89,10 +89,10 @@
   <string name="file_info_modified">Last modified:</string>
   <string name="file_info_size">Size:</string>
   <string name="file_loading">Loading…</string>
-  <string name="file_not_exist">"Doesn't exist"</string>
+  <string name="file_not_exist">file not exist</string>
   <string name="file_too_large">File is too big.</string>
   <string name="finished">Complete</string>
-  <string name="folder_exist">Folder already exists</string>
+  <string name="folder_exist">The folder already exists</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to Recycle bin</string>
   <string name="ftp_account_req_notice">4~16 chars, letters and digits, case sensitive</string>
   <string name="ftp_anonymous_login">Anonymous sign-in</string>
@@ -162,8 +162,8 @@
   <string name="name_illegal">Enter a name</string>
   <string name="net_lose_connected">Connection lost</string>
   <string name="networkView_notConnected">"Can't connect to the network"</string>
-  <string name="network_connect_confirm_des">Using KuaiPan requires a connection to the internet.</string>
-  <string name="never_notify_network_connect">"Don't show again"</string>
+  <string name="network_connect_confirm_des">Using kuaipan will access network, agree?</string>
+  <string name="never_notify_network_connect">"Don't show me this again"</string>
   <string name="new_folder_name">Unnamed folder</string>
   <string name="no">No</string>
   <string name="no_enough_storage_indication">"Device's storage space is full."</string>
@@ -179,9 +179,9 @@
 1. Download the file again to make sure you have the most recent version.
 2. Upload it your KuaiPan account."</string>
   <string name="open_changed_file_title">Change applied</string>
-  <string name="open_file_failed">"Can't open"</string>
+  <string name="open_file_failed">open failed</string>
   <string name="operating">Processing…</string>
-  <string name="operation_agree">OK</string>
+  <string name="operation_agree">Agree</string>
   <string name="operation_cancel">Cancel</string>
   <string name="operation_compress">Compress</string>
   <string name="operation_compressing">Compressing…</string>
@@ -217,7 +217,7 @@
   <string name="operation_unfavorite">Unstar</string>
   <string name="pan_settting">KuaiPan settings</string>
   <string name="paused">Paused</string>
-  <string name="pull_to_signin">Swipe down to sign in</string>
+  <string name="pull_to_signin">Swipe down to sign in.</string>
   <string name="query_bind_state">Connecting with KuaiPan…</string>
   <string name="release_to_signin">Release to sign in</string>
   <string name="rename_description">Renaming…</string>
@@ -252,7 +252,7 @@ Free space added %1$s"</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
   <string name="storage_warning">"Can't use external storage"</string>
-  <string name="system_alert">Internet connection</string>
+  <string name="system_alert">Remind</string>
   <string name="tab_category">Categories</string>
   <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_phone">List view</string>

@@ -802,6 +802,4 @@
         <item>@drawable/ic_hdr_live_on_selector</item>
         <item>@drawable/ic_hdr_live_off_selector</item>
     </array>
-    <item type="array" name="APKTOOL_DUMMY_0070">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0071">false</item>
 </resources>
