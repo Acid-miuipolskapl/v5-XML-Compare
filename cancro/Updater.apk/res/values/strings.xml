@@ -2,8 +2,8 @@
 <resources>
   <string name="about_device">About phone</string>
   <string name="active_xiaomi_account">Active</string>
-  <string name="active_xiaomi_account_msg">To activate your Xiaomi Account, go to https://account.xiaomi.com/pass/serviceLogin.</string>
-  <string name="active_xiaomi_account_title">Activate Xiaomi Account</string>
+  <string name="active_xiaomi_account_msg">To activate your Mi Account, go to https://account.mi.com/pass/serviceLogin.</string>
+  <string name="active_xiaomi_account_title">Activate Mi Account</string>
   <string name="app_name">Updater</string>
   <string name="apply_buddy_update_info_message">After you touch Update, your phone will begin installing the update immediately.</string>
   <string name="apply_existing_update_md5error_title">"MD5 signatures don't match"</string>
@@ -22,7 +22,7 @@
   <string name="boot_recovery">Reboot to Recovery mode</string>
   <string name="cancel_download_buton_text">Cancel</string>
   <string name="check_update">Check for updates</string>
-  <string name="check_update_policy">Settings</string>
+  <string name="check_update_policy">Updater settings</string>
   <string name="check_update_when_wifi_available">Only use WLAN to check for updates</string>
   <string name="checking_for_updates">Checking for updates…</string>
   <string name="choose_recommend">User feedback</string>
@@ -54,7 +54,7 @@
   <string name="experimental_build">Experimental</string>
   <string name="file_not_found_error_message">"Couldn't find the requested update."</string>
   <string name="finish">Finish</string>
-  <string name="finish_download">Download complete</string>
+  <string name="finish_download">Download finished</string>
   <string name="fourgrid_hint_text">Thank you for using the developer build of MIUI. Tell us what you think and help make us MIUI better.</string>
   <string name="fourgrid_no_notificaiont">"Don't show in status bar"</string>
   <string name="fourgrid_notificaiont">Show in status bar</string>
@@ -162,7 +162,7 @@ But you can take part next Tuesday"</string>
   <string name="update_success">Update complete! :)</string>
   <string name="update_success_body">Current version: %s</string>
   <string name="update_success_title">Update complete!</string>
-  <string name="updater_finish_download">Download ROM completed</string>
+  <string name="updater_finish_download">Download finished</string>
   <string name="upgrade_close">Close</string>
   <string name="upgrade_kernel">Your kernel is outdated</string>
   <string name="upgrade_kernel_msg">"The kernel of the version you're using doesn't match the latest version of MIUI's. You need upgrade your kernel manually. Refer to Xiaomi's upgrade tutorial: 

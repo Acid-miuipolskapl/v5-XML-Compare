@@ -64,7 +64,7 @@
   <string name="enable_notification">Location notifications</string>
   <string name="enable_notification_city">Weather notifications enabled for %s</string>
   <string name="enable_notification_summary">Notify me if the forecast changes</string>
-  <string name="first_start_network_toast_text">To get weather info, connect to Internet.</string>
+  <string name="first_start_network_toast_text">To get weather info, you need to connect to the internet.</string>
   <string name="format_date_md">M/d kk:mm</string>
   <string name="format_date_trend_md">M/d</string>
   <string name="format_date_week">EEE</string>

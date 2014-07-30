@@ -22,6 +22,7 @@
   <string name="accessibility_skin_beautify_button">SwitchIndicatorButton</string>
   <string name="accessibility_skin_beautify_closed">Skin tone enhancer disabled</string>
   <string name="accessibility_skin_beautify_opened">Skin tone enhancer enabled</string>
+  <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_control">Zoom control</string>
   <string name="albums">Albums</string>
   <string name="aperture">Aperture</string>
@@ -493,6 +494,7 @@ touch the Shutter button"</string>
   <string name="pref_mtk_camera_saturation_default">middle</string>
   <string name="pref_mtk_camera_sharpness_default">middle</string>
   <string name="pref_mtk_video_quality_default">10</string>
+  <string name="pref_priority_storage_title">Priority saved to external SD card</string>
   <string name="pref_scan_qrcode_default">true</string>
   <string name="pref_scan_qrcode_title">Scan QR code</string>
   <string name="pref_setting_title">Settings</string>
