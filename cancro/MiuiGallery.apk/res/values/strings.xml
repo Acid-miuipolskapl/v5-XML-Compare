@@ -523,7 +523,9 @@ albums from anywhere.
   <string name="crop_fail_to_load_image">"Can't load image"</string>
   <string name="crop_label">Crop</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
+  <string name="crop_recognize_text">Recognize</string>
   <string name="crop_save_text">Save</string>
+  <string name="crop_save_text_setas">Apply</string>
   <string name="crop_tooltip">Drag markers to crop</string>
   <string name="crossprocess">Cross-process</string>
   <string name="cut">Crop</string>
@@ -775,6 +777,7 @@ albums from anywhere.
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\"%s\"</string>
   <string name="recipient_editor_count_format">%d</string>
+  <string name="recognizing_image">Recognizing picture…</string>
   <string name="redeye">Red Eye</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tap to remove red eyes</string>

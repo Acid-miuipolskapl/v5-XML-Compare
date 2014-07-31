@@ -73,6 +73,7 @@
   <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
   <string name="bookmarks">Bookmarks</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
+  <string name="bookmarks_history">Bookmars/History</string>
   <string name="bookmarks_management">Bookmarks</string>
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">Browser</string>
@@ -156,6 +157,7 @@
   <string name="delete_bookmark">unbookmark</string>
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_folder">Delete folder</string>
+  <string name="delete_homepage">delete homepage</string>
   <string name="delete_multi_bookmarks_alert_title">Delete %1$s items?</string>
   <string name="dialog_geolocation_reject">Reject</string>
   <string name="dialog_geolocation_share">Agree</string>
