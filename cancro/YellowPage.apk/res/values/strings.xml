@@ -85,7 +85,7 @@
   <string name="express_confirm_dest_city_prefix">Destination:</string>
   <string name="express_contact_address">Enter your address</string>
   <string name="express_contact_address_finding">Locating…</string>
-  <string name="express_contact_label">Information for Package Pickup service</string>
+  <string name="express_contact_label">Your information</string>
   <string name="express_contact_phone">Enter your phone number</string>
   <string name="express_contact_phone_finding">Getting phone number…</string>
   <string name="express_contact_prefix">"Contact "</string>
@@ -150,7 +150,6 @@ Custom service will contact you in a moment"</string>
   <string name="express_select_city">Select city</string>
   <string name="express_select_sender">From</string>
   <string name="express_send">Ship</string>
-  <string name="express_send_notice">About prohibited items</string>
   <string name="express_sender">Sender</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>

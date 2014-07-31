@@ -1452,7 +1452,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
-  <string name="local_backup_section_summary">Backup system settings, account, and apps</string>
+  <string name="local_backup_section_summary">Backup system settings, account and apps</string>
   <string name="local_backup_section_title">Local backups</string>
   <string name="locale_default">Default</string>
   <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
