@@ -22,6 +22,7 @@
   <string name="accessibility_skin_beautify_button">SwitchIndicatorButton</string>
   <string name="accessibility_skin_beautify_closed">Skin tone enhancer disabled</string>
   <string name="accessibility_skin_beautify_opened">Skin tone enhancer enabled</string>
+  <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_control">Zoom control</string>
   <string name="albums">Albums</string>
   <string name="aperture">Aperture</string>
