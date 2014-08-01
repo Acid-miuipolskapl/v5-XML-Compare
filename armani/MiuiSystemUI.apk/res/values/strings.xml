@@ -24,10 +24,9 @@
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">No data.</string>
   <string name="accessibility_no_phone">No phone.</string>
-  <string name="accessibility_no_wifi">No WLAN.</string>
+  <string name="accessibility_no_wifi">No Wi-Fi.</string>
   <string name="accessibility_no_wimax">No WiMAX.</string>
   <string name="accessibility_notifications_button">Notifications.</string>
-  <string name="accessibility_phone_four_bars">Phone four bars.</string>
   <string name="accessibility_phone_one_bar">Phone one bar.</string>
   <string name="accessibility_phone_signal_full">Phone signal full.</string>
   <string name="accessibility_phone_three_bars">Phone three bars.</string>
@@ -40,10 +39,10 @@
   <string name="accessibility_rotation_lock_off">Screen will rotate automatically</string>
   <string name="accessibility_settings_button">System settings.</string>
   <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
-  <string name="accessibility_wifi_one_bar">WLAN one bar.</string>
-  <string name="accessibility_wifi_signal_full">WLAN signal full.</string>
-  <string name="accessibility_wifi_three_bars">WLAN three bars.</string>
-  <string name="accessibility_wifi_two_bars">WLAN two bars.</string>
+  <string name="accessibility_wifi_one_bar">Wi-Fi one bar.</string>
+  <string name="accessibility_wifi_signal_full">Wi-Fi signal full.</string>
+  <string name="accessibility_wifi_three_bars">Wi-Fi three bars.</string>
+  <string name="accessibility_wifi_two_bars">Wi-Fi two bars.</string>
   <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
@@ -226,8 +225,8 @@ yyyy.M.d"</string>
   <string name="status_bar_settings_notifications">Notifications</string>
   <string name="status_bar_settings_settings_button">Settings</string>
   <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN connected</string>
-  <string name="status_bar_settings_wifi_button">WLAN</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
+  <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Notifications</string>
   <string name="status_bar_toggle_ac">Access</string>
   <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
@@ -275,7 +274,7 @@ yyyy.M.d"</string>
   <string name="status_bar_toggle_torch">Torch</string>
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-  <string name="status_bar_toggle_wifi">WLAN</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>

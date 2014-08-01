@@ -37,7 +37,7 @@
   <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
   <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
   <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app installers"</string>
-  <string name="policy_dont_allow_wifi">"Don't allow WLAN"</string>
+  <string name="policy_dont_allow_wifi">"Don't allow Wi-Fi"</string>
   <string name="policy_html_truncation">Restrict HTML email size</string>
   <string name="policy_max_attachment_size">Restrict attachment size</string>
   <string name="policy_require_encryption">Require device encryption</string>

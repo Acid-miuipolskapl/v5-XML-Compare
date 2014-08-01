@@ -179,9 +179,9 @@
         <item>@string/description_target_camera</item>
         <item>@null</item>
     </string-array>
-    <string-array name="lockscreen_targets_unlock_only">
+    <array name="lockscreen_targets_unlock_only">
         <item>@drawable/ic_lockscreen_unlock</item>
-    </string-array>
+    </array>
     <string-array name="lockscreen_target_descriptions_unlock_only">
         <item>@string/description_target_unlock</item>
     </string-array>

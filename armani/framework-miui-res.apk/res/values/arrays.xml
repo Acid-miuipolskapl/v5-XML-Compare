@@ -5372,8 +5372,8 @@
         <item>Z</item>
     </string-array>
     <string-array name="screen_key_long_press_default_action">
-        <item>voice_assistant</item>
         <item>recent_panel</item>
+        <item>google_now</item>
         <item>none</item>
     </string-array>
     <string-array name="alarm_in_future">
