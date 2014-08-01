@@ -80,6 +80,7 @@
   <string name="app_name">Mi Cloud framework</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="bank_cards">Bank cards</string>
+  <string name="barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
   <string name="bind_sina_weibo">Bind with Weibo</string>
   <string name="bind_weibo_description">Sync your friends from Sina Weibo.</string>
   <string name="binded">Bound</string>
