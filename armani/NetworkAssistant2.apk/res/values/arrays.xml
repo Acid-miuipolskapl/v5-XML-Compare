@@ -7,17 +7,17 @@
         <item>GB</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Yesterday</item>
-        <item>Today</item>
-        <item>This month</item>
+        <item>"Yesterday "</item>
+        <item>"Today "</item>
+        <item>"This month "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Yesterday (Data)</item>
         <item>Today (Data)</item>
         <item>This month (Data)</item>
-        <item>Yesterday Wi-Fi</item>
-        <item>Today Wi-Fi</item>
-        <item>This month Wi-Fi</item>
+        <item>Yesterday WLAN</item>
+        <item>Today WLAN</item>
+        <item>This month WLAN</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Yesterday (Data)</item>
@@ -35,7 +35,7 @@
     </string-array>
     <string-array name="traffic_sort_type">
         <item>Data usage</item>
-        <item>Wi-Fi usage</item>
+        <item>WLAN usage</item>
         <item>Total usage</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">

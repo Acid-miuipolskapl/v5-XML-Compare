@@ -30,7 +30,7 @@
   <string name="status_msg_collecting_log">Getting logs</string>
   <string name="status_msg_pending_upload">Sending %d comments…</string>
   <string name="toast_description_required">Description is required</string>
-  <string name="toast_feedback_pending_wlan">"Message will be sent when you're connected to a Wi-Fi network"</string>
+  <string name="toast_feedback_pending_wlan">"Message will be sent when you're connected to a WLAN network"</string>
   <string name="toast_feedback_submitted">Report has been sent</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
   <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>
@@ -38,6 +38,6 @@
   <string name="toast_report_sent_succeed">Report has been sent</string>
   <string name="wlan_unavailable_dialog_button_ok">Wait</string>
   <string name="wlan_unavailable_dialog_button_sent">Send now</string>
-  <string name="wlan_unavailable_dialog_content">"Sending your report will use %s of data. To wait until you're connected to Wi-Fi network to send, touch Wait."</string>
+  <string name="wlan_unavailable_dialog_content">"Sending your report will use %s of data. To wait until you're connected to WLAN network to send, touch Wait."</string>
   <string name="wlan_unavailable_dialog_title">Data usage</string>
 </resources>

@@ -207,15 +207,15 @@
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
-  <string name="mx_auto_resend_mms_summary">"Send as MMS over mobile data connection when you're not connected to Wi-Fi (normal data usage charges apply)."</string>
+  <string name="mx_auto_resend_mms_summary">"Send as MMS over mobile data connection when you're not connected to WLAN (normal data usage charges apply)."</string>
   <string name="mx_auto_resend_sms">Send as text</string>
-  <string name="mx_auto_resend_sms_summary">"Send as text over mobile data connection when you're not connected to Wi-Fi (normal data usage charges apply)."</string>
+  <string name="mx_auto_resend_sms_summary">"Send as text over mobile data connection when you're not connected to WLAN (normal data usage charges apply)."</string>
   <string name="mx_btn_enable_now">Enable</string>
   <string name="mx_count_dspt">"You've sent %1$d texts and %2$d MMS"</string>
   <string name="mx_current_status">Status: online</string>
   <string name="mx_dspt">Cloud Messaging lets you send messages back and forth with anyone else using MIUI</string>
   <string name="mx_enable">Cloud Messaging</string>
-  <string name="mx_enable_popup_msg">"Cloud Messaging lets you send messages back and forth with anyone else using MIUI. Normal data usage charges apply, unless you're connected to Wi-Fi."</string>
+  <string name="mx_enable_popup_msg">"Cloud Messaging lets you send messages back and forth with anyone else using MIUI. Normal data usage charges apply, unless you're connected to WLAN."</string>
   <string name="mx_msg">Cloud Messaging</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
@@ -386,6 +386,9 @@
   <string name="sms_full_title">Text message memory full</string>
   <string name="sms_rejected_body">An incoming text message was rejected.</string>
   <string name="sms_rejected_title">Text message rejected</string>
+  <string name="sp_category_all">All service messages</string>
+  <string name="sp_category_bank">Bank service messages</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notification messages</string>
   <string name="sp_mark_as_read_progress">Marking as read…</string>
   <string name="sp_mark_as_read_title">Mark all as read</string>
@@ -419,7 +422,7 @@
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">Will send at %s</string>
   <string name="toast_description_required">"Description can't be blank"</string>
-  <string name="toast_feedback_finish">"Your report will be sent when you're connected to Wi-Fi"</string>
+  <string name="toast_feedback_finish">"Your report will be sent when you're connected to WLAN"</string>
   <string name="toast_feedback_max">"You can't submit more than 3 reports a day"</string>
   <string name="toast_feedback_start">Gathering log data…</string>
   <string name="too_many_attachments">There is a limit of %1$s attachments. Only the first %2$s will be added.</string>
