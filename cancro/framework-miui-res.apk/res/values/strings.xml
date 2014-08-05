@@ -81,7 +81,7 @@
   <string name="call_record_or">" or "</string>
   <string name="call_record_sample_prefix_miui">Call</string>
   <string name="caller_info_name_delimiter">Or</string>
-  <string name="check_phone_error_title">Sync not enabled</string>
+  <string name="check_phone_error_title">"Sync hasn't been activated"</string>
   <string name="check_phone_io_error">Network error</string>
   <string name="childrens_day">儿童节</string>
   <string name="chinese_youth_day">青年节</string>
@@ -556,8 +556,8 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="select">Select</string>
   <string name="select_all">Select all</string>
   <string name="send">Send</string>
-  <string name="send_sms_for_sync_notice">An activation text will be sent automatically (normal rates apply).</string>
-  <string name="send_sms_for_sync_title">Sync service not activated</string>
+  <string name="send_sms_for_sync_notice">An SMS will be sent to activate it. You will incur regular charges from your carrier.</string>
+  <string name="send_sms_for_sync_title">"Sync hasn't been activated"</string>
   <string name="share">Share</string>
   <string name="shutdown_confirm_title">Your phone will shut down.</string>
   <string name="sim_account_name">SIM</string>

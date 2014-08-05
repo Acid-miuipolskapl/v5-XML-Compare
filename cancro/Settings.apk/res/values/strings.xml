@@ -1452,7 +1452,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
-  <string name="local_backup_section_summary">Backup system settings, account, and apps</string>
+  <string name="local_backup_section_summary">Backup system settings, accounts, and apps</string>
   <string name="local_backup_section_title">Local backups</string>
   <string name="locale_default">Default</string>
   <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
@@ -1731,43 +1731,43 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
 Get the driver at http://miui.com/mac"</string>
   <string name="msd_driver_windows_xp_download">"Windows: Download the driver and click Setup.exe to install
 Get the driver at http://miui.com/win"</string>
-  <string name="msd_help_summary">"Having trouble connecting to your device?
-Select your operating system below:"</string>
-  <string name="msd_help_title">MTP Help</string>
+  <string name="msd_help_summary">"Can't connect to your device?
+Select your operating system:"</string>
+  <string name="msd_help_title">Help</string>
   <string name="msd_install">Reinstall driver?</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Next</string>
-  <string name="msd_install_retry_linux">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_linux">"If the computer fails to detect your device,
 Try the following:
-1) Use the install tool \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Create a directory \"mkdir\" /media/mtp
-3) Confirm user group permissions in the current fuse user group
+1) Use the install tool \"$sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
+2) Create a directory \"$mkdir\" /media/mtp
+3) Confirm user group permissions in the user group
 4) Sign in again
-5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
-6) Uninstall device fusermount -u /media/mtp
+5) Access mounted device mtpfs /media/mtp via File explorer (same as the local directory)
+6) Uninstall device $fusermount -u /media/mtp
  (Ubuntu 8.04)"</string>
-  <string name="msd_install_retry_mac">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_mac">"If the computer fails to detect your device,
 Try the following:
 "&lt;li&gt;"1) Do a search for
 Android File Transfer,
 and run the software."&lt;/li&gt;"
 "&lt;li&gt;2) Reconnect the USB cable.&lt;/li&gt;"
 "&lt;li&gt;3) Reinstall the driver.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_vista">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_windows_vista">"If the computer fails to detect your device,
 Try reconnecting the USB cable."</string>
-  <string name="msd_install_retry_windows_xp">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_windows_xp">"If the computer fails to detect your device,
 Try the following:
 "&lt;li&gt;1) Reconnect the USB cable.&lt;/li&gt;"
 "&lt;li&gt;2) Reinstall the driver.&lt;/li&gt;</string>
-  <string name="msd_install_status_done">Driver installed.</string>
+  <string name="msd_install_status_done">Driver installed</string>
   <string name="msd_install_status_undo">Install driver</string>
-  <string name="msd_install_succeed">"I've installed the driver"</string>
+  <string name="msd_install_succeed">Driver installed</string>
   <string name="msd_install_windows_xp_step_2_1">Follow the steps in the Setup Wizard to complete installation.</string>
-  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer versions of Windows,
+  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer,
 the %1$s music player will appear on your computer automatically"</string>
-  <string name="msd_pc_system_install_finish_summary_xp">"After you install this driver
-%1$s will appear as a USB mass storage device when connected to a computer."</string>
-  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer versions of Windows, 
+  <string name="msd_pc_system_install_finish_summary_xp">"After you install the driver
+%1$s will appear as a USB storage device when connected to a computer."</string>
+  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer, 
 %1$s will appear automatically as a USB mass storage"</string>
   <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s will appear as a USB mass storage
  device when connected to your computer."</string>
@@ -3185,7 +3185,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
 
 After you create a new user, that person needs to go through a setup process.
 
-Any user can accept updated app permissions on behalf of all other users."</string>
+Any user can accept updated app permissions on behalf of all users."</string>
   <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
 
 Any user can accept updated app permissions on behalf of all other users."</string>

@@ -142,6 +142,28 @@
         <item>@string/wait_for_sync_body_txt_array_4</item>
         <item>@string/wait_for_sync_body_txt_array_5</item>
     </string-array>
+    <string-array name="folder_sent_name_array">
+        <item>@string/folder_sent_name_en1</item>
+        <item>@string/folder_sent_name_en2</item>
+        <item>@string/folder_sent_name_cn0</item>
+        <item>@string/folder_sent_name_cn1</item>
+        <item>@string/folder_sent_name_cn2</item>
+    </string-array>
+    <string-array name="folder_drafts_name_array">
+        <item>@string/folder_drafts_name_en1</item>
+        <item>@string/folder_drafts_name_cn0</item>
+        <item>@string/folder_drafts_name_cn1</item>
+    </string-array>
+    <string-array name="folder_trash_name_array">
+        <item>@string/folder_trash_name_en1</item>
+        <item>@string/folder_trash_name_en2</item>
+        <item>@string/folder_trash_name_cn0</item>
+        <item>@string/folder_trash_name_cn1</item>
+    </string-array>
+    <string-array name="folder_junk_name_array">
+        <item>@string/folder_junk_name_cn0</item>
+        <item>@string/folder_junk_name_cn1</item>
+    </string-array>
     <integer-array name="senders_with_attachment_lengths">
         <item>25</item>
         <item>25</item>
@@ -167,15 +189,15 @@
         <item>1.2</item>
         <item>1.5</item>
     </string-array>
-    <string-array name="prefValues_removal_action">
-        <item>archive</item>
-        <item>delete</item>
-        <item>archive-and-delete</item>
-    </string-array>
     <string-array name="prefValues_autoAdvance">
         <item>newer</item>
         <item>older</item>
         <item>list</item>
+    </string-array>
+    <string-array name="prefValues_removal_action">
+        <item>archive</item>
+        <item>delete</item>
+        <item>archive-and-delete</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Tiny text</item>

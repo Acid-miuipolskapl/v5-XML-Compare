@@ -105,6 +105,7 @@ Please contact Xiaomi customer service."</string>
   <string name="format_time">MMM dd, yyyy hh:mmaa</string>
   <string name="frozen">(Frozen)</string>
   <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit gift card from %1$s</string>
+  <string name="giftcard_define_detail">Use these certificates just like regular Mi Credits. You may receive credits after participating in Xiaomi events and promotions.</string>
   <string name="giftcard_denom">MiCredit</string>
   <string name="giftcard_denom_available">MiCredit available</string>
   <string name="giftcard_denom_frozen">MiCredit frozen</string>
@@ -117,6 +118,7 @@ Please contact Xiaomi customer service."</string>
   <string name="giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit giveaway.</string>
   <string name="giftcard_record">My gift cards</string>
+  <string name="giftcard_title">Mi Credit Certificates</string>
   <string name="giftcard_value">(%1$s-MiCredit gift card)</string>
   <string name="hfb_app_name">话付宝</string>
   <string name="hfb_complete">购买完成</string>
