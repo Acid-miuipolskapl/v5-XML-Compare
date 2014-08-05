@@ -81,7 +81,7 @@
   <string name="call_record_or">" or "</string>
   <string name="call_record_sample_prefix_miui">Call</string>
   <string name="caller_info_name_delimiter">Or</string>
-  <string name="check_phone_error_title">Sync not enabled</string>
+  <string name="check_phone_error_title">"Sync hasn't been activated"</string>
   <string name="check_phone_io_error">Network error</string>
   <string name="childrens_day">儿童节</string>
   <string name="chinese_youth_day">青年节</string>
@@ -584,8 +584,8 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="select">Select</string>
   <string name="select_all">Select all</string>
   <string name="send">Send</string>
-  <string name="send_sms_for_sync_notice">An activation text will be sent automatically (normal rates apply).</string>
-  <string name="send_sms_for_sync_title">Sync service not activated</string>
+  <string name="send_sms_for_sync_notice">An SMS will be sent to activate it. You will incur regular charges from your carrier.</string>
+  <string name="send_sms_for_sync_title">"Sync hasn't been activated"</string>
   <string name="share">Share</string>
   <string name="short_pincode_error_msg">Please enter 4–8 digits</string>
   <string name="short_pukcode_error_msg">You need to enter at least 8 digits.</string>
@@ -599,6 +599,8 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="sim_unavailable">SIM card unavailable</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_heat">小暑</string>
+  <string name="softap_notifif_summary">%d connected</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" enabled</string>
   <string name="solar_calendar">公历</string>
   <string name="speaker">Speaker</string>
   <string name="spring_begins">立春</string>

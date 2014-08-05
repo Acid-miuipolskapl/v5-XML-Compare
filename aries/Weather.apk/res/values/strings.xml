@@ -111,11 +111,11 @@
   <string name="share_content">MIUI weather</string>
   <string name="share_weather_content">"It's %2$s in %1$s, %3$s degrees, %4$s. %5$s."</string>
   <string name="share_weather_title">Share weather info</string>
-  <string name="sina_share_fail">Failed to send</string>
+  <string name="sina_share_fail">"Couldn't send"</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account has expired. You need to sign in again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid. You need to sign in again.</string>
   <string name="sms_notification">Share</string>
   <string name="tip_weather">Weather notification</string>
   <string name="tip_weather_info_content_1">Remember to bring layers!</string>

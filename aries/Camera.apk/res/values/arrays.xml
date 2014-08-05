@@ -654,4 +654,11 @@
     <item type="array" name="APKTOOL_DUMMY_0073">false</item>
     <item type="array" name="APKTOOL_DUMMY_0074">false</item>
     <item type="array" name="APKTOOL_DUMMY_0075">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0076">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0077">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0078">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0079">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007c">false</item>
 </resources>
