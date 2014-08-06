@@ -191,7 +191,7 @@ Used"</string>
   <string name="pref_traffic_saving_switch_hint">Use proxy to compress data</string>
   <string name="pref_traffic_saving_title">Data saver settings</string>
   <string name="pref_traffic_saving_whitelist">Exceptions</string>
-  <string name="pref_traffic_saving_whitelist_hint">添加应用后，所选应用消耗的流量不进行节省。建议添加定向流量应用，否则该应用将消耗您的日常套餐流量</string>
+  <string name="pref_traffic_saving_whitelist_hint">"These apps' data usage will not be restricted"</string>
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Data usage warning level</string>
   <string name="right_precent">100%</string>
