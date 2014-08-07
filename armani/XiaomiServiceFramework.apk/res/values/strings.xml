@@ -202,6 +202,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_password_confirm_hint">Confirm password</string>
   <string name="micloud_password_error_inconsistent">"Passwords don't match"</string>
   <string name="micloud_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
+  <string name="micloud_proceed">Continue</string>
   <string name="micloud_reg_new">Create an account</string>
   <string name="micloud_resend_active_email">Resend activation email</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
