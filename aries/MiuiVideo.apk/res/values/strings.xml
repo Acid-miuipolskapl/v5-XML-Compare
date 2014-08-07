@@ -7,6 +7,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Version code</string>
   <string name="actors_colon">"Cast: "</string>
+  <string name="ad_moredetail">more detail</string>
   <string name="add_more_addons">Add more</string>
   <string name="add_review">Add comment</string>
   <string name="addon"/>
@@ -285,6 +286,7 @@
   <string name="post_playcount">" times"</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
+  <string name="prefix_countdown">advertisement left:</string>
   <string name="prex_playcount">"Played "</string>
   <string name="priority_storage">Use external SD card</string>
   <string name="priority_storage_summary">Automatically save to external SD card if available</string>
@@ -330,6 +332,7 @@
   <string name="success_cancel_myfavorite">Unstarred</string>
   <string name="success_cancel_waitfornewset">Stopped following</string>
   <string name="success_to_cancel_myfavorite">Canceled</string>
+  <string name="suffix_countdown">seconds</string>
   <string name="sure">Agree</string>
   <string name="tags_colon">"Genre: "</string>
   <string name="temp_play_history_button_label">Show Play history</string>
