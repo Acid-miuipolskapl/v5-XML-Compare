@@ -25,36 +25,36 @@
         <item>@drawable/ic_alarm_alert_dismiss_pwroff</item>
         <item>@null</item>
     </array>
-    <array name="snooze_dismiss_descriptions">
+    <string-array name="snooze_dismiss_descriptions">
         <item>@string/alarm_alert_dismiss_text</item>
         <item>@null</item>
         <item>@string/alarm_alert_snooze_text</item>
         <item>@null</item>
-    </array>
-    <array name="snooze_dismiss_direction_descriptions">
+    </string-array>
+    <string-array name="snooze_dismiss_direction_descriptions">
         <item>@string/description_direction_right</item>
         <item>@null</item>
         <item>@string/description_direction_left</item>
         <item>@null</item>
-    </array>
+    </string-array>
     <array name="dismiss_drawables">
         <item>@drawable/ic_alarm_alert_dismiss_pwron</item>
         <item>@null</item>
         <item>@null</item>
         <item>@null</item>
     </array>
-    <array name="dismiss_descriptions">
+    <string-array name="dismiss_descriptions">
         <item>@string/alarm_alert_dismiss_text</item>
         <item>@null</item>
         <item>@null</item>
         <item>@null</item>
-    </array>
-    <array name="dismiss_direction_descriptions">
+    </string-array>
+    <string-array name="dismiss_direction_descriptions">
         <item>@string/description_direction_right</item>
         <item>@null</item>
         <item>@null</item>
         <item>@null</item>
-    </array>
+    </string-array>
     <string-array name="new_search_engines">
         <item>--</item>
         <item>google--Google--google.com--search_engine_google--http://www.google.com/m?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}--UTF-8--http://www.google.com/complete/search?hl={language}&amp;json=true&amp;q={searchTerms}</item>

@@ -839,12 +839,12 @@ When connected, Xiaomi will appear as a USB mass storage device.
 Open and select AndroidFileTransfer.dmg to install."</item>
         <item></item>
     </string-array>
-    <array name="msd_pc_system_install_step_2_summary">
+    <string-array name="msd_pc_system_install_step_2_summary">
         <item>@string/msd_pc_system_install_step_2_summary_xp</item>
         <item></item>
         <item>Transfer files like you would to any other external hard drive.</item>
         <item></item>
-    </array>
+    </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
@@ -978,7 +978,7 @@ phone will open automatically when connected to a computer."</item>
         <item>2</item>
         <item>1</item>
     </string-array>
-    <array name="wifi_security_wfa">
+    <string-array name="wifi_security_wfa">
         <item>@string/wifi_security_none</item>
         <item>WEP</item>
         <item>WPA PSK</item>
@@ -986,29 +986,29 @@ phone will open automatically when connected to a computer."</item>
         <item>802.1x EAP</item>
         <item>WAPI PSK</item>
         <item>WAPI Certificate</item>
-    </array>
+    </string-array>
     <string-array name="wifi_ap_channel_width">
         <item>20 MHz</item>
         <item>Auto 20/40 MHz</item>
     </string-array>
-    <array name="wpa_security">
+    <string-array name="wpa_security">
         <item>@string/wifi_security_none</item>
         <item>WEP</item>
         <item>WPA/WPA2 PSK</item>
         <item>802.1x EAP</item>
-    </array>
-    <array name="wpa_security_wfa">
+    </string-array>
+    <string-array name="wpa_security_wfa">
         <item>@string/wifi_security_none</item>
         <item>WEP</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
         <item>802.1x EAP</item>
-    </array>
-    <array name="wapi_security">
+    </string-array>
+    <string-array name="wapi_security">
         <item>@string/wifi_security_none</item>
         <item>WAPI PSK</item>
         <item>WAPI Certificate</item>
-    </array>
+    </string-array>
     <string-array name="auto_time_entries">
         <item>Use network-provided time</item>
         <item>Use GPS-provided time</item>
@@ -1183,13 +1183,13 @@ phone will open automatically when connected to a computer."</item>
         <item>0</item>
         <item>1</item>
     </string-array>
-    <array name="usb_sharing_pc_system_entry">
+    <string-array name="usb_sharing_pc_system_entry">
         <item>@string/wifi_unspecified</item>
         <item>Windows XP</item>
         <item>Windows Vista</item>
         <item>Windows 7</item>
         <item>Windows 8</item>
-    </array>
+    </string-array>
     <string-array name="wfd_720p_resolution_entry">
         <item>720p (60 frames/sec)</item>
         <item>﻿720p (30 frames/sec)</item>
@@ -1204,11 +1204,11 @@ phone will open automatically when connected to a computer."</item>
         <item>EAP-SIM/</item>
         <item>EAP-TLS/</item>
     </string-array>
-    <array name="passpoint_credential_type">
+    <string-array name="passpoint_credential_type">
         <item>@string/passpoint_username_pw</item>
         <item>SIM</item>
         <item>@string/passpoint_certificate</item>
-    </array>
+    </string-array>
     <string-array name="wifi_hotspot_select_band_array">
         <item>2.4 GHz only</item>
         <item>5 GHz only</item>
