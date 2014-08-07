@@ -64,7 +64,7 @@
   <string name="enable_notification">Location notifications</string>
   <string name="enable_notification_city">Weather notifications enabled for %s</string>
   <string name="enable_notification_summary">Notify me if the forecast changes</string>
-  <string name="first_start_network_toast_text">To get weather info, you need to connect to the internet.</string>
+  <string name="first_start_network_toast_text">To get weather info, connect to Internet.</string>
   <string name="format_date_md">M/d kk:mm</string>
   <string name="format_date_trend_md">M/d</string>
   <string name="format_date_week">EEE</string>
@@ -111,11 +111,11 @@
   <string name="share_content">MIUI weather</string>
   <string name="share_weather_content">"It's %2$s in %1$s, %3$s degrees, %4$s. %5$s."</string>
   <string name="share_weather_title">Share weather info</string>
-  <string name="sina_share_fail">"Couldn't send"</string>
+  <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired. You need to sign in again.</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid. You need to sign in again.</string>
+  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="sms_notification">Share</string>
   <string name="tip_weather">Weather notification</string>
   <string name="tip_weather_info_content_1">Remember to bring layers!</string>
