@@ -37,7 +37,7 @@
   <string name="ad_install_monitor_hint">Check for adware when installing app</string>
   <string name="ad_relative_setting">Related settings</string>
   <string name="ad_single_block_hint">Blocked</string>
-  <string name="ad_update_setting">Update add blocker settings</string>
+  <string name="ad_update_setting">Update ad blocker settings</string>
   <string name="ad_update_time">Last updated: %s</string>
   <string name="ad_update_time_unKnown">Last updated: unknown</string>
   <string name="ad_update_title">Auto Update</string>
@@ -143,10 +143,10 @@
   <string name="one_address_choose_hint">%s1 location</string>
   <string name="open_callwait">On</string>
   <string name="report">Report</string>
-  <string name="report_error">Thanks to reports, report information is automatically uploaded when the connection WLAN</string>
-  <string name="report_only">Please select at least one message</string>
-  <string name="report_sms">Report message</string>
-  <string name="report_success">Report success</string>
+  <string name="report_error">"Reports will be sent when you're connected to WLAN"</string>
+  <string name="report_only">Select at least 1 SMS</string>
+  <string name="report_sms">Report SMS</string>
+  <string name="report_success">Reported</string>
   <string name="sms_delete_hint">Delete all blocked messages sent from selected number?</string>
   <string name="st_advanced_setting_group">Advanced</string>
   <string name="st_antispam_black_adress_add">Choose a location</string>
