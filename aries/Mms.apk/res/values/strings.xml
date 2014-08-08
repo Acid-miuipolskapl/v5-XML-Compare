@@ -141,7 +141,11 @@
   <string name="feedback_submit">Send feedback</string>
   <string name="festival">Quick responses</string>
   <string name="fetion_prefix">[Fetion]</string>
+  <string name="file_create_time">Time created:</string>
   <string name="file_share_message_description">I want to share some files with you.</string>
+  <string name="file_size">Size:</string>
+  <string name="file_title">Name:</string>
+  <string name="file_width_height">Size:</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_from">Forward from:</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -158,6 +162,7 @@
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
+  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="importing_progress_private_message">Importing messages…</string>
   <string name="in_sms">Message</string>
   <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
@@ -331,6 +336,7 @@
   <string name="restore_blocked_message">Restore message</string>
   <string name="restore_to_phone_memory_failed">Failed to restore</string>
   <string name="restored_to_phone_memory">Restored</string>
+  <string name="retrive_hms_tips">Retrieving...</string>
   <string name="save">Save</string>
   <string name="save_ringtone">Save as ringtone</string>
   <string name="save_to_sim">Save to SIM card</string>
@@ -355,6 +361,7 @@
   <string name="select_recipient">Choose recipients</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
+  <string name="send_hms_editor_hints">Cloud Message</string>
   <string name="send_signature_confirm_dialog_message">No message body found. Send only your signature?</string>
   <string name="send_signature_confirm_dialog_title">Send message</string>
   <string name="send_sms">Send message</string>
@@ -367,6 +374,7 @@
   <string name="service_not_activated">Service not activated on network</string>
   <string name="set">Set</string>
   <string name="set_smsc_address_title_miui">Set SMS center number</string>
+  <string name="share_img">Share</string>
   <string name="show_all_messages">Show all messages</string>
   <string name="sim_card1">SIM card 1</string>
   <string name="sim_card2">SIM card 2</string>
@@ -389,7 +397,7 @@
   <string name="sp_category_all">All service messages</string>
   <string name="sp_category_bank">Bank service messages</string>
   <string name="sp_category_title_prefix">%s</string>
-  <string name="sp_conversation_title">Notification messages</string>
+  <string name="sp_conversation_title">Notifications</string>
   <string name="sp_mark_as_read_progress">Marking as read…</string>
   <string name="sp_mark_as_read_title">Mark all as read</string>
   <string name="status_failed">Unsuccessful</string>
@@ -448,7 +456,9 @@ Attempt made: %s."</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>
+  <string name="view_hms_details">Details</string>
   <string name="view_message_details">View details</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="xiaomi_service_number">Service number</string>
   <string name="yes">OK</string>
 </resources>

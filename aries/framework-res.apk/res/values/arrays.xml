@@ -189,6 +189,7 @@
         <item>headset</item>
         <item>call_record</item>
         <item>privacy_mode</item>
+        <item>ble_unlock_mode</item>
         <item>ime</item>
         <item>sync_failing</item>
         <item>sync_active</item>
