@@ -158,7 +158,7 @@ Use only the supplied charger."</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="recent_apps_key">Recent apps button</string>
   <string name="recent_apps_key_show">Show recent apps button</string>
-  <string name="reject_call">Rejecting call</string>
+  <string name="reject_call">Rejecting a call</string>
   <string name="return_to_incall_screen">Return to call</string>
   <string name="screen_button_custom">Customize navigation button positions</string>
   <string name="screen_button_disabled_message">Navigation buttons disabled. To re-enable them, touch Home and the Power button simultaneously.</string>
@@ -183,7 +183,7 @@ Use only the supplied charger."</string>
   <string name="settings_no_carrier">None</string>
   <string name="settings_notification_bar">Notification shade</string>
   <string name="settings_show_carrier">Show service provider</string>
-  <string name="settings_show_carrier_summary">When this toggle is off, the name of your service provider will only be visible at the lock screen and in the notification shade</string>
+  <string name="settings_show_carrier_summary">Only display on lock screen</string>
   <string name="settings_show_flow_info">Show data usage info</string>
   <string name="settings_show_network_speed">Show connection speed</string>
   <string name="settings_show_notificationBar_notification">Show in notification shade</string>
@@ -192,7 +192,7 @@ Use only the supplied charger."</string>
   <string name="settings_status_bar">Status bar</string>
   <string name="settings_toggle_collapse_after_clicked">Collapse after touch</string>
   <string name="settings_toggle_layout_style">Toggle layout style</string>
-  <string name="settings_toggle_layout_style_applying">Changing layout…</string>
+  <string name="settings_toggle_layout_style_applying">Changing style…</string>
   <string name="settings_toggle_layout_style_compact">Bar</string>
   <string name="settings_toggle_layout_style_single_page">Page</string>
   <string name="settings_toggle_position">Manage toggles</string>
@@ -200,7 +200,7 @@ Use only the supplied charger."</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
-  <string name="status_bar_and_notification_bar">Notifications</string>
+  <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
   <string name="status_bar_date_format">"E
 yyyy.M.d"</string>
   <string name="status_bar_date_formatter">%2$s</string>
@@ -225,14 +225,14 @@ yyyy.M.d"</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_notifications">Notifications</string>
   <string name="status_bar_settings_settings_button">Settings</string>
-  <string name="status_bar_settings_signal_meter_disconnected">No internet connection</string>
+  <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN connected</string>
   <string name="status_bar_settings_wifi_button">WLAN</string>
   <string name="status_bar_style_settings">Notifications</string>
   <string name="status_bar_toggle_ac">Access</string>
   <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
   <string name="status_bar_toggle_auto_brightness">Auto</string>
-  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+  <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
   <string name="status_bar_toggle_brightness">Brightness</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
@@ -252,6 +252,7 @@ yyyy.M.d"</string>
   <string name="status_bar_toggle_network_type">Network</string>
   <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
   <string name="status_bar_toggle_power_high">Perform</string>
+  <string name="status_bar_toggle_power_low">Conserve</string>
   <string name="status_bar_toggle_power_mid">Normal</string>
   <string name="status_bar_toggle_power_mode">Power</string>
   <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
@@ -282,10 +283,10 @@ yyyy.M.d"</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Toggles</string>
   <string name="title_usb_accessory">USB accessory</string>
-  <string name="torch_activity_hint">Hold [icon] to turn on torch at the lock screen</string>
+  <string name="torch_activity_hint">Hold [icon] to activate torch at the lock screen</string>
   <string name="torch_activity_name">Torch</string>
-  <string name="torch_closed">Torch off</string>
-  <string name="torch_opened">Torch on</string>
+  <string name="torch_closed">Torch closed</string>
+  <string name="torch_opened">Torch opened</string>
   <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
   <string name="usb_accessory_permission_prompt">Allow the app %1$s to access USB accessory?</string>
   <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at %1$s</string>
@@ -295,8 +296,8 @@ yyyy.M.d"</string>
   <string name="usb_debugging_title">Allow USB debugging?</string>
   <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
   <string name="usb_device_permission_prompt">Allow the app %1$s to access USB device?</string>
-  <string name="usb_mode_dont_ask">"Don't ask again"</string>
-  <string name="usb_mode_mount_storage_title">Open USB storage?</string>
+  <string name="usb_mode_dont_ask">Remember this choice</string>
+  <string name="usb_mode_mount_storage_title">Open USB storage automatically?</string>
   <string name="usb_mode_notification">USB Storage</string>
   <string name="usb_mtp_text">Files</string>
   <string name="usb_notification">USB connected</string>
@@ -306,7 +307,7 @@ yyyy.M.d"</string>
   <string name="usb_notification_ptp_info">Accessing photos stored on this device.</string>
   <string name="usb_notification_ptp_ticker_text">Connected as a media device (Photos)</string>
   <string name="usb_ptp_text">Photos</string>
-  <string name="usb_share_net_info">"Use computer's internet connection"</string>
+  <string name="usb_share_net_info">"Use computer's Internet connection"</string>
   <string name="usb_storage_error_message">An error occurred while trying to view your device as USB mass storage.</string>
   <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android‘s USB storage."</string>
   <string name="usb_storage_notification_message">Select to copy files to/from your computer.</string>
