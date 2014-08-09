@@ -639,4 +639,26 @@
         <item>@string/pref_camera_watermark_entryvalue_off</item>
         <item>@string/pref_camera_watermark_entryvalue_on</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0067">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0068">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0069">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006f">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0070">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0071">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0072">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0073">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0074">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0075">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0076">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0077">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0078">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0079">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007c">false</item>
 </resources>
