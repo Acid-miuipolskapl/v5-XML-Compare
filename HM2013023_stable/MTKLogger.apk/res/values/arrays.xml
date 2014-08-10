@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_list_preference_aeemode">
+        <item>Mediatek Engineer</item>
+        <item>Mediatek User</item>
+        <item>Customer Engineer</item>
+        <item>Customer User</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference_aeemode">
+        <item>MediatekEngineer</item>
+        <item>MediatekUser</item>
+        <item>CustomerEngineer</item>
+        <item>CustomerUser</item>
+    </string-array>
+    <string-array name="entries_list_preference_dal_setting">
+        <item>Enable Red Screen</item>
+        <item>Disable Red Screen</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference_dal_setting">
+        <item>EnableDAL</item>
+        <item>DisableDAL</item>
+    </string-array>
+    <string-array name="entries_list_preference_aeemode_oem">
+        <item>Engineer Mode</item>
+        <item>User Mode</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference_aeemode_oem">
+        <item>CustomerEngineer</item>
+        <item>CustomerUser</item>
+    </string-array>
+    <string-array name="mode_list_preference">
+        <item>USB Mode</item>
+        <item>SD Mode</item>
+    </string-array>
+    <string-array name="mode_value_list_preference">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="st_block_settings">
+        <item>@string/st_block_title</item>
+        <item>@string/st_mute_title</item>
+    </string-array>
+</resources>

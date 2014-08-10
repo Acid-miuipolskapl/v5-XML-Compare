@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Read Me</string>
+  <string name="bakc_key_toast_txt">To exit, touch the Back button again</string>
+  <string name="loading_userbook">Loading…</string>
+</resources>

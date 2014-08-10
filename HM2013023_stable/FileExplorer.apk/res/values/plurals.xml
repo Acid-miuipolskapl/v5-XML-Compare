@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Delete %1$d files</item>
+        <item quantity="one">Delete 1 file</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" and %1$d folders?"</item>
+        <item quantity="one">" and 1 folder?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">1 item</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d files left to download</item>
+        <item quantity="one">1 file left to download</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d files left to upload</item>
+        <item quantity="one">1 file left to upload</item>
+    </plurals>
+</resources>
