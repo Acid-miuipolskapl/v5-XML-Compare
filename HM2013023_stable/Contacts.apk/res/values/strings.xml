@@ -6,8 +6,9 @@
   <string name="accessibility_calllog_detail">Call log details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>
+  <string name="account_msim">SIM card %s</string>
   <string name="account_phone">Phone-only, unsynced</string>
-  <string name="account_sim">SIM card %s</string>
+  <string name="account_sim">SIM card</string>
   <string name="account_type_format">%1$s contact</string>
   <string name="account_unactivated">Account not activated</string>
   <string name="actionIncomingCall">Incoming calls</string>
@@ -28,8 +29,8 @@
   <string name="add_organization">Add organization</string>
   <string name="add_to_my_contacts">Add to My Contacts</string>
   <string name="add_wait">Add wait</string>
-  <string name="add_xiaomi_account_dialog_btn">Use Xiaomi Account</string>
-  <string name="add_xiaomi_account_dialog_msg">Back up your contacts to your Xiaomi Account to access them from anywhere!</string>
+  <string name="add_xiaomi_account_dialog_btn">Use Mi Account</string>
+  <string name="add_xiaomi_account_dialog_msg">Back up your contacts to your Mi Account to access them from anywhere!</string>
   <string name="add_xiaomi_account_dialog_title">Choose account</string>
   <string name="aggregation_suggestion_edit_dialog_message">Switch to editing the same-name contact? Information you entered so far will be copied.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
@@ -278,7 +279,6 @@ Contact data stored in your Xiaomi Account will also be deleted."</string>
   <string name="device_import_account_dialog_title">Choose an account</string>
   <string name="device_import_account_dialog_title_suffix">"
 (found %1$s contacts)"</string>
-  <string name="device_import_done_toast">%1$d contacts imported</string>
   <string name="device_import_failed_message">Import failed</string>
   <string name="device_import_local_account">Local account</string>
   <string name="device_import_message">Importing</string>
@@ -315,7 +315,7 @@ Contact data stored in your Xiaomi Account will also be deleted."</string>
   <string name="dialog_voicemail_airplane_mode_message">To call voicemail, first turn off Airplane mode.</string>
   <string name="dialog_voicemail_not_ready_message">To set up voicemail, go to Menu &gt; Settings.</string>
   <string name="directory_search_label">Directory</string>
-  <string name="dirty_contacts_notification_description">%d changes have not been synced with your Xiaomi Account.</string>
+  <string name="dirty_contacts_notification_description">%d changes have not been synced with your Mi Account.</string>
   <string name="dirty_contacts_notification_message">(You can disable this reminder in Settings)</string>
   <string name="dirty_contacts_notification_title">Sync contacts?</string>
   <string name="display_all_contacts">All contacts</string>
@@ -361,9 +361,10 @@ Contact data stored in your Xiaomi Account will also be deleted."</string>
   <string name="export_sim_contact_finish_success">Copied %d contacts</string>
   <string name="export_sim_contacts_dialog_message">Your SIM card can store %d contacts</string>
   <string name="export_to_sdcard">Export to storage</string>
-  <string name="export_to_sim">Export to SIM card 1</string>
+  <string name="export_to_sim">Export to SIM card</string>
+  <string name="export_to_sim1">Export to SIM card 1</string>
   <string name="export_to_sim2">Export to SIM card 2</string>
-  <string name="export_to_sim_title">Exporting to SIM card…</string>
+  <string name="export_to_sim_title">Exporting…</string>
   <string name="export_vcard_description">Export vCard to SD card</string>
   <string name="exporting_contact_failed_message">"The contact data wasn't exported.
 Reason: \"%s\""</string>
@@ -428,9 +429,6 @@ Reason: \"%s\""</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Find contacts</string>
   <string name="hint_more_contact">Merge duplicate contacts</string>
-  <string name="hint_search_contacts">%d contacts</string>
-  <string name="hint_search_emails">%d emails</string>
-  <string name="hint_search_phone_numbers">%d contact numbers</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
@@ -442,7 +440,8 @@ Reason: \"%s\""</string>
   <string name="import_failure_no_vcard_file">No vCard file found on the SD card.</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
-  <string name="import_from_sim">Import from SIM card 1</string>
+  <string name="import_from_sim">Import from SIM card</string>
+  <string name="import_from_sim1">Import from SIM card 1</string>
   <string name="import_from_sim2">Import from SIM card 2</string>
   <string name="import_multiple_vcard_string">Import multiple vCard files</string>
   <string name="import_name">Name</string>
@@ -454,13 +453,13 @@ Reason: \"%s\""</string>
   <string name="import_to_xiaomi_account_confirm">Import</string>
   <string name="import_to_xiaomi_account_progress_finish">Finished importing</string>
   <string name="import_to_xiaomi_account_progress_message">Importing…</string>
-  <string name="import_to_xiaomi_account_progress_title">Import contacts to Xiaomi Account</string>
-  <string name="import_to_xiaomi_account_title">Do you want to import the following contacts into your Xiaomi Account?</string>
+  <string name="import_to_xiaomi_account_progress_title">Import contacts to Mi Account</string>
+  <string name="import_to_xiaomi_account_title">Do you want to import the following contacts into your Mi Account?</string>
   <string name="import_vcard_description">Import contacts from your SD card</string>
   <string name="import_weibo_dialog_title">Import Weibo contacts</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
   <string name="import_weibo_error_no_network">Network error</string>
-  <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Xiaomi Account.</string>
+  <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
   <string name="import_weibo_error_unknown">Unknown error</string>
   <string name="import_weibo_error_user_cancel">User cancled</string>
   <string name="import_weibo_fetch_followers">Fetching contacts…</string>
@@ -476,7 +475,7 @@ Reason: \"%s\""</string>
   <string name="insertGroupDescription">Create group</string>
   <string name="invalidContactMessage">"Contact doesn't exist"</string>
   <string name="keep_local">Keep local</string>
-  <string name="keep_local_btn">Save in phone only</string>
+  <string name="keep_local_btn">"Use phone's internal storage"</string>
   <string name="label_custom_type">Custom</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">No duplicates found</string>
@@ -515,6 +514,7 @@ Reason: \"%s\""</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
   <string name="meid">MEID</string>
+  <string name="meid_invalid">Invalid MEID</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Add to favorites</string>
   <string name="menu_bar_group_add">Add</string>
@@ -660,7 +660,7 @@ To add a contact to your list of favorites:
 "</string>
   <string name="noGroups">No groups</string>
   <string name="noMatchingContacts">No matching contacts found.</string>
-  <string name="noRecentContacts">No recent contact</string>
+  <string name="noRecentContacts">No recent contacts</string>
   <string name="no_account_prompt">"People works better with a Google Account.
 
 • Access from any web browser.
@@ -668,7 +668,7 @@ To add a contact to your list of favorites:
   <string name="no_connection_dialog_title">Bluetooth connection failed</string>
   <string name="no_contact_details">No additional information for this contact.</string>
   <string name="no_contact_in_other_phone">No contacts dectected</string>
-  <string name="no_contacts_dialog_message">"Your contacts may be stored on your SIM card. Try importing contacts from you SIM card to your phone's internal storage and then try again."</string>
+  <string name="no_contacts_dialog_message">"Your contacts may be stored on your SIM card. Try importing contacts from your SIM card to your phone's internal storage and then try again."</string>
   <string name="no_contacts_dialog_title">Failed to find contacts</string>
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">No SD card was found.</string>
@@ -710,12 +710,8 @@ To add a contact to your list of favorites:
   <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">No pictures are available on the phone.</string>
   <string name="photo_package_activity_title">Browse folders</string>
-  <string name="pick_favorites_contacts_list_title">%1$d favorites</string>
-  <string name="pick_favorites_list_title">%1$d favorites</string>
   <string name="pick_new_photo">Select new photo from Gallery</string>
   <string name="pick_photo">Choose photo from Gallery</string>
-  <string name="pick_recent_contacts_list_title">%1$d recent contacts</string>
-  <string name="pick_recent_list_title">%1$d recent contacts</string>
   <string name="pickerNewContactHeader">Create new contact</string>
   <string name="pickerNewContactText">Create new contact</string>
   <string name="picker_all_list_empty">No contacts</string>
@@ -742,9 +738,9 @@ To add a contact to your list of favorites:
   <string name="pref_key_photo_word_title">Assign contact photos</string>
   <string name="pref_key_rebuild_t9_index_message">Rebuild index to resolve search issues</string>
   <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>
-  <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Xiaomi Account</string>
+  <string name="pref_summary_import_from_account">Import contacts from Google and Exchange to your Mi Account</string>
   <string name="pref_title_account_import">Import from account</string>
-  <string name="pref_title_import_from_account">Import from Xiaomi Account</string>
+  <string name="pref_title_import_from_account">Import to Mi Account</string>
   <string name="preference_auto_ip_summary_disable">Disabled</string>
   <string name="preference_auto_ip_summary_on">Carrier IP prefix: %s</string>
   <string name="preference_auto_ip_title">Automatic IP prefix</string>
@@ -768,7 +764,7 @@ To add a contact to your list of favorites:
   <string name="preference_phone_more_title">Call settings</string>
   <string name="preference_remove_duplicate">Merge duplicate contacts</string>
   <string name="preference_simple_mode_description">Hide pictures and other contact data in list view</string>
-  <string name="preference_simple_mode_title">Hide photos</string>
+  <string name="preference_simple_mode_title">Hide photos and info</string>
   <string name="preference_smart_group_company_summary">Group by company</string>
   <string name="preference_smart_group_company_title">By company</string>
   <string name="preference_smart_group_frequency_summary">Group by most recent</string>
@@ -871,6 +867,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_comment_upload_success">Comment sent! Your comment will be displayed after a brief review.</string>
   <string name="resource_default">Default ringtone</string>
   <string name="resource_default_name">Resource</string>
+  <string name="resource_delete">Delete</string>
   <string name="resource_delete_all">Delete %1$d selected resources?</string>
   <string name="resource_delete_confirm">Delete these resources?</string>
   <string name="resource_delta_update_failed">Update failed: Downloading theme again…</string>
@@ -1018,7 +1015,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="simContacts_title">SIM card contacts</string>
   <string name="sim_capacity">View SIM card capacity</string>
   <string name="sim_capacity_content" formatted="false">Total capacity %d | %d used</string>
-  <string name="sim_card_no_free_space_message">"There's not enough space on your SIM card."</string>
+  <string name="sim_card_no_free_space_message">Not enough space</string>
   <string name="sim_card_no_free_space_title">SIM card full</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
@@ -1104,7 +1101,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="toast_copying">Copying…</string>
   <string name="toast_displaying_all_contacts">Displaying all contacts</string>
   <string name="toast_finish_delete_call_log">Call log deleted</string>
-  <string name="toast_finish_delete_selected_call_log">Selected call log deleted</string>
+  <string name="toast_finish_delete_selected_call_log">Call log deleted</string>
   <string name="toast_for_failed_saving_nickname">Failed to save nickname</string>
   <string name="toast_for_saving_nickname">Nickname saved</string>
   <string name="toast_join_with_empty_contact">Type contact name before merging with another</string>
@@ -1165,7 +1162,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_menu_order">My orders</string>
   <string name="yellowpage_navigation_network_location_enable">Enable now</string>
   <string name="yellowpage_navigation_network_location_enable_later">Enable later</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling WLAN &amp; mobile network location service can improve the quality of services.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling WLAN &amp; mobile network location service can improve the quality of servic </string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Enable network location service</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>

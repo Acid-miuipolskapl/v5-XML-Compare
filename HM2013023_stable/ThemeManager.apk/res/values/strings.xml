@@ -5,11 +5,10 @@
   <string name="all_resources">All</string>
   <string name="all_ringtone_resource">All</string>
   <string name="app_name">Themes</string>
+  <string name="apply_default_font_tip">"Keep using system's current font?"</string>
   <string name="apply_font_btn_exclude">Apply theme without font</string>
   <string name="apply_font_btn_reboot">Reboot</string>
   <string name="apply_font_tip">"Reboot to apply this theme's font."</string>
-  <string name="apply_lockscreen_paper_tips">"This screen lock doesn't support different wallpapers."</string>
-  <string name="apply_theme_no_select_message">Choose components</string>
   <string name="apply_theme_with_ringtones">Apply theme ringtones</string>
   <string name="backup_preference_title">Back up theme</string>
   <string name="backup_theme_dialog_message">Back up the current theme?</string>
@@ -22,9 +21,6 @@
   <string name="close">Close</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">ADVANCED</string>
-  <string name="component_include_title">Contains %1$s components</string>
-  <string name="component_select_title">%1$s components selected</string>
-  <string name="component_settings_title">Customize theme</string>
   <string name="default_name">Default</string>
   <string name="deleting">Deleting…</string>
   <string name="description_author">Author</string>
@@ -35,6 +31,7 @@
   <string name="description_uploadtime">Update</string>
   <string name="description_version">Version</string>
   <string name="description_version_szie">Version: %1$s Size: %2$s</string>
+  <string name="deselect_all">@miui:string/v5_deselect_all</string>
   <string name="desktop_wallpaper">Home screen</string>
   <string name="download_failed">Download failed</string>
   <string name="download_preview_failed">Failed to load preview</string>
@@ -102,6 +99,7 @@
   <string name="resource_comment_upload_success">Comment sent! Your comment will be displayed after a brief review.</string>
   <string name="resource_default">Default ringtone</string>
   <string name="resource_default_name">Resource</string>
+  <string name="resource_delete">Delete</string>
   <string name="resource_delete_all">Delete %1$d selected resources?</string>
   <string name="resource_delete_confirm">Delete these resources?</string>
   <string name="resource_delta_update_failed">Update failed: Downloading theme again…</string>
@@ -162,7 +160,6 @@
   <string name="resource_pack_price_info">%1$s Original</string>
   <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
   <string name="resource_present">Gift</string>
-  <string name="resource_preview">Preview</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Free</string>
   <string name="resource_price_unit"> MiCredits</string>
@@ -200,10 +197,10 @@ the content you're looking for is not currently available in your region."</stri
   <string name="resource_update">Update</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Waiting</string>
-  <string name="restore_default_theme_alert">Use the Themes app to purchase or re-download.</string>
   <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
+  <string name="select_all">@miui:string/v5_select_all</string>
   <string name="selected_resource_file_invalid">Selected resource file is invalid</string>
   <string name="settings">Settings</string>
   <string name="short_ringtone_resource">Short</string>
@@ -241,15 +238,25 @@ the content you're looking for is not currently available in your region."</stri
   <string name="theme_current_using_has_update">"There's an update for the theme you're using."</string>
   <string name="theme_description_title_customized">Custom</string>
   <string name="theme_description_title_default">Default</string>
+  <string name="theme_fresh_man_notifaction">Try some new themes.</string>
   <string name="theme_immediately_apply_tip">Apply theme update now?</string>
-  <string name="theme_import_activity_label">Theme update</string>
   <string name="theme_import_from_sdcard">Import from SD card</string>
   <string name="theme_name">%1$s</string>
+  <string name="theme_no">No</string>
   <string name="theme_select_others">Browse</string>
+  <string name="theme_user_agreement_allow">Agree</string>
+  <string name="theme_user_agreement_content1">Read the applicable terms carefully before you use this product:</string>
+  <string name="theme_user_agreement_content2">" User agreement"</string>
+  <string name="theme_user_agreement_content3">" and "</string>
+  <string name="theme_user_agreement_content4">Privacy policy</string>
+  <string name="theme_user_agreement_content5">. Do you agree its requiring network?</string>
+  <string name="theme_user_agreement_remind_again">Notify when requiring network</string>
+  <string name="theme_user_agreement_remind_never">"Don't remind me"</string>
+  <string name="theme_user_agreement_remind_summary">Take effect next boot</string>
+  <string name="theme_user_agreement_title">Declaration and Impunity</string>
+  <string name="theme_yes">Yes</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
   <string name="title_component">Components</string>
-  <string name="title_local">Local</string>
-  <string name="title_online">Online</string>
   <string name="title_system_resource">System resources</string>
   <string name="to_activate_the_account">Activate your Xiaomi Account now</string>
   <string name="wallpaper_crop">Crop</string>

@@ -255,6 +255,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="apn_settings">APNs</string>
   <string name="apn_type">APN type</string>
   <string name="apn_user">Username</string>
+  <string name="app_backup">Backup</string>
   <string name="app_disable_dlg_text">If you disable a built-in app, other apps may misbehave.</string>
   <string name="app_disable_dlg_title">Disable built-in app?</string>
   <string name="app_disable_notifications_dlg_text">If you turn off notifications for this app, you may miss important alerts and updates.</string>
@@ -262,6 +263,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_factory_reset">Uninstall updates</string>
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
+  <string name="app_feedback">Report Bug</string>
   <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app.
 Disable floating windows?"</string>
   <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires the app to restart. You can also stop running the app manually.
@@ -602,7 +604,6 @@ Enable floating windows?"</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="breathing_light_color_menu_title">Light color</string>
   <string name="breathing_light_color_summary">LED color when receiving new notification</string>
-  <string name="breathing_light_color_title">light color</string>
   <string name="breathing_light_freq_summary">Pulse when you have new notifications</string>
   <string name="breathing_light_freq_title">LED flash frequency</string>
   <string name="brightness">Brightness</string>
@@ -625,17 +626,18 @@ Enable floating windows?"</string>
   <string name="button_light_timeout">Button light settings</string>
   <string name="button_start_optimize">Check</string>
   <string name="button_text_a_key_clean_up">Clean up</string>
-  <string name="button_text_a_key_optimize">Optimize now</string>
+  <string name="button_text_a_key_optimize">Optimize</string>
   <string name="button_text_a_key_uninstall">Uninstall</string>
   <string name="button_text_backup_and_cleanup_apps">Back up first</string>
   <string name="button_text_backup_and_uninstall_apps">Backup and uninstall</string>
   <string name="button_text_cancel">Cancel</string>
   <string name="button_text_cleanup_apps">Clear data</string>
   <string name="button_text_delete">Delete</string>
-  <string name="button_text_delete_from_white_list">Out whitelist</string>
+  <string name="button_text_delete_from_white_list">Remove from list</string>
   <string name="button_text_done">Done</string>
   <string name="button_text_fix">Fix</string>
-  <string name="button_text_quick_scan">Start scan</string>
+  <string name="button_text_known">I know</string>
+  <string name="button_text_quick_scan">Scan</string>
   <string name="button_text_security">Security</string>
   <string name="button_text_uninstall">Uninstall</string>
   <string name="button_text_uninstall_apps">Uninstall</string>
@@ -781,6 +783,12 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="crypt_keeper_unplugged_text">Plug in your charger and try again.</string>
   <string name="cryptkeeper_emergency_call">Emergency call</string>
   <string name="cryptkeeper_return_to_call">Return to call</string>
+  <string name="cta_button_text_agree">同意</string>
+  <string name="cta_button_text_cancel">取消</string>
+  <string name="cta_checkbox_title">不再提示</string>
+  <string name="cta_dialog_msg">您将使用小米公司的安全中心服务，为了保证功能的正常使用以及相关病毒库能够得到及时的更新，在使用过程中需要联网，您是否同意？</string>
+  <string name="cta_dialog_title">声明和条款</string>
+  <string name="cta_settings">允许联网</string>
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Default</string>
   <string name="current_suffix">(Current)</string>
@@ -896,14 +904,14 @@ This setting affects all users on this phone."</string>
   <string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
   <string name="debug_log">User experience program</string>
   <string name="debug_monitoring_category">Monitoring</string>
-  <string name="deep_clean_summary_install_apps_interval">used %d days age</string>
-  <string name="deep_clean_summary_install_apps_new">never used</string>
-  <string name="deep_clean_summary_install_apps_risk">risk detected</string>
-  <string name="deep_clean_summary_install_apps_today">used today</string>
-  <string name="deep_clean_summary_install_apps_virus">virus detected</string>
-  <string name="deep_clean_tips_cache_content">"Some apps use cache files to download additional resources (e.g. song lyrics, music, and images). Be careful when you're cleaning up these files."</string>
+  <string name="deep_clean_summary_install_apps_interval">Used %d days ago</string>
+  <string name="deep_clean_summary_install_apps_new">Never used</string>
+  <string name="deep_clean_summary_install_apps_risk">Risk detected</string>
+  <string name="deep_clean_summary_install_apps_today">Used today</string>
+  <string name="deep_clean_summary_install_apps_virus">Virus detected</string>
+  <string name="deep_clean_tips_cache_content">Some apps use cache files to download additional resources (e.g. song lyrics, music, and images).</string>
   <string name="deep_clean_tips_cache_title">Cache:</string>
-  <string name="deep_clean_tips_large_file_content">Large files are files bigger than 10MB that are currently stored on your device. Only you can decide whether or not you still need them.</string>
+  <string name="deep_clean_tips_large_file_content">Large files are files bigger than 10MB that are currently stored on your device.</string>
   <string name="deep_clean_tips_large_file_title">Large files:</string>
   <string name="deep_clean_tips_residual_content">"Residuals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps that have since been uninstalled. Be careful when you're cleaning up, as some of these files may still be of use to you."</string>
   <string name="deep_clean_tips_residual_title">Residuals:</string>
@@ -933,6 +941,7 @@ This setting affects all users on this phone."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
+  <string name="device_cpu8_info">Octa-core</string>
   <string name="device_edit_title">Rename phone</string>
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
@@ -952,13 +961,15 @@ This setting affects all users on this phone."</string>
   <string name="device_status_summary">Phone number, signal, etc.</string>
   <string name="dialog_apn_disabled">APN disabled!</string>
   <string name="dialog_apn_disabled_msg">Please turn off Airplane mode to enable APN Settings.</string>
+  <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings &gt; Apps.</string>
   <string name="dialog_msg_backup_and_cleanup_apps">After backup is complete, all app data will be deleted. This includes all files, settings, accounts, databases, etc.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Backup and uninstall apps</string>
-  <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
+  <string name="dialog_msg_check_all">%1$s contains %2$d items.</string>
   <string name="dialog_msg_cleanup_apps">"All this app's data will be deleted permanently. This includes all files, settings, accounts, databases, etc."</string>
   <string name="dialog_msg_cleanup_system_cache">This will clear cached data for all apps.</string>
-  <string name="dialog_msg_load_cleanup_engine_error">Garbage clean engine has been corrupted, the whole amount of the package or re-brush brush!</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Yikes! This app has been corrupted. Try reinstalling.</string>
   <string name="dialog_msg_uninstall_apps">Uninstall these apps?</string>
+  <string name="dialog_title_auto_start_tips">About auto start</string>
   <string name="dialog_title_backup_and_cleanup_apps">Backup and delete app data?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Backup and uninstall</string>
   <string name="dialog_title_check_all">Select all</string>
@@ -972,9 +983,14 @@ This setting affects all users on this phone."</string>
   <string name="dirac_control">Optimize audio quality</string>
   <string name="dirac_mode_earbuds">Mi headphones</string>
   <string name="dirac_mode_general">General</string>
+  <string name="dirac_mode_general_earbuds">General earbuds</string>
+  <string name="dirac_mode_general_inear">General inear</string>
   <string name="dirac_mode_in_ear">Mi in-ear headphones lite</string>
   <string name="dirac_mode_off">Dirac off</string>
+  <string name="dirac_mode_piston_1">Xiaomi piston-1</string>
   <string name="dirac_mode_piston_100">Mi in-ear headphones</string>
+  <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
   <string name="dirac_switch_summary">"Use Dirac Sound enhancer when using phone's speakers"</string>
   <string name="dirac_switch_title">Dirac sound technology</string>
   <string name="disableNetwork">disableNetwork</string>
@@ -1119,7 +1135,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_gps_confirm_message">It needs a wireless data connection to acquire GPS assistance data (EPO, A-GPS) that may cause extra network fee. Are you sure to turn on GPS?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_sim">Enable</string>
-  <string name="enable_snapshot_screenlock">Long press Back for Camera</string>
+  <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
   <string name="enable_text">Enable</string>
   <string name="enable_traces_dialog_title">Select enabled traces</string>
   <string name="enable_traces_summary_all">All traces currently enabled</string>
@@ -1250,6 +1266,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_connected_time">Duration: %1$s</string>
   <string name="free_wifi_connecting">Connecting…</string>
   <string name="free_wifi_login_again">Sign in again</string>
+  <string name="free_wifi_manage_summary">Tap to view to %1$s.</string>
   <string name="free_wifi_speed_title">Slow connection?</string>
   <string name="free_wifi_summary">Tap to connect to %1$s.</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -1326,7 +1343,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="gadget_toggle_wifi">Updating WLAN setting</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Game Controller</string>
-  <string name="garbage_white_list_empty_content">White list is empty</string>
+  <string name="garbage_white_list_empty_content">Empty</string>
   <string name="gemini_3g_disable_warning">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings &gt; Wireless &amp; networks &gt; Mobile networks.</string>
   <string name="gemini_3g_disable_warning_case0">You must enable data roaming for this SIM first which may incur significant roaming charges! Are you sure to enable data roaming and select this SIM?</string>
   <string name="gemini_3g_disable_warning_case1">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings &gt; Wireless &amp; networks &gt; Mobile networks. Are you sure to select this SIM?</string>
@@ -1409,6 +1426,7 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
   <string name="global_change_warning">This setting affects all users on this phone.</string>
   <string name="global_font_change_title">Change font size</string>
   <string name="global_locale_change_title">Change language</string>
+  <string name="google_backup_section_title">Google backup &amp; restore</string>
   <string name="gps_time_sync_attention_gps_off">"To use GPS provided time, you must enable GPS first. It then take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal. 
 
 Are you sure to enable GPS now and wait for GPS provided time?"</string>
@@ -1490,7 +1508,8 @@ Are you sure to use GPS provided time?"</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
   <string name="ims_reg_required_on">Turn on IMS registration required</string>
   <string name="incoming_call_app_name">Incomming call</string>
-  <string name="incoming_call_vibrate_abbreviation">"Calls "</string>
+  <string name="incoming_call_breathing_light_color_title">Calls light color</string>
+  <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
   <string name="incoming_call_volume_title">Ringtone</string>
   <string name="incomming_command_summary_format">You can say %1$s or %2$s to answer or reject incomming calls.</string>
   <string name="input_method">Input method</string>
@@ -1618,9 +1637,9 @@ Are you sure to use GPS provided time?"</string>
   <string name="list_sub_view_item_clean">Clean</string>
   <string name="list_sub_view_item_cleanup">Clear</string>
   <string name="list_sub_view_item_install">Install</string>
-  <string name="list_sub_view_item_lock">Add to white list</string>
+  <string name="list_sub_view_item_lock">Add to exceptions</string>
   <string name="list_sub_view_item_uninstall">Uninstall</string>
-  <string name="list_sub_view_item_unlock">Add to white list</string>
+  <string name="list_sub_view_item_unlock">Add to exceptions</string>
   <string name="list_sub_view_item_view">Detail</string>
   <string name="list_sub_view_item_view_detail">Details</string>
   <string name="list_sub_view_item_view_file">File</string>
@@ -1631,6 +1650,8 @@ Are you sure to use GPS provided time?"</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
+  <string name="local_backup_section_summary">Backup system settings, account and apps</string>
+  <string name="local_backup_section_title">ocal backups</string>
   <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
   <string name="location_access_title">Access to my location</string>
   <string name="location_gps">GPS satellites</string>
@@ -1831,8 +1852,9 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="miui_screensaver_state_on">On</string>
   <string name="miui_screensaver_title">Screensaver</string>
   <string name="miui_screensaver_usage">Pictures in the screensaver album will be displayed 5 seconds after the screen turns off.</string>
+  <string name="mms_breathing_light_color_title">Messages light color</string>
+  <string name="mms_breathing_light_freq_title">Messages LED flash frequency</string>
   <string name="mms_log_tab_title">Message log</string>
-  <string name="mms_vibrate_abbreviation">"Messages "</string>
   <string name="model_number">Model number</string>
   <string name="mota_system_update_summary">Check system update on server</string>
   <string name="move_app">Move</string>
@@ -1879,6 +1901,14 @@ Try the following:
   <string name="msd_install_status_undo">Install driver</string>
   <string name="msd_install_succeed">Driver installed</string>
   <string name="msd_install_windows_xp_step_2_1">Follow the steps in the Setup Wizard to complete installation.</string>
+  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer versions of Windows,
+the %1$s music player will appear on your computer automatically"</string>
+  <string name="msd_pc_system_install_finish_summary_xp">"After you install this driver
+%1$s will appear as a USB mass storage device when connected to a computer."</string>
+  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer versions of Windows, 
+%1$s will appear automatically as a USB mass storage"</string>
+  <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s will appear as a USB mass storage
+ device when connected to your computer."</string>
   <string name="msg_cleanup_db_update_checking">Checking…</string>
   <string name="msg_cleanup_db_update_time_unknown">Update on: unknown</string>
   <string name="msg_system_cache_hints">"Clearing cached data will not affect your apps' files, settings, accounts, databases, etc."</string>
@@ -1944,16 +1974,17 @@ Try the following:
   <string name="noise_suppression">Ambient noise suppression</string>
   <string name="normal_date_format">Regional (%s)</string>
   <string name="not_installed">Not installed</string>
-  <string name="notification_button_text_of_low_memory">Clean-up</string>
+  <string name="notification_breathing_light_color_title">Notifications light color</string>
+  <string name="notification_breathing_light_freq_title">Notifications LED flash frequency</string>
+  <string name="notification_button_text_of_low_memory">Cleanup</string>
   <string name="notification_pulse_title">Pulse notification light</string>
   <string name="notification_sound_dialog_title">Default notification</string>
   <string name="notification_sound_title">Default notification</string>
   <string name="notification_summary_of_garbage_cleanup">Trash size is over %s.</string>
-  <string name="notification_summary_of_low_memory">When low memory,will not install new apps</string>
+  <string name="notification_summary_of_low_memory">System memory is low.</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notification_title_of_garbage_cleanup">Consider emptying trash</string>
-  <string name="notification_title_of_low_memory">The system stroage has used %s</string>
-  <string name="notification_vibrate_abbreviation">"Notifications "</string>
+  <string name="notification_title_of_low_memory">%s in use</string>
   <string name="notification_volume_title">Notification</string>
   <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
   <string name="nsd_quick_toggle_title">Network service discovery</string>
@@ -2010,20 +2041,20 @@ Try the following:
   <string name="optimize_cache_header_left">Cache files: %d</string>
   <string name="optimize_cache_list_empty_content">No cache files found</string>
   <string name="optimize_done">"Ok, you're all set!"</string>
-  <string name="optimize_installed_apps_header_left">Download apps: %d</string>
+  <string name="optimize_installed_apps_header_left">Downloaded apps: %d</string>
   <string name="optimize_installed_apps_list_empty_content">No apps found</string>
   <string name="optimize_large_file_header_left">Large files: %d</string>
   <string name="optimize_large_file_list_empty_content">No large files found</string>
   <string name="optimize_now">Start</string>
   <string name="optimize_residual_header_left">Residuals: %d</string>
   <string name="optimize_residual_list_empty_content">No residuals found</string>
-  <string name="optimize_tips_ad_content">Images, text, and other advertisement-related content which third-party service providers store on your phone.</string>
+  <string name="optimize_tips_ad_content">Images, text, and other ad-related content which third-party service providers store on your phone.</string>
   <string name="optimize_tips_ad_title">Ad files:</string>
-  <string name="optimize_tips_apk_content">"Used to install apps on your device, however they don't do anything once you've already installed the app."</string>
+  <string name="optimize_tips_apk_content">"Used to install apps on your device, however they don't do anything after you've installed the app."</string>
   <string name="optimize_tips_apk_title">Packages:</string>
   <string name="optimize_tips_cache_content">Generated by apps and processes which only require them temporarily (e.g. thumbnails).</string>
   <string name="optimize_tips_cache_title">Cache:</string>
-  <string name="optimize_tips_residual_content">"Files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps which have already been uninstalled. As some of these files may still be of use to you, we recommend that you use the Advanced feature when cleaning up residual files."</string>
+  <string name="optimize_tips_residual_content">"Files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps which have been uninstalled. Be careful, you may want to keep some of these files (e.g. photos, music, or video)."</string>
   <string name="optimize_tips_residual_title">Residuals:</string>
   <string name="optimize_tips_title">Help</string>
   <string name="optimize_title_ad">Ad files</string>
@@ -2423,18 +2454,18 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="power_wifi">WLAN</string>
   <string name="pref_button_light">Button light</string>
   <string name="pref_button_light_summary">Menu, Home and Back key indicator</string>
-  <string name="pref_category_title_auto_update_cleanup_db">Cleanup database update settings</string>
-  <string name="pref_category_title_cleanup_white_list">Trash clean-up white list</string>
+  <string name="pref_category_title_auto_update_cleanup_db">Update settings</string>
+  <string name="pref_category_title_cleanup_white_list">Cleanup exceptions</string>
   <string name="pref_category_title_garbage_cleanup_check">Cleanup settings</string>
   <string name="pref_category_title_module_settings">Each functional module settings</string>
   <string name="pref_category_title_securitycenter_settings">Security Center settings</string>
   <string name="pref_operational_key">Operational key</string>
   <string name="pref_summary_auto_update_cleanup_db">Update: %s</string>
-  <string name="pref_summary_cleanup_white_list">Trash in white list will be ignore</string>
+  <string name="pref_summary_cleanup_white_list">Trash associated with the apps in this list will be ignored during cleanup.</string>
   <string name="pref_summary_expand_cache_group">Groups in the cache list will default expand</string>
   <string name="pref_summary_garbage_cleanup_check_size">Notify me when Trash reaches a certain size</string>
   <string name="pref_title_auto_update_cleanup_db">Auto update</string>
-  <string name="pref_title_cleanup_white_list">Trash clean-up white list</string>
+  <string name="pref_title_cleanup_white_list">Cleanup exceptions</string>
   <string name="pref_title_expand_cache_group">Expand the cache groups</string>
   <string name="pref_title_garbage_cleanup_check_size">Trash alarm size</string>
   <string name="pref_title_garbage_cleanup_check_time">Trash alarm</string>
@@ -2447,6 +2478,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
+  <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
@@ -2535,7 +2567,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="quick_scan_apk_list_item_version_hit">Version: %s</string>
   <string name="quick_scan_cleaning_title">Cleaning…</string>
   <string name="quick_scan_doing_title">Scanning…</string>
-  <string name="quick_scan_done_title">Scan done</string>
+  <string name="quick_scan_done_title">Done</string>
   <string name="quick_scan_list_loading_hits">Scanning…</string>
   <string name="quick_scan_result_summary">Will start in %d secs</string>
   <string name="quick_scan_result_title">%s items found</string>
@@ -2998,6 +3030,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">WLAN only</string>
   <string name="system">System</string>
+  <string name="system_backup_section_title">Backup</string>
   <string name="system_cache_title">System cache</string>
   <string name="system_package">"System updates can't be installed on external media."</string>
   <string name="system_storage">Internal storage</string>
@@ -3034,6 +3067,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
   <string name="title_dolby_control">Dobly digital plus</string>
+  <string name="title_font">Font</string>
+  <string name="title_font_current">Using</string>
   <string name="title_font_size">Font size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
   <string name="title_install_virus_no">Install monitor off</string>
@@ -3055,16 +3090,16 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tls_summary_off">TLS is turned off</string>
   <string name="tls_summary_on">TLS is turned on</string>
   <string name="tls_title">TLS</string>
-  <string name="toast_add_white_list_success">Has been added to the white list, see the settings</string>
+  <string name="toast_add_white_list_success">" added to exceptions"</string>
   <string name="toast_application_no_residual_on_sdcard">"This app doesn't have any files stored on your SD card"</string>
   <string name="toast_backup_cleanup_success">Data backed up and deleted</string>
   <string name="toast_backup_is_running">Backup is already running. Wait a minute or two and try again.</string>
   <string name="toast_backup_uninstall_failed">Failed to back up %d apps. Wait a minute or two and try again.</string>
   <string name="toast_backup_uninstall_success">Backup and uninstall complete</string>
   <string name="toast_cleanup_success">Data cleared</string>
-  <string name="toast_garbage_cleanup_success">Clean up success</string>
+  <string name="toast_garbage_cleanup_success">Done</string>
   <string name="toast_qucik_scan_list_empty">Everything looks good, no need to clean!</string>
-  <string name="toast_removed_from_white_list">Has bean removed from white list</string>
+  <string name="toast_removed_from_white_list">" removed from exceptions"</string>
   <string name="toast_shortcut_install">Shortcut placed on Home screen</string>
   <string name="toast_shortcut_uninstall">Shortcut removed</string>
   <string name="total_size">%s total</string>
@@ -3081,6 +3116,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
+  <string name="translation_contributors_title">Contributors</string>
   <string name="trust_access_points">Default credible access points</string>
   <string name="trust_switch_dialog_msg">You will not be notified when this app executes security or privacy related actions.</string>
   <string name="trusted_credentials">Trusted credentials</string>
@@ -3234,6 +3270,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_default_tts_settings_title">Always use my settings</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
+  <string name="use_network_warning">Xiaomi Service Framework and Cloud Service require network connection</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_user_menu">Add user</string>
@@ -3400,7 +3437,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scanner_select_single">Only use definitions from a trusted source.</string>
   <string name="virus_scanner_select_trust_lib">Select virus definitions</string>
   <string name="virus_scanner_stop_title">Stop scanning</string>
-  <string name="virus_scanner_title">System Scanner</string>
+  <string name="virus_scanner_title">Virus scanner</string>
   <string name="virus_scanner_update_lib">Update definitions</string>
   <string name="virus_single_app_file_date">Date created:</string>
   <string name="virus_single_app_install_date">Install date:</string>
@@ -3499,7 +3536,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="white_list_cache_header">Cache files: %d</string>
   <string name="white_list_large_file_header">Large files: %d</string>
   <string name="white_list_residual_header">Residuals: %d</string>
-  <string name="white_list_title">White List</string>
+  <string name="white_list_title">Exceptions</string>
   <string name="whitelist_tab_title">Exceptions</string>
   <string name="widget_picker_title">Choose widget</string>
   <string name="wifi_WEP_secury_key">Secury Key</string>

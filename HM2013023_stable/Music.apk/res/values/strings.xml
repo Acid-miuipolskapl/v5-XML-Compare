@@ -43,7 +43,11 @@
   <string name="channel_postfix">MHZ</string>
   <string name="choose_download_quality">Choose download quality</string>
   <string name="choose_stream_quality">Choose stream quality</string>
+  <string name="click_to_play_all">Click to play all</string>
   <string name="click_to_shuffle">Touch to shuffle all</string>
+  <string name="collect_bill_success">Bill added to favorites</string>
+  <string name="collect_fm_success">Added to favorites</string>
+  <string name="collect_topic_success">Album added to favorites</string>
   <string name="complete">Complete</string>
   <string name="confirm">Confirm</string>
   <string name="correct_id3_by_internet">Get song info</string>
@@ -69,8 +73,12 @@
   <string name="deselect_all">Reject all</string>
   <string name="dirac_mode_earbuds">Xiaomi earbuds</string>
   <string name="dirac_mode_general">General</string>
-  <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
-  <string name="dirac_mode_piston_100">Xiaomi piston headphones</string>
+  <string name="dirac_mode_general_earbuds">General earbuds</string>
+  <string name="dirac_mode_general_inear">General inear</string>
+  <string name="dirac_mode_in_ear">Xiaomi in-ear</string>
+  <string name="dirac_mode_piston_100">Xiaomi piston-1</string>
+  <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
   <string name="disconnect">Disconnect</string>
   <string name="download">Download</string>
   <string name="download_album_settings">Get album artwork</string>
@@ -143,13 +151,16 @@
   <string name="higher_quality_music">Higher quality music</string>
   <string name="higher_quality_music_summary">Listen to and download higher quality music</string>
   <string name="hot_artists">Featured Artists</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">I know</string>
   <string name="id3_edit">Manually edit song information</string>
   <string name="id3_edit_failed">Failed to edit song information</string>
   <string name="id3_modify_confirm_check">Confirm changes</string>
   <string name="id3_modify_confirm_text">Save</string>
-  <string name="impunity_declaration">The online music you are about to listen to is from Baidu Online Music Service. Touch Confirm to accept the &lt;a href="http://music.baidu.com/doc/agreement"&gt;terms of use&lt;/a&gt;</string>
-  <string name="impunity_declaration_title">Declaration</string>
+  <string name="impunity_declaration">The online music you are about to listen to is from Baidu Online Music Service. Touch Confirm to accept the &lt;a href="http://music.baidu.com/doc/agreement"&gt;terms of use&lt;/a&gt;, may increase your data usage costs.</string>
+  <string name="impunity_declaration_ignore">Do not prompt</string>
+  <string name="impunity_declaration_settings">Every time notification when networking</string>
+  <string name="impunity_declaration_summary">When entering the music, there will popup to remind</string>
+  <string name="impunity_declaration_title">Declaration and Impunity</string>
   <string name="keep_quit_position_settings">Remember last screen</string>
   <string name="keep_quit_position_summary">Automatically go to the last screen you viewed when you open the Music app</string>
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
@@ -163,20 +174,17 @@
   <string name="ktv_unbind_message">"Failed to connect with KTV console. Make sure you're scanning the correct QR code."</string>
   <string name="listen_to_music_online_settings">Stream music from Baidu</string>
   <string name="listen_to_online_summary">Streaming music will significantly increase your mobile data usage</string>
-  <string name="load_album_artist_failed">List failed to load</string>
-  <string name="load_album_artist_in_process">Loading…</string>
-  <string name="load_album_failed">List failed to load</string>
-  <string name="load_album_in_process">Loading…</string>
-  <string name="load_artist_failed">List failed to load</string>
-  <string name="load_artist_in_process">Loading…</string>
   <string name="load_audio_failed">List failed to load</string>
   <string name="load_audio_in_process">Loading…</string>
   <string name="load_bill_failed">List failed to load</string>
   <string name="load_bill_in_process">Load billboard list…</string>
   <string name="load_channel_failed">List failed to load</string>
   <string name="load_channel_in_process">Loading…</string>
+  <string name="load_recommend_failed">List failed to load</string>
+  <string name="load_recommend_in_process">Loading…</string>
   <string name="loading">Loading</string>
   <string name="login">Sign in</string>
+  <string name="login_and_enable">Sign in and sync</string>
   <string name="login_first">You need to sign in to your Xiaomi Account first</string>
   <string name="lrc_progress_modify">Adjust lyrics progress</string>
   <string name="lrc_progress_modify_helper">Swipe up and down to adjust</string>
@@ -193,8 +201,8 @@
   <string name="mediaplaybacklabel">Music</string>
   <string name="menu_higher_quality_music">Higher quality music (monthly access)</string>
   <string name="mi_effect">Mi Sound</string>
-  <string name="mi_effect_summary">"Always use Mi Sound when using phone's speakers"</string>
-  <string name="mi_effect_title">Mi Sound enhancer</string>
+  <string name="mi_effect_summary">Always use MiSound enhancer when using speakers</string>
+  <string name="mi_effect_title">Use MiSound enhancer</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Mobile network</string>
   <string name="modify_id3_for_list">"Listed songs' info will be changed."</string>
@@ -204,7 +212,6 @@
   <string name="more">More</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter files</string>
-  <string name="music_filter_helper">A filter has prevented these files from being displayed</string>
   <string name="music_not_loaded">Waiting for audio to load…</string>
   <string name="music_open_other_connect">Download music using mobile network</string>
   <string name="music_picker_title">Select track</string>
@@ -220,9 +227,11 @@
   <string name="no_song_downloaded">Unable to connect to server</string>
   <string name="normal_quality">Good Quality</string>
   <string name="not_login">Sign in</string>
+  <string name="not_now">Not now</string>
   <string name="not_selected">Choose a song</string>
   <string name="notification_artist_album">"%2$s
 %1$s"</string>
+  <string name="number_format" formatted="false">%s.%s</string>
   <string name="online_search_hint">Search Baidu music</string>
   <string name="online_title">Online</string>
   <string name="other_settings">Other</string>
@@ -252,7 +261,6 @@
   <string name="playlist_renamed_message">Playlist renamed</string>
   <string name="playlists_title">Playlists</string>
   <string name="powered_by">Powered by</string>
-  <string name="project_device">Mi Box</string>
   <string name="project_device_mobile">Mobile device</string>
   <string name="queue">Current playlist</string>
   <string name="quit_player">Exit</string>
@@ -292,6 +300,7 @@
   <string name="search_suggestion">Search suggestions:</string>
   <string name="search_title">Search</string>
   <string name="select_all">Select all</string>
+  <string name="select_device">Select device</string>
   <string name="select_folder">Select folder</string>
   <string name="select_quit_time">Stop player after… (mins)</string>
   <string name="send_to">Send to…</string>
@@ -313,10 +322,13 @@
   <string name="start_to_download_album">Getting album artwork…</string>
   <string name="start_to_download_avatar">Getting artist picture…</string>
   <string name="streamloadingtext">Connecting to %s</string>
-  <string name="synchronize_guide_toast">To enable sync, go to Settings &gt; Sync playlists</string>
+  <string name="sync_alert_message">Sync your favourite songs across devices with your Mi Account.</string>
+  <string name="sync_alert_title">Sync music</string>
+  <string name="sync_disable_toast">You can always enable sync later in Settings &gt; Accounts &gt; Mi Cloud</string>
+  <string name="sync_enable_toast">You can change this setting in Settings &gt; Accounts &gt; Mi Cloud</string>
   <string name="synchronize_playlist_setting">Sync playlist</string>
   <string name="synchronize_playlist_summary">Sync your playlist with Mi Cloud</string>
-  <string name="synchronize_to_baidu_cloud">Back up online songs in your playlists with Baidu Cloud</string>
+  <string name="take_effect_afater_restart">The music must be restarted in order for the new setting to take effect</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">High</string>
   <string name="track_bit_rate_standard">Good</string>
@@ -325,6 +337,7 @@
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">All Songs</string>
   <string name="ultra_high_quality">Higher Quality</string>
+  <string name="uncollect_success">Removed from favorites</string>
   <string name="unknown_album_name">Unknown album</string>
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="use_local_album">Get album artwork: choose local file</string>
@@ -340,6 +353,8 @@
   <string name="vip_recommend_sub_title">Unlimited CD-quality music (320 kbps)</string>
   <string name="vip_recommend_summary">Stream or download all your favorite artists from Baidu Music at 320 kbps.</string>
   <string name="vip_recommend_title">Get higher quality music</string>
+  <string name="volume_alert_playback_alert_title">Volume alert</string>
+  <string name="volume_alert_playback_message">To prevent possible hearing damage, do not listen at high volume levels for long periods.</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
   <string name="xiaomi_account_setting">Xiaomi Account</string>
 </resources>

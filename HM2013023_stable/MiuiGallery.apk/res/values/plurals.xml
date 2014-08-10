@@ -15,4 +15,9 @@
         <item quantity="zero">%1$d pictures</item>
         <item quantity="one">%1$d picture</item>
     </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d items</item>
+        <item quantity="zero">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
 </resources>
