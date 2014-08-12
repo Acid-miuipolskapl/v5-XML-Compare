@@ -222,7 +222,6 @@ Enable floating windows?"</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="applications_sort_type_item_size">Size</string>
   <string name="applications_sort_type_item_time">Frequently used</string>
-  <string name="applications_sort_type_title">Sort</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
   <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
   <string name="ask_compatibility">Ask when launched</string>
@@ -568,6 +567,8 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="button_text_uninstall_apps">Uninstall</string>
   <string name="button_text_view">View</string>
   <string name="button_text_view_power">View power</string>
+  <string name="cache_data_sort_type_item_name">Name</string>
+  <string name="cache_data_sort_type_item_size">Size</string>
   <string name="cache_garbage">Cache</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_list_empty_hints">No cached files</string>
@@ -865,6 +866,8 @@ This setting affects all users on this phone."</string>
   <string name="deep_clean_title_residual">Residuals</string>
   <string name="deep_clean_title_uninstall_apps">Apps</string>
   <string name="deep_cleaning">Advanced</string>
+  <string name="deepclean_cache_header_left">Cache files: %d</string>
+  <string name="deepclean_sort_type_title">Sort</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Choose default input method</string>
   <string name="default_usb_mode">USB connection</string>
@@ -1043,6 +1046,7 @@ This setting affects all users on this phone."</string>
   <string name="edit_whitelist">Edit note</string>
   <string name="emergency_tone_summary">Set behavior when an emergency call is placed</string>
   <string name="emergency_tone_title">Emergency tone</string>
+  <string name="empty_content_size">None</string>
   <string name="empty_folder_title">Empty folder (%d)</string>
   <string name="empty_folder_title_hints">Empty folder</string>
   <string name="empty_list_msg">"You don't have any third-party apps installed."</string>
@@ -1412,6 +1416,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="language_picker_title">Language</string>
   <string name="language_settings">Language &amp; input</string>
   <string name="language_settings_category">Language settings</string>
+  <string name="large_file_sort_type_item_name">Name</string>
+  <string name="large_file_sort_type_item_size">Size</string>
   <string name="large_file_sort_type_name">Sort by name</string>
   <string name="large_file_sort_type_size">Sort by size</string>
   <string name="large_font">Large</string>
@@ -1894,7 +1900,7 @@ Menu cannot be accessed"</string>
   <string name="optimize_cache_header_left">Cache files: %d</string>
   <string name="optimize_cache_list_empty_content">No cache files found</string>
   <string name="optimize_done">"Ok, you're all set!"</string>
-  <string name="optimize_installed_apps_header_left">Downloaded apps: %d</string>
+  <string name="optimize_installed_apps_header_left">Installed apps: %d</string>
   <string name="optimize_installed_apps_list_empty_content">No apps found</string>
   <string name="optimize_large_file_header_left">Large files: %d</string>
   <string name="optimize_large_file_list_empty_content">No large files found</string>
@@ -3325,7 +3331,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_safe">Clear</string>
   <string name="virus_scan_settings">Settings</string>
   <string name="virus_scan_settings_title">Virus definition settings</string>
-  <string name="virus_scan_start">Virus scan</string>
+  <string name="virus_scan_start">Scan</string>
   <string name="virus_scan_stop">Pause</string>
   <string name="virus_scan_support">Powered by Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (install pkg)</string>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Only_the_wifi">Only effective under the wifi</string>
+  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+  <string name="add_flow_success_msg">Get 300MB High Speed Flow Succeess</string>
   <string name="all_downloads">All downloads</string>
   <string name="all_the_internet">All network</string>
   <string name="app_downloads">%s downloads</string>

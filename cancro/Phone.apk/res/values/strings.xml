@@ -137,6 +137,7 @@
   <string name="callFailed_userBusy">Line busy</string>
   <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
   <string name="call_assistant_miui">Dialing assistant</string>
+  <string name="call_barring_sum">Voice call barring settings</string>
   <string name="call_forwarding_number_hint_miui">Enter number to forward incoming calls to</string>
   <string name="call_forwarding_settings">Call forwarding settings</string>
   <string name="call_forwarding_settings_miui">Call forward settings</string>
@@ -242,6 +243,7 @@
   <string name="cfnry_title_miui">Forward when unanswered</string>
   <string name="cfu_title_miui">Always forward</string>
   <string name="change_num">Update</string>
+  <string name="change_password">Change barring password</string>
   <string name="change_pin">Change SIM PIN</string>
   <string name="change_pin2">Change PIN2</string>
   <string name="change_pin2_miui">Change PIN2</string>
@@ -273,6 +275,7 @@
   <string name="confirm_delete_message_title_miui">Delete this message?</string>
   <string name="confirm_delete_sim_entry_miui">%d contacts on SIM card will be deleted.</string>
   <string name="confirm_no_countrycode_for_custom_location_miui">Enter phone number without country code</string>
+  <string name="confirm_password_label">Confirm new password</string>
   <string name="confirm_pin2_hint_miui">Confirm new PIN2</string>
   <string name="confirm_pin_hint_miui">Confirm new PIN</string>
   <string name="connect_disconnect_vibrate_none_miui">None</string>
@@ -310,6 +313,7 @@
   <string name="data_enable_summary">Enable data access over Mobile network</string>
   <string name="data_enabled">Data enabled</string>
   <string name="deact_all_sub_not_supported">Deactivation of All the subscriptions is not supported.</string>
+  <string name="deactivate_all">Cancel all</string>
   <string name="default_contacts_countrycode_hint_miui">Enter country code</string>
   <string name="default_contacts_countrycode_miui">Default country code</string>
   <string name="default_contacts_countrycode_sum_miui">Default country code for your contacts: %s</string>
@@ -446,6 +450,7 @@
   <string name="enforce_proximity_title_miui">Prevent pocket dials</string>
   <string name="enterName">Name</string>
   <string name="enterNumber">Phone</string>
+  <string name="enter_callbarring_password">Enter call barring password(4 digits)</string>
   <string name="enter_input">Input Required. Try again!!</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin2_text_miui">PIN2</string>
@@ -541,6 +546,7 @@ Switch to the new provider anyway?"</string>
   <string name="invalidPuk2">Type a PUK2 that is 8 numbers.</string>
   <string name="invalid_new_pin2_miui">Invalid PIN2. Enter a PIN2 that is 4 to 8 numbers long.</string>
   <string name="invalid_new_pin_miui">Invalid PIN. Enter a PIN that is 4 to 8 numbers long.</string>
+  <string name="invalid_password">Enter a password that is 4 numbers long</string>
   <string name="invalid_pin2_miui">Invalid PIN2. Enter a PIN2 that is 4 to 8 numbers long.</string>
   <string name="invalid_pin_miui">Invalid PIN. Enter a PIN that is 4 to 8 numbers long.</string>
   <string name="invalid_puk2_miui">Invalid PUK2. Enter a PUK2 that is 8 numbers long.</string>
@@ -579,6 +585,14 @@ Switch to the new provider anyway?"</string>
   <string name="label_rspdp">UIM service provider unlock PIN</string>
   <string name="label_sdp">SIM unlock PIN</string>
   <string name="label_spdp">SIM service provider unlock PIN</string>
+  <string name="lable_all_incoming">All incoming calls</string>
+  <string name="lable_all_out_except">International outgoing calls except to home PLMN</string>
+  <string name="lable_all_outgoing">All outgoing calls</string>
+  <string name="lable_all_outgoing_international">International outgoing calls</string>
+  <string name="lable_call_barring">Call barring</string>
+  <string name="lable_disable">Disabled</string>
+  <string name="lable_enable">Enabled</string>
+  <string name="lable_incoming_calls_except">Incoming calls while roaming</string>
   <string name="lafs_disable">Local Airport Flight Schedules disabled</string>
   <string name="lafs_enable">Local Airport Flight Schedules enabled</string>
   <string name="list_language_dtitle">Languages</string>
@@ -618,6 +632,7 @@ Switch to the new provider anyway?"</string>
   <string name="mhh_enable">Medical, Health, and Hospital enabled</string>
   <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
   <string name="mismatchPin2">"The PIN2s you typed don't match. Try again."</string>
+  <string name="mismatch_password">The passwords you entered do not match</string>
   <string name="mismatch_pin2_miui">"PIN2s don't match"</string>
   <string name="mismatch_pin_miui">"PINs don't match"</string>
   <string name="missed_call_notify_five_times_miui">5 times</string>
@@ -658,6 +673,7 @@ Switch to the new provider anyway?"</string>
   <string name="newPin2Label">New PIN2</string>
   <string name="newPinLabel">New PIN</string>
   <string name="new_cards_available">New card available. Please configure subscriptions.</string>
+  <string name="new_password_label">New password(4 digits)</string>
   <string name="new_pin2_hint_miui">New PIN2</string>
   <string name="new_pin_hint_miui">New PIN</string>
   <string name="next_miui">Next</string>
@@ -709,6 +725,7 @@ Switch to the new provider anyway?"</string>
   <string name="ok">OK</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
+  <string name="old_password_label">Old password(4 digits)</string>
   <string name="old_pin2_hint_miui">Current PIN2</string>
   <string name="old_pin_hint_miui">Current PIN</string>
   <string name="onHold">On hold</string>
@@ -772,6 +789,7 @@ Try again or call customer service for more options."</string>
   <string name="other_settings">Other call settings</string>
   <string name="other_settings_miui">Other</string>
   <string name="password">Password</string>
+  <string name="password_changed">Password changed</string>
   <string name="password_title">Password</string>
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_str">"Sending tones
@@ -1185,6 +1203,7 @@ Contact your carrier if this problem persists."</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
   <string name="wild_prompt_str">Replace wild character with</string>
+  <string name="wrong_password">Password error</string>
   <string name="xdivert_active">Active</string>
   <string name="xdivert_button">X-Divert Setting</string>
   <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>
