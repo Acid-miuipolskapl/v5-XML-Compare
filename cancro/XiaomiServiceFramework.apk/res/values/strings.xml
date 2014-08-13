@@ -77,7 +77,7 @@
   <string name="add_weibo_account">Bind account</string>
   <string name="alert_notif_title_dspt">Not syncing</string>
   <string name="alert_title_remove_account">"Delete the data you've synced?"</string>
-  <string name="app_name">Mi Cloud framework</string>
+  <string name="app_name">Xiaomi Service Framework</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="bank_cards">Bank cards</string>
   <string name="barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
