@@ -107,8 +107,8 @@
   <string name="allow_mock_location">Allow mock locations</string>
   <string name="allow_mock_location_summary">Allow mock locations</string>
   <string name="always_allow_bind_appwidgets_text">"You've chosen to allow this app to create widgets and access their data."</string>
-  <string name="android_beam_disabled_summary">NFC content sharing requires that NFC is enabled</string>
-  <string name="android_beam_explained">You can beam a webpage, a video, or other content from your screen to another Android Beam device by touching the devices together (typically back to back).</string>
+  <string name="android_beam_disabled_summary">Turn on NFC now</string>
+  <string name="android_beam_explained">You can beam a web page, a video, or other content from your screen to another device, by touching the devices together (typically back to back).</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">NFC content sharing disabled</string>
   <string name="android_beam_on_summary">NFC content sharing enabled</string>
@@ -176,10 +176,10 @@ Enable floating windows?"</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
   <string name="app_not_found_dlg_title"/>
-  <string name="app_notifications_switch_label">Custom notification</string>
+  <string name="app_notifications_switch_label">Notifications</string>
   <string name="app_process_limit_title">Background process limit</string>
   <string name="app_uninstall_residual">Clean up residual uninstall files?</string>
-  <string name="application_forbid_auto_startup">Forbid %s from starting in background</string>
+  <string name="application_forbid_auto_startup">Stop %s from starting in background</string>
   <string name="application_info_label">App info</string>
   <string name="application_item_already_permission">Allowed</string>
   <string name="application_item_disable">Deny</string>
@@ -190,7 +190,6 @@ Enable floating windows?"</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="applications_sort_type_item_size">Size</string>
   <string name="applications_sort_type_item_time">Frequently used</string>
-  <string name="applications_sort_type_title">Sort</string>
   <string name="ask_compatibility">Ask when launched</string>
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
@@ -516,6 +515,8 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="button_text_uninstall_apps">Uninstall</string>
   <string name="button_text_view">View</string>
   <string name="button_text_view_power">View power</string>
+  <string name="cache_data_sort_type_item_name">Name</string>
+  <string name="cache_data_sort_type_item_size">Size</string>
   <string name="cache_garbage">Cache</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_list_empty_hints">No cached files</string>
@@ -773,6 +774,8 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="deep_clean_title_residual">Residuals</string>
   <string name="deep_clean_title_uninstall_apps">Apps</string>
   <string name="deep_cleaning">Advanced</string>
+  <string name="deepclean_cache_header_left">Cache files: %d</string>
+  <string name="deepclean_sort_type_title">Sort</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Choose default input method</string>
   <string name="default_usb_mode">USB connection</string>
@@ -939,6 +942,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="edit_whitelist">Edit note</string>
   <string name="emergency_tone_summary">Set behavior when an emergency call is placed</string>
   <string name="emergency_tone_title">Emergency tone</string>
+  <string name="empty_content_size">None</string>
   <string name="empty_folder_title">Empty folder (%d)</string>
   <string name="empty_folder_title_hints">Empty folder</string>
   <string name="empty_list_msg">"You don't have any third-party apps installed."</string>
@@ -1021,8 +1025,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="firewall_settings">Do not disturb settings</string>
   <string name="firewall_settings_tab_title">Rules</string>
   <string name="firmware_version">Android version</string>
-  <string name="floating_window_switch_label">Show popup windows</string>
-  <string name="floating_window_switch_label_disable">Hide popup windows</string>
+  <string name="floating_window_switch_label">Enable floating windows</string>
+  <string name="floating_window_switch_label_disable">Disable floating windows</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -1263,6 +1267,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="language_picker_title">Language</string>
   <string name="language_settings">Language &amp; input</string>
   <string name="language_settings_category">Language settings</string>
+  <string name="large_file_sort_type_item_name">Name</string>
+  <string name="large_file_sort_type_item_size">Size</string>
   <string name="large_file_sort_type_name">Sort by name</string>
   <string name="large_file_sort_type_size">Sort by size</string>
   <string name="large_font">Large</string>
@@ -1501,47 +1507,47 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="moving">Moving</string>
   <string name="msd_driver_download">Download driver</string>
-  <string name="msd_driver_mac_download">"For OSX, download the driver and click AndroidFileTransfer.dmg to install
+  <string name="msd_driver_mac_download">"OSX: Download the driver and install AndroidFileTransfer.dmg.
 Get the driver at http://miui.com/mac"</string>
-  <string name="msd_driver_windows_xp_download">"For Windows, download the driver and click Setup.exe to install
+  <string name="msd_driver_windows_xp_download">"Windows: Download the driver and click Setup.exe to install
 Get the driver at http://miui.com/win"</string>
-  <string name="msd_help_summary">"Having trouble accessing your device via computer?
+  <string name="msd_help_summary">"Can't connect to your device?
 Select your operating system:"</string>
-  <string name="msd_help_title">MTP Help</string>
+  <string name="msd_help_title">Help</string>
   <string name="msd_install">Reinstall driver?</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Next</string>
-  <string name="msd_install_retry_linux">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_linux">"If the computer fails to detect your device,
 Try the following:
-1) Use the install tool \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Create a directory \"mkdir\" /media/mtp
-3) Confirm user group permissions in the current fuse user group
+1) Use the install tool \"$sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
+2) Create a directory \"$mkdir\" /media/mtp
+3) Confirm user group permissions in the user group
 4) Sign in again
-5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
-6) Uninstall device fusermount -u /media/mtp
+5) Access mounted device mtpfs /media/mtp via File explorer (same as the local directory)
+6) Uninstall device $fusermount -u /media/mtp
  (Ubuntu 8.04)"</string>
-  <string name="msd_install_retry_mac">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_mac">"If the computer fails to detect your device,
 Try the following:
 "&lt;li&gt;"1) Do a search for
 Android File Transfer,
 and run the software."&lt;/li&gt;"
 "&lt;li&gt;2) Reconnect the USB cable.&lt;/li&gt;"
 "&lt;li&gt;3) Reinstall the driver.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_vista">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_windows_vista">"If the computer fails to detect your device,
 Try reconnecting the USB cable."</string>
-  <string name="msd_install_retry_windows_xp">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_windows_xp">"If the computer fails to detect your device,
 Try the following:
 "&lt;li&gt;1) Reconnect the USB cable.&lt;/li&gt;"
 "&lt;li&gt;2) Reinstall the driver.&lt;/li&gt;</string>
-  <string name="msd_install_status_done">Driver installed.</string>
+  <string name="msd_install_status_done">Driver installed</string>
   <string name="msd_install_status_undo">Install driver</string>
   <string name="msd_install_succeed">Driver installed</string>
   <string name="msd_install_windows_xp_step_2_1">Follow the steps in the Setup Wizard to complete installation.</string>
-  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer versions of Windows,
+  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer,
 the %1$s music player will appear on your computer automatically"</string>
-  <string name="msd_pc_system_install_finish_summary_xp">"After you install this driver
-%1$s will appear as a USB mass storage device when connected to a computer."</string>
-  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer versions of Windows, 
+  <string name="msd_pc_system_install_finish_summary_xp">"After you install the driver
+%1$s will appear as a USB storage device when connected to a computer."</string>
+  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer, 
 %1$s will appear automatically as a USB mass storage"</string>
   <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s will appear as a USB mass storage
  device when connected to your computer."</string>
@@ -1571,7 +1577,7 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="next_button_label">Next</string>
   <string name="next_label">Next</string>
   <string name="nfc_category_title">NFC</string>
-  <string name="nfc_quick_toggle_summary">Allow data exchange when the phone touches another device</string>
+  <string name="nfc_quick_toggle_summary">Allow data exchange when your phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="no">No</string>
   <string name="no_application">Nothing</string>
@@ -1641,7 +1647,7 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="optimize_cache_header_left">Cache files: %d</string>
   <string name="optimize_cache_list_empty_content">No cache files found</string>
   <string name="optimize_done">"Ok, you're all set!"</string>
-  <string name="optimize_installed_apps_header_left">Downloaded apps: %d</string>
+  <string name="optimize_installed_apps_header_left">Installed apps: %d</string>
   <string name="optimize_installed_apps_list_empty_content">No apps found</string>
   <string name="optimize_large_file_header_left">Large files: %d</string>
   <string name="optimize_large_file_list_empty_content">No large files found</string>
@@ -2303,7 +2309,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="screen_key_long_press_action">Trigger function</string>
   <string name="screen_key_long_press_timeout">Define long press time</string>
   <string name="screen_never_timeout_title">Never sleep</string>
-  <string name="screen_on_proximity_sensor_summary">Phone will lock automatically when placed in a pocket</string>
+  <string name="screen_on_proximity_sensor_summary">"Lock phone automatically when it's placed in a pocket"</string>
   <string name="screen_on_proximity_sensor_title">Prevent Pocket Dials</string>
   <string name="screen_saturation">Color saturation</string>
   <string name="screen_timeout">Sleep</string>
@@ -2891,7 +2897,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_safe">Clear</string>
   <string name="virus_scan_settings">Settings</string>
   <string name="virus_scan_settings_title">Virus definition settings</string>
-  <string name="virus_scan_start">Virus scan</string>
+  <string name="virus_scan_start">Scan</string>
   <string name="virus_scan_stop">Pause</string>
   <string name="virus_scan_support">Powered by Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (install pkg)</string>
