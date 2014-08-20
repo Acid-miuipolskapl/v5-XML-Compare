@@ -35,7 +35,6 @@
   <string name="ad_block_hint">%d blocked</string>
   <string name="ad_install_monitor">Install monitor</string>
   <string name="ad_install_monitor_hint">Check for adware when installing app</string>
-  <string name="ad_permission_hint">"Using Ad Blocker may affect your apps' performance or prevent them from working normally."</string>
   <string name="ad_relative_setting">Related settings</string>
   <string name="ad_single_block_hint">Blocked</string>
   <string name="ad_update_setting">Update ad blocker settings</string>
