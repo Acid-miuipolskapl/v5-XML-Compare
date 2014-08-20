@@ -13,7 +13,7 @@
   <string name="addon"/>
   <string name="addon_category">Featured</string>
   <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
-  <string name="addon_update_desc">New version found. Update mow?</string>
+  <string name="addon_update_desc">New version found. Update now?</string>
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Last</string>
   <string name="airkan_control_device_des">To control playback, touch the bar at the bottom</string>
@@ -317,8 +317,8 @@
   <string name="select_media_source">Select video source</string>
   <string name="series_colon">"Episodes: "</string>
   <string name="setting">Settings</string>
-  <string name="setting_network_alert">启动时联网提示</string>
-  <string name="setting_network_alert_summery">视频启动时会有联网提示</string>
+  <string name="setting_network_alert">Connection notification</string>
+  <string name="setting_network_alert_summery">Show popup notification before Video connects to the internet</string>
   <string name="show_hidemedia">Show hidden files</string>
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
