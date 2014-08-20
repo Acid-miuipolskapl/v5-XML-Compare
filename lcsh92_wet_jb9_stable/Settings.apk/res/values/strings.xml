@@ -2460,6 +2460,10 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="preferred_application_warning_use_system">Use %s</string>
   <string name="preferred_launcher_title">Default launcher</string>
   <string name="preferred_media_app_summary">Choose music player</string>
+  <string name="priority_storage_app_settings">Userdata will be saved to %1$s</string>
+  <string name="priority_storage_settings_summary">"If no SD card is detected, userdata will be saved to your device's internal storage automatically"</string>
+  <string name="priority_storage_summary">Choose the default location to save userdata</string>
+  <string name="priority_storage_title">Storage settings</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, pictures, and incoming calls</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
   <string name="privacy_protect_title">Privacy protection</string>
@@ -3124,7 +3128,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="turn_on_radio">Turn on radio</string>
   <string name="turn_on_smart_antispam_hint">Identify unwanted calls</string>
   <string name="turn_on_smart_antispam_summary_off">Filter using local number database</string>
-  <string name="turn_on_smart_antispam_summary_on">Only available when connected to WLAN or 3G network</string>
+  <string name="turn_on_smart_antispam_summary_on">Only available when connected to WLAN or 3G netwP</string>
   <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
   <string name="tv_system_title">TV system</string>
   <string name="tvout_settings">TV out</string>
@@ -3478,7 +3482,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wapi_user_certificate">User certificate</string>
   <string name="wfd_available_devices">Available devices</string>
   <string name="wfd_change_resolution_menu_title">Change resolution</string>
-  <string name="wfd_disconnect_diag_msg">If you stop the WLAN display session, your connection to %1$s will be terminated.</string>
+  <string name="wfd_disconnect_diag_msg">If you stop the WLAN display session, your connection to %1$s will be terminatedh</string>
   <string name="wfd_disconnect_diag_title">Tear down session?</string>
   <string name="wfd_disconnect_multiple_diag_message">If you stop the WLAN display session, your connection to %1$s and %2$s other devices will be terminated.</string>
   <string name="wfd_enable_wifi_diag_title">You can only use WLAN Display when WLAN is enabled. Enable it now?</string>

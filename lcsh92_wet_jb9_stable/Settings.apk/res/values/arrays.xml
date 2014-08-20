@@ -948,6 +948,14 @@ phone will open automatically when connected to a computer."</item>
         <item>Network is slow due to weak signal strength</item>
         <item>Moving…</item>
     </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Internal storage</item>
+        <item>External storage</item>
+    </string-array>
+    <string-array name="priority_storage_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>First 4 digits</item>
         <item>Last 4 digits</item>

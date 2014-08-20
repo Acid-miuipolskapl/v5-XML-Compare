@@ -72,14 +72,6 @@
         <item>auto</item>
         <item>continuous-video</item>
     </string-array>
-    <string-array name="pref_key_camera_referenceline_entries">
-        <item>@string/pref_camera_referenceline_entry_on</item>
-        <item>@string/pref_camera_referenceline_entry_off</item>
-    </string-array>
-    <string-array name="pref_key_camera_referenceline_entryvalues">
-        <item>@string/pref_camera_referenceline_entryvalue_on</item>
-        <item>@string/pref_camera_referenceline_entryvalue_off</item>
-    </string-array>
     <array name="pref_key_camera_referenceline_largeicons">
         <item>@drawable/ic_camera_settings_grid_selected</item>
         <item>@drawable/ic_camera_settings_grid</item>
@@ -320,14 +312,6 @@
         <item>touch-on</item>
         <item>touch-off</item>
     </string-array>
-    <string-array name="pref_camera_referenceline_entries">
-        <item>@string/pref_camera_referenceline_entry_on</item>
-        <item>@string/pref_camera_referenceline_entry_off</item>
-    </string-array>
-    <string-array name="pref_camera_referenceline_entryvalues">
-        <item>referenceline-on</item>
-        <item>referenceline-off</item>
-    </string-array>
     <string-array name="pref_camera_contrast_entries">
         <item>@string/pref_camera_multilevel_entry_lowest</item>
         <item>@string/pref_camera_multilevel_entry_lower</item>
@@ -341,6 +325,15 @@
         <item>@string/pref_camera_multilevel_entry_low</item>
         <item>@string/pref_camera_multilevel_entry_middle</item>
         <item>@string/pref_camera_multilevel_entry_high</item>
+    </string-array>
+    <string-array name="pref_lc_camera_contrast_entries">
+        <item>@string/pref_camera_multilevel_entry_lowest</item>
+        <item>@string/pref_camera_multilevel_entry_lower</item>
+        <item>@string/pref_camera_multilevel_entry_low</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
+        <item>@string/pref_camera_multilevel_entry_high</item>
+        <item>@string/pref_camera_multilevel_entry_higher</item>
+        <item>@string/pref_camera_multilevel_entry_highest</item>
     </string-array>
     <string-array name="pref_camera_saturation_entries">
         <item>@string/pref_camera_multilevel_entry_lowest</item>
@@ -356,6 +349,13 @@
         <item>@string/pref_camera_multilevel_entry_middle</item>
         <item>@string/pref_camera_multilevel_entry_high</item>
     </string-array>
+    <string-array name="pref_lc_camera_saturation_entries">
+        <item>@string/pref_camera_multilevel_entry_lowest</item>
+        <item>@string/pref_camera_multilevel_entry_low</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
+        <item>@string/pref_camera_multilevel_entry_high</item>
+        <item>@string/pref_camera_multilevel_entry_highest</item>
+    </string-array>
     <string-array name="pref_camera_sharpness_entries">
         <item>@string/pref_camera_multilevel_entry_lowest</item>
         <item>@string/pref_camera_multilevel_entry_lower</item>
@@ -369,6 +369,13 @@
         <item>@string/pref_camera_multilevel_entry_low</item>
         <item>@string/pref_camera_multilevel_entry_middle</item>
         <item>@string/pref_camera_multilevel_entry_high</item>
+    </string-array>
+    <string-array name="pref_lc_camera_sharpness_entries">
+        <item>@string/pref_camera_multilevel_entry_lowest</item>
+        <item>@string/pref_camera_multilevel_entry_low</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
+        <item>@string/pref_camera_multilevel_entry_high</item>
+        <item>@string/pref_camera_multilevel_entry_highest</item>
     </string-array>
     <string-array name="pref_camera_contrast_entryvalues">
         <item>0</item>
@@ -384,6 +391,15 @@
         <item>middle</item>
         <item>high</item>
     </string-array>
+    <string-array name="pref_lc_camera_contrast_entryvalues">
+        <item>-4</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
     <string-array name="pref_camera_saturation_entryvalues">
         <item>0</item>
         <item>2</item>
@@ -398,6 +414,13 @@
         <item>middle</item>
         <item>high</item>
     </string-array>
+    <string-array name="pref_lc_camera_saturation_entryvalues">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="pref_camera_sharpness_entryvalues">
         <item>0</item>
         <item>3</item>
@@ -411,6 +434,13 @@
         <item>low</item>
         <item>middle</item>
         <item>high</item>
+    </string-array>
+    <string-array name="pref_lc_camera_sharpness_entryvalues">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="pref_camera_scenemode_entries">
         <item>@string/pref_camera_scenemode_entry_off</item>
@@ -498,6 +528,13 @@
         <item>400</item>
         <item>800</item>
         <item>1600</item>
+    </string-array>
+    <string-array name="pref_lc_camera_iso_entryvalues">
+        <item>auto</item>
+        <item>100</item>
+        <item>200</item>
+        <item>400</item>
+        <item>800</item>
     </string-array>
     <array name="frontcamera_iso_icons">
         <item>@drawable/bg_iso_auto</item>
@@ -627,38 +664,6 @@
         <item>enable</item>
         <item>disable</item>
     </string-array>
-    <string-array name="pref_camera_sound_entries">
-        <item>@string/pref_camera_sound_title_entry_on</item>
-        <item>@string/pref_camera_sound_title_entry_off</item>
-    </string-array>
-    <string-array name="pref_camera_sound_entryvalues">
-        <item>@string/pref_camera_sound_entryvalue_on</item>
-        <item>@string/pref_camera_sound_entryvalue_off</item>
-    </string-array>
-    <string-array name="pref_captrue_mirror_entries">
-        <item>@string/pref_captrue_mirror_entry_on</item>
-        <item>@string/pref_captrue_mirror_entry_off</item>
-    </string-array>
-    <string-array name="pref_captrue_mirror_entryvalues">
-        <item>@string/pref_captrue_mirror_value_on</item>
-        <item>@string/pref_captrue_mirror_value_off</item>
-    </string-array>
-    <string-array name="pref_scan_qrcode_entries">
-        <item>@string/pref_scan_qrcode_entry_on</item>
-        <item>@string/pref_scan_qrcode_entry_off</item>
-    </string-array>
-    <string-array name="pref_scan_qrcode_entryvalues">
-        <item>@string/pref_scan_qrcode_value_on</item>
-        <item>@string/pref_scan_qrcode_value_off</item>
-    </string-array>
-    <string-array name="pref_camera_facedetection_entries">
-        <item>@string/pref_camera_facedetection_entry_on</item>
-        <item>@string/pref_camera_facedetection_entry_off</item>
-    </string-array>
-    <string-array name="pref_camera_facedetection_entryvalues">
-        <item>on</item>
-        <item>off</item>
-    </string-array>
     <string-array name="pref_camera_burst_shooting_entries">
         <item>@string/pref_camera_long_pressing_burst_shooting_entry_on</item>
         <item>@string/pref_camera_long_pressing_burst_shooting_entry_off</item>
@@ -707,14 +712,6 @@
         <item>@drawable/ic_camera_exposure_plus2</item>
         <item>@drawable/ic_camera_exposure_plus3</item>
     </array>
-    <string-array name="pref_camera_movie_solid_entries">
-        <item>@string/pref_camera_movie_solid_entry_on</item>
-        <item>@string/pref_camera_movie_solid_entry_off</item>
-    </string-array>
-    <string-array name="pref_camera_movie_solid_entryvalues">
-        <item>@string/pref_camera_movie_solid_value_on</item>
-        <item>@string/pref_camera_movie_solid_value_off</item>
-    </string-array>
     <string-array name="pref_camera_exposuretime_entries">
         <item>@string/pref_camera_exposuretime_entry_auto</item>
         <item>@string/pref_camera_exposuretime_entry_5000</item>
@@ -797,12 +794,12 @@
         <item>@string/pref_camera_multiple_face_beauty_values_off</item>
         <item>@string/pref_camera_multiple_face_beauty_values_on</item>
     </string-array>
-    <string-array name="pref_camera_watermark_entryvalues">
-        <item>@string/pref_camera_watermark_entryvalue_on</item>
-        <item>@string/pref_camera_watermark_entryvalue_off</item>
-    </string-array>
-    <string-array name="pref_camera_watermark_entries">
-        <item>@string/pref_camera_watermark_entry_on</item>
-        <item>@string/pref_camera_watermark_entry_off</item>
-    </string-array>
+    <array name="camera_hdr_type_icons">
+        <item>@drawable/ic_hdr_live_selector</item>
+        <item>@drawable/ic_hdr_normal_selector</item>
+    </array>
+    <array name="camera_brust_live_hdr_icons">
+        <item>@drawable/ic_hdr_live_on_selector</item>
+        <item>@drawable/ic_hdr_live_off_selector</item>
+    </array>
 </resources>

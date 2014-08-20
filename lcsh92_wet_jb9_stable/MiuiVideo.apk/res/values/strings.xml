@@ -285,6 +285,8 @@
   <string name="playvideo">Play</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
+  <string name="priority_storage">Use external SD card</string>
+  <string name="priority_storage_summary">Automatically save to external SD card if available</string>
   <string name="publish">Submit</string>
   <string name="qiyi">iQiyi</string>
   <string name="quarter_bell_alert_button_cancel">cancel</string>
