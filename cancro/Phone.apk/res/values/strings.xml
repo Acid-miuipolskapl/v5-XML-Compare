@@ -373,6 +373,7 @@
   <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
   <string name="dial_related_setting_catory_miui">Dial</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
+  <string name="dialog_network_priority_title">Priority</string>
   <string name="disable">Disable</string>
   <string name="disable_all_cf_miui">Disable all call-forwarding features</string>
   <string name="disable_cfb_forbidden">"Your operator doesn't support disabling call forwarding when your phone is busy."</string>
@@ -495,6 +496,8 @@ Switch to the new provider anyway?"</string>
   <string name="get_smsc_address_timeout_miui">Connection timed out</string>
   <string name="goPrivate">go private</string>
   <string name="go_private_miui">Private mode</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
+  <string name="gsm_umts_network_preferences_title">Network Mode</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
   <string name="hac_mode_summary">Turn on hearing aid compatibility</string>
   <string name="hac_mode_summary_miui">Enable hearing aid compatibility</string>
@@ -663,6 +666,7 @@ Switch to the new provider anyway?"</string>
   <string name="national_disable">National news disabled</string>
   <string name="national_enable">National news enabled</string>
   <string name="network_forbidden_miui">%s (forbidden)</string>
+  <string name="network_id">Network ID</string>
   <string name="network_manage_settings">Network Settings</string>
   <string name="network_message">Network message</string>
   <string name="network_query_error">Error while searching for networks.</string>
@@ -1162,6 +1166,8 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+  <string name="uplmn_list_setting_add_plmn">New PLMN</string>
+  <string name="uplmn_list_setting_title">Preferred networks</string>
   <string name="use_ims_default">UseImsDefault</string>
   <string name="use_ims_default_summary">Use IMS for all voice calls</string>
   <string name="use_ims_default_title">Use IMS Always</string>
