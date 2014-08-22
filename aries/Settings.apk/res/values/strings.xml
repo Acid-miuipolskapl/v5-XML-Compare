@@ -190,6 +190,7 @@ Enable floating windows?"</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="applications_sort_type_item_size">Size</string>
   <string name="applications_sort_type_item_time">Frequently used</string>
+  <string name="applications_sort_type_title">Sort</string>
   <string name="ask_compatibility">Ask when launched</string>
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
