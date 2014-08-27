@@ -961,6 +961,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_drive_mode">Car mode</string>
   <string name="enable_firewall">Block unwanted calls</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
   <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
   <string name="enable_text">Enable</string>
   <string name="enable_traces_dialog_title">Select enabled traces</string>
@@ -1173,6 +1174,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
   <string name="history_details_title">History details</string>
   <string name="home_key">Home</string>
+  <string name="ime_privacy_policy">Input method privacy policy</string>
+  <string name="ime_privacy_policy_no_network">No network connection. You can view this policy at %s</string>
   <string name="ime_security_warning">%1$sThis input method can record everything you type, including passwords, credit card numbers, and other personal data. Do you want to use this input method?</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
@@ -2133,6 +2136,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="protection_perm">Permission setting</string>
   <string name="protection_sms">SMS filter</string>
   <string name="provider_label">Push subscriptions</string>
+  <string name="provision_inputmethod_policy_description">View the privacy policy associated with your current input method</string>
   <string name="proxy_action_text">Done</string>
   <string name="proxy_clear_text">Clear</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
