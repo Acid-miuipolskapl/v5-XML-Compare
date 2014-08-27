@@ -14,6 +14,7 @@
   <string name="other_service_user_experience">User experience program</string>
   <string name="other_service_user_experience_summary0">Help improve MIUI by sending anonymous usage data</string>
   <string name="other_service_user_experience_summary1">(View privacy policy)</string>
+  <string name="privacy_policy">Privacy Policy</string>
   <string name="setup_complete_info"/>
   <string name="setup_complete_label">"You're all set!"</string>
   <string name="setup_complete_start">OK</string>
@@ -23,4 +24,9 @@
   <string name="sim_card_detection_info"/>
   <string name="sim_card_detection_label">SIM card</string>
   <string name="sim_card_detection_status_absent">No SIM card detected</string>
+  <string name="terms_agree">Agree</string>
+  <string name="terms_description">You must agree to Terms of Service and Privacy Policy to continue using MIUI.</string>
+  <string name="terms_disagree">Cancel</string>
+  <string name="terms_label">Terms and conditions</string>
+  <string name="terms_of_service">Terms of Service</string>
 </resources>

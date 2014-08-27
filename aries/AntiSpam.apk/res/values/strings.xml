@@ -178,7 +178,7 @@
   <string name="st_antispam_mode_only_whitelist_state">1100000</string>
   <string name="st_antispam_mode_only_whitelist_sum">Only allow calls and messages from numbers on the exceptions list</string>
   <string name="st_antispam_mode_smart">Shared blocklist</string>
-  <string name="st_antispam_mode_smart_state">1111110</string>
+  <string name="st_antispam_mode_smart_state">1111111</string>
   <string name="st_antispam_mode_smart_sum">"Block numbers you've added manually and block numbers that have been reported by other users"</string>
   <string name="st_antispam_notification_sum">Show notification when call or message is blocked</string>
   <string name="st_antispam_title_anoy_incoming">Calls from strangers</string>
