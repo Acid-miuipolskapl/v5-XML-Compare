@@ -8,8 +8,10 @@
   <string name="accessibility_camera_flashmode">Always flash</string>
   <string name="accessibility_camera_picker">Front and back camera switch</string>
   <string name="accessibility_close_more_ptions">Disable more options</string>
+  <string name="accessibility_countdown_shutter_button">CountDownShutterButton</string>
   <string name="accessibility_ev_control">Exposure compensation</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
+  <string name="accessibility_hdr_mode_button">SwitchIndicatorButton</string>
   <string name="accessibility_more_ptions_closed">More options disabled</string>
   <string name="accessibility_more_ptions_opened">More options enabled</string>
   <string name="accessibility_open_more_ptions">Enable more options</string>
@@ -17,7 +19,7 @@
   <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
   <string name="accessibility_show_setting_panel_button">SettingButton</string>
   <string name="accessibility_shutter_button">Shutter button</string>
-  <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
+  <string name="accessibility_skin_beautify_button">SwitchIndicatorButton</string>
   <string name="accessibility_skin_beautify_closed">Skin tone enhancer disabled</string>
   <string name="accessibility_skin_beautify_opened">Skin tone enhancer enabled</string>
   <string name="accessibility_zoom_control">Zoom control</string>
@@ -27,6 +29,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Set your device on a stable surface,
  and step out of view for a moment"</string>
+  <string name="burst_shoot_exit_button_text">Exit Burst shoot mode</string>
   <string name="camera_disabled">Camera has been disabled</string>
   <string name="camera_error_title">Camera error</string>
   <string name="camera_face_beauty_default">i:0</string>
@@ -71,7 +74,7 @@
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_title">%1$d of %2$d items:</string>
   <string name="dialog_ok">OK</string>
-  <string name="disable_video_snapshot_hint">Video snapshot is disabled when special effects are on.</string>
+  <string name="disable_video_snapshot_hint">Video snapshot is disabled when special effects are on</string>
   <string name="download_by_browser">Download with Browser</string>
   <string name="download_qq">Download QQ</string>
   <string name="download_wechat">Download WeChat</string>
@@ -94,7 +97,7 @@
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
   <string name="error_app_unsupported_hfr_720p">720P can support up to 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">"Only H264 video encoding isn't supported when HFR is ON"</string>
-  <string name="error_app_unsupported_raw_wavelet">Wavelet denoise will not take effect when taking raw pictures</string>
+  <string name="error_app_unsupported_raw_wavelet">"Wavelet denoise won't take effect when taking raw pictures"</string>
   <string name="error_fail_to_start_audio_capture">Failed to start audio capture</string>
   <string name="exposure_time">Exposure time</string>
   <string name="face_analyze_info">Age: %2$s (%1$s)</string>
@@ -171,7 +174,7 @@
   <string name="object_track_enable_toast">Slide on preview screen to enable object tracking.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientation</string>
-  <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
+  <string name="pano_dialog_panorama_failed">"Couldn't save panorama."</string>
   <string name="pano_dialog_prepare_preview">Preparing panorama</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
@@ -186,6 +189,7 @@ touch the Shutter button"</string>
   <string name="people">People</string>
   <string name="pref_advanced_functions">Advanced settings</string>
   <string name="pref_advanced_settings">Advanced</string>
+  <string name="pref_burst_shoot_title">Burst shoot</string>
   <string name="pref_camcorder_settings_category">Camera settings</string>
   <string name="pref_camera_ae_bracket_hdr_default">Off</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
@@ -199,7 +203,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_audioencoder_default">aac</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto capturing when stable</string>
-  <string name="pref_camera_auto_chroma_flash_title">Auto Chroma Flash</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Off</string>
   <string name="pref_camera_auto_focus_title_entry_on">On</string>
   <string name="pref_camera_autoexposure_default">center-weighted</string>
@@ -274,7 +278,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Live</string>
   <string name="pref_camera_hdr_type_entry_normal">Normal</string>
-  <string name="pref_camera_hdr_type_entryvalue_default">live</string>
+  <string name="pref_camera_hdr_type_entryvalue_default">normal</string>
   <string name="pref_camera_hdr_type_entryvalue_live">live</string>
   <string name="pref_camera_hdr_type_entryvalue_normal">normal</string>
   <string name="pref_camera_hdr_type_title">HDR type</string>
@@ -405,7 +409,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_selectablezoneaf_default">auto</string>
   <string name="pref_camera_settings_category">Camera settings</string>
   <string name="pref_camera_settings_title">Settings</string>
-  <string name="pref_camera_shader_coloreffect_default">-1</string>
+  <string name="pref_camera_shader_coloreffect_default">normal</string>
   <string name="pref_camera_sharpness_default">12</string>
   <string name="pref_camera_sharpness_title">Sharpness</string>
   <string name="pref_camera_show_gender_age_default">on</string>
@@ -483,11 +487,13 @@ touch the Shutter button"</string>
   <string name="pref_lc_camera_contrast_default">0</string>
   <string name="pref_lc_camera_saturation_default">0</string>
   <string name="pref_lc_camera_sharpness_default">0</string>
+  <string name="pref_long_press_shutter_button_focus_title">Long press Shutter button to focus</string>
   <string name="pref_manual_exposure_title">Manual exposure</string>
   <string name="pref_mtk_camera_contrast_default">middle</string>
   <string name="pref_mtk_camera_saturation_default">middle</string>
   <string name="pref_mtk_camera_sharpness_default">middle</string>
   <string name="pref_mtk_video_quality_default">10</string>
+  <string name="pref_priority_storage_title">Priority saved to external SD card</string>
   <string name="pref_scan_qrcode_default">true</string>
   <string name="pref_scan_qrcode_title">Scan QR code</string>
   <string name="pref_setting_title">Settings</string>
@@ -513,9 +519,9 @@ touch the Shutter button"</string>
   <string name="pref_video_quality_title">Video quality</string>
   <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
   <string name="pref_video_speed_default">normal</string>
-  <string name="pref_video_speed_entry_fast">Slow-motion</string>
-  <string name="pref_video_speed_entry_normal">Standard</string>
-  <string name="pref_video_speed_entry_slow">Fast-motion</string>
+  <string name="pref_video_speed_entry_fast">Fast</string>
+  <string name="pref_video_speed_entry_normal">Normal</string>
+  <string name="pref_video_speed_entry_slow">Slow</string>
   <string name="pref_video_speed_title">Video Capture Speed</string>
   <string name="pref_video_speed_value_fast">fast</string>
   <string name="pref_video_speed_value_normal">normal</string>
@@ -573,7 +579,7 @@ touch the Shutter button"</string>
   <string name="simple_mode_button_text_countdown">Close Count Down</string>
   <string name="simple_mode_button_text_face_beauty">Close enhance skin tones</string>
   <string name="simple_mode_button_text_fast_video">Close fast-motion</string>
-  <string name="simple_mode_button_text_hand_night">Close Handheld twilight</string>
+  <string name="simple_mode_button_text_hand_night">Close Handheld Twilight mode</string>
   <string name="simple_mode_button_text_hdr">Close HDR mode</string>
   <string name="simple_mode_button_text_panorama">Close panorama</string>
   <string name="simple_mode_button_text_slow_video">Close slow-motion</string>
@@ -609,7 +615,7 @@ touch the Shutter button"</string>
   <string name="video_err">"Can't play video"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Size limit reached.</string>
-  <string name="video_snapshot_hint">Take a photo during video recording by touching the preview screen.</string>
+  <string name="video_snapshot_hint">Take a photo during video recording by touching the preview screen</string>
   <string name="videocamera_settings_label">Video camera settings</string>
   <string name="visit_cloud_album">Visit cloud album</string>
   <string name="wait">Hang on…</string>
@@ -629,5 +635,5 @@ touch the Shutter button"</string>
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>
-  <string name="wifi_warning">"Before you connect, verify that the network you're using is secure."</string>
+  <string name="wifi_warning">Before you connect, verify that this network is secure.</string>
 </resources>

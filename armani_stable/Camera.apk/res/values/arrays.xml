@@ -794,4 +794,12 @@
         <item>@string/pref_camera_multiple_face_beauty_values_off</item>
         <item>@string/pref_camera_multiple_face_beauty_values_on</item>
     </string-array>
+    <array name="camera_hdr_type_icons">
+        <item>@drawable/ic_hdr_live_selector</item>
+        <item>@drawable/ic_hdr_normal_selector</item>
+    </array>
+    <array name="camera_brust_live_hdr_icons">
+        <item>@drawable/ic_hdr_live_on_selector</item>
+        <item>@drawable/ic_hdr_live_off_selector</item>
+    </array>
 </resources>

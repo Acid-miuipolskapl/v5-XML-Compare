@@ -2210,6 +2210,10 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="preferred_application_warning_use_system">Use %s</string>
   <string name="preferred_launcher_title">Default launcher</string>
   <string name="preferred_media_app_summary">Choose music player</string>
+  <string name="priority_storage_app_settings">Userdata will be saved to %1$s</string>
+  <string name="priority_storage_settings_summary">"If no SD card is detected, userdata will be saved to your device's internal storage automatically"</string>
+  <string name="priority_storage_summary">Choose the default location to save userdata</string>
+  <string name="priority_storage_title">Storage settings</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, pictures, and incoming calls</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
   <string name="privacy_protect_title">Privacy protection</string>
