@@ -116,6 +116,7 @@
   <string name="error_phone_error">Invalid phone number</string>
   <string name="error_server">Server error</string>
   <string name="error_sim_not_ready">"Can't find SIM card"</string>
+  <string name="error_ssl_hand_shake">"Couldn't connect to server. Check your system's date and time settings."</string>
   <string name="error_unknown">"Can't sign in"</string>
   <string name="error_user_name">Invalid username</string>
   <string name="failed_to_send_activate_email">"Can't send activation message"</string>
