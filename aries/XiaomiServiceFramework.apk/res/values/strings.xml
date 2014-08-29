@@ -89,12 +89,12 @@
   <string name="checking_account">Checking password…</string>
   <string name="checking_input">Checking input…</string>
   <string name="cloud_messaging">Cloud Messaging</string>
-  <string name="cmcc_data_sync_notice">Sync messages and contacts across devices.</string>
+  <string name="cmcc_data_sync_notice">"Use your Mi Account to sync messages, contacts, photos, and call history across devices. Enabling this feature also enables Cloud Messaging, which let's you send messages for free to other MIUI users when you're connected to a WLAN network."</string>
   <string name="cmcc_micloud_dspt">Backup your data, locate your phone, and share things with friends.</string>
   <string name="completed">Finish</string>
   <string name="confirm">Confirm</string>
   <string name="data_keep_in_phone">Keep on this device</string>
-  <string name="data_sync_notice">Use your Mi Account to sync messages and contacts across devices.</string>
+  <string name="data_sync_notice">"Use your Mi Account to sync messages, contacts, photos, and call history across devices. Enabling this feature also enables Cloud Messaging, which let's you send messages for free to other MIUI users when you're connected to a WLAN network."</string>
   <string name="data_wipe_from_phone">Delete from this device</string>
   <string name="dirty_contacts_count">%d contacts</string>
   <string name="dirty_mms_count">%d messages</string>
@@ -264,14 +264,14 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="start_micloud">Go back to Mi Cloud start page</string>
   <string name="sub_alert_notif_dspt" formatted="false">"%s contacts, %s messages, %s photos, and %s notes haven't been synced."</string>
   <string name="sub_alert_notif_title">Not syncing</string>
-  <string name="sync_dspt">Enable sync</string>
+  <string name="sync_dspt">Enable Cloud Messaging and sync</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
-  <string name="sync_sub_1_intl_sms">A text message will be sent to bind your SIM card with this account. You may incur additional fees from your mobile service provider.</string>
-  <string name="sync_sub_1_sms">A text message will be sent to bind your SIM card with this account. You may incur regular fees from your mobile service provider.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">2 text messages will be sent to bind your SIM cards with this account. You may incur additional fees from your mobile service provider.</string>
-  <string name="sync_sub_2_intl_sms">2 text messages will be sent to bind your SIM cards with this account. You may incur additional fees from your mobile service provider.</string>
-  <string name="sync_sub_2_sms">2 text messages will be sent to bind your SIM cards with this account. You may incur regular fees from your mobile service provider.</string>
+  <string name="sync_sub_1_intl_sms">An SMS will be sent to bind your SIM card with this account. You may incur additional fees from your mobile service provider.</string>
+  <string name="sync_sub_1_sms">An SMS will be sent to bind your SIM card with this account. You may incur regular fees from your mobile service provider.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">2 SMS will be sent to bind your SIM cards with this account. You may incur additional fees from your mobile service provider.</string>
+  <string name="sync_sub_2_intl_sms">2 SMS will be sent to bind your SIM cards with this account. You may incur additional fees from your mobile service provider.</string>
+  <string name="sync_sub_2_sms">2 SMS will be sent to bind your SIM cards with this account. You may incur regular fees from your mobile service provider.</string>
   <string name="title_reg">Create an account</string>
   <string name="trust_device">Trust this device</string>
   <string name="unactivated_user">Almost there…</string>
