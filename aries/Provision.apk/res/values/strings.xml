@@ -4,16 +4,16 @@
   <string name="next">Next</string>
   <string name="other_service_google_location">Google location service</string>
   <string name="other_service_google_location_use">Location &amp; Google search</string>
-  <string name="other_service_google_location_use_help">"Allow Google's location service to collect anonymous location data. Collection will occur even when no applications are running."</string>
+  <string name="other_service_google_location_use_help">Allow location services to collect anonymous location data. Some data may be stored on your device. Collection may occur even when no apps are running.</string>
   <string name="other_service_google_location_use_summary">Let Google use your location to improve search results and other services</string>
   <string name="other_service_label">Other services</string>
   <string name="other_service_location">Location access</string>
-  <string name="other_service_location_summary">Let map and other apps pinpoint your location</string>
+  <string name="other_service_location_summary">Allow location services to collect anonymous location data. Some data may be stored on your device. Collection may occur even when no apps are running.</string>
   <string name="other_service_permission_manager">Manage app permissions</string>
   <string name="other_service_permission_manager_summary">Monitoring apps for security and privacy</string>
-  <string name="other_service_user_experience">User experience program</string>
+  <string name="other_service_user_experience">User Experience program</string>
   <string name="other_service_user_experience_summary0">Help improve MIUI by sending anonymous usage data</string>
-  <string name="other_service_user_experience_summary1">(View privacy policy)</string>
+  <string name="other_service_user_experience_summary1">" (View Privacy Policy)"</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="setup_complete_info"/>
   <string name="setup_complete_label">"You're all set!"</string>
@@ -25,7 +25,10 @@
   <string name="sim_card_detection_label">SIM card</string>
   <string name="sim_card_detection_status_absent">No SIM card detected</string>
   <string name="terms_agree">Agree</string>
-  <string name="terms_description">You must agree to Terms of Service and Privacy Policy to continue using MIUI.</string>
+  <string name="terms_confirm_info">You use of this phone is subject to the %1$s and %2$s</string>
+  <string name="terms_description">"Your privacy is very important to us. Please read the following terms to understand what information we collect, how we use it and what choices are available to you.
+
+Your use of MIUI and related services is subject to these terms and conditions."</string>
   <string name="terms_disagree">Cancel</string>
   <string name="terms_label">Terms and conditions</string>
   <string name="terms_of_service">Terms of Service</string>

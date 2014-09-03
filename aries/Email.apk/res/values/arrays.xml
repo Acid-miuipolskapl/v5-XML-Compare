@@ -164,6 +164,10 @@
         <item>@string/folder_junk_name_cn0</item>
         <item>@string/folder_junk_name_cn1</item>
     </string-array>
+    <string-array name="send_inline_filter_array">
+        <item>@string/eas_outlook_email</item>
+        <item>@string/eas_hotmail_email</item>
+    </string-array>
     <integer-array name="senders_with_attachment_lengths">
         <item>25</item>
         <item>25</item>

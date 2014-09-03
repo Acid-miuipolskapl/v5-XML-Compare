@@ -514,6 +514,7 @@ Switch to the new provider anyway?"</string>
   <string name="information">Information</string>
   <string name="international_disable">International news disabled</string>
   <string name="international_enable">International news enabled</string>
+  <string name="international_roaming_setting">International roaming</string>
   <string name="internet_phone">Internet call</string>
   <string name="invalidPin">Type a PIN that is 4 to 8 numbers.</string>
   <string name="invalidPin2">Type a PIN2 that is 4 to 8 numbers.</string>

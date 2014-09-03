@@ -778,7 +778,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="deepclean_cache_header_left">Cache files: %d</string>
   <string name="deepclean_sort_type_title">Sort</string>
   <string name="default_date_format">MM/dd/yyyy</string>
-  <string name="default_input_method">Choose default input method</string>
+  <string name="default_input_method">Choose default keyboard</string>
   <string name="default_usb_mode">USB connection</string>
   <string name="delete">Delete</string>
   <string name="details_subtitle">Use details</string>
@@ -1184,7 +1184,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="incoming_call_breathing_light_color_title">Calls light color</string>
   <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
   <string name="incoming_call_volume_title">Ringtone</string>
-  <string name="input_method">Input method</string>
+  <string name="input_method">Keyboard</string>
   <string name="input_method_selector">Input method selector</string>
   <string name="input_method_selector_always_hide_title">Always hide</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -2955,7 +2955,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Mute notifications</string>
   <string name="volume_restore">Reset levels</string>
-  <string name="volume_restore_alert">"You're current volume level settings will be erased."</string>
+  <string name="volume_restore_alert">All volume levels will be reset.</string>
   <string name="volume_ring_description">Ringtone &amp; notifications</string>
   <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
   <string name="volume_system_description">Camera shutter, lock screen, and other system notifications</string>
