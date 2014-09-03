@@ -97,7 +97,7 @@ You can turn this feature on and off anytime in settings."</string>
   <string name="cmcc_data_sync_notice">Sync messages and contacts across devices.</string>
   <string name="cmcc_micloud_dspt">Backup your data, locate your phone, and share things with friends.</string>
   <string name="completed">Finish</string>
-  <string name="confirm">Confirm</string>
+  <string name="confirm">OK</string>
   <string name="data_keep_in_phone">Keep on this device</string>
   <string name="data_sync_notice">"Mi Cloud syncs your photos, text messages, notes, and more across your Mi devices. It also lets you access them at i.mi.com.
 
@@ -255,7 +255,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="quick_login_title">Enter your password</string>
   <string name="reg_failed">"Can't set up account"</string>
   <string name="reg_success">Account created</string>
-  <string name="reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to retrieve your password.</string>
+  <string name="reg_success_summary">%1$s has been linked with your account. You can use it to sign in or to retrieve your password.</string>
   <string name="reg_type_email">Create account using email</string>
   <string name="reg_type_phone">Create account using phone number</string>
   <string name="reging">Creating account…</string>

@@ -2136,7 +2136,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="protection_perm">Permission setting</string>
   <string name="protection_sms">SMS filter</string>
   <string name="provider_label">Push subscriptions</string>
-  <string name="provision_inputmethod_policy_description">View the privacy policy associated with your current input method</string>
+  <string name="provision_inputmethod_policy_description">Privacy Policy for selected keyboard</string>
   <string name="proxy_action_text">Done</string>
   <string name="proxy_clear_text">Clear</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
