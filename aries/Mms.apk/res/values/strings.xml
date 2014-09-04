@@ -220,9 +220,11 @@
   <string name="mx_current_status">Status: online</string>
   <string name="mx_dspt">Cloud Messaging lets you send messages back and forth with anyone else using MIUI</string>
   <string name="mx_enable">Cloud Messaging</string>
-  <string name="mx_enable_popup_msg">"Cloud Messaging lets you send messages back and forth with anyone else using MIUI. Normal data usage charges apply, unless you're connected to WLAN."</string>
+  <string name="mx_enable_popup_msg">Cloud Messaging lets you send messages back and forth for free with other users also using this feature.</string>
   <string name="mx_msg">Cloud Messaging</string>
   <string name="mx_offline">Offline</string>
+  <string name="mx_on_sim_1">Cloud Messaging with SIM slot %s</string>
+  <string name="mx_on_sim_2">Cloud Messaging with SIM slot %s</string>
   <string name="mx_online">Online</string>
   <string name="mx_recommend_msg">Touch to enable Cloud Messaging.</string>
   <string name="need_download">Syncing…</string>

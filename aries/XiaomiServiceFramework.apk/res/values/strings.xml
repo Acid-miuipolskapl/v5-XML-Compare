@@ -78,6 +78,8 @@
   <string name="add_weibo_account">Bind account</string>
   <string name="alert_notif_title_dspt">Not syncing</string>
   <string name="alert_title_remove_account">"Delete the data you've synced?"</string>
+  <string name="all_cloud_service_dspt">"Choose which of the Mi Cloud services below you would like to use.
+You can turn them on and off anytime in Settings."</string>
   <string name="app_name">Xiaomi Service Framework</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="bank_cards">Bank cards</string>
@@ -133,6 +135,9 @@ You can turn this feature on and off anytime in Settings.
   <string name="find_device_disabled_notice">You can toggle the Find Device feature in Settings &gt; Accounts &amp; sync &gt; Mi Cloud</string>
   <string name="find_device_disabled_title">Disabled</string>
   <string name="find_device_disabling">Turning off…</string>
+  <string name="find_device_dspt_in_all_setting_1">"Locate, lock, or reset your device from any browser at "</string>
+  <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+  <string name="find_device_dspt_in_all_setting_3"/>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_server">Something went wrong with our servers.</string>
@@ -244,6 +249,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_web_discription_02">"to access the files you've in stored Mi Cloud"</string>
   <string name="micloud_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="mili_center">Mi Credit</string>
+  <string name="mx_dspt_in_all_setting">Send SMS messages to other MIUI users for free</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't show again"</string>
   <string name="nobind">Not bound</string>
@@ -278,18 +284,21 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="sms_prompt_cloud_messaging">Cloud Messaging</string>
   <string name="sms_prompt_cloud_service">MiCloud Service</string>
   <string name="sms_prompt_find_device">Find Device</string>
+  <string name="sms_prompt_set_all">these services</string>
+  <string name="sms_prompt_set_single">this service</string>
   <string name="sms_prompt_sync">sync</string>
   <string name="start_micloud">Go back to Mi Cloud start page</string>
   <string name="sub_alert_notif_dspt" formatted="false">"%s contacts, %s messages, %s photos, and %s notes haven't been synced."</string>
   <string name="sub_alert_notif_title">Not syncing</string>
   <string name="sync_dspt">Enable sync</string>
+  <string name="sync_dspt_in_all_setting">Sync your photos, text messages, notes, and more across your Mi devices</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
-  <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate this service</string>
-  <string name="sync_sub_1_sms">Your carrier may charge for an SMS message used to activate this service.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Your carrier may charge for 1 domestic and 1 international SMS message used to activate this service</string>
-  <string name="sync_sub_2_intl_sms">Your carrier may charge for 2 international SMS messages used to activate this service</string>
-  <string name="sync_sub_2_sms">Your carrier may charge for 2 SMS messages used to activate this service</string>
+  <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate %s.</string>
+  <string name="sync_sub_1_sms">Your carrier may charge for an SMS message used to activate %s.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Your carrier may charge for 1 domestic and 1 international SMS message used to activate %s.</string>
+  <string name="sync_sub_2_intl_sms">Your carrier may charge for 2 international SMS messages used to activate %s.</string>
+  <string name="sync_sub_2_sms">Your carrier may charge for 2 SMS messages used to activate %s.</string>
   <string name="title_reg">Create an account</string>
   <string name="trust_device">Trust this device</string>
   <string name="unactivated_user">Almost there…</string>
@@ -306,7 +315,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="user_agreement_p5">"By creating an account, you're agreeing to
  the "</string>
   <string name="user_agreement_p6">Your use of this service is subject to </string>
-  <string name="user_agreement_p7">Mi Cloud Terms of Service</string>
+  <string name="user_agreement_p7">"Mi Cloud's Terms of Service"</string>
   <string name="vcode">Verification code</string>
   <string name="vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="vcode_prompt_long">Enter the verification code generated by your Mi Security Token</string>

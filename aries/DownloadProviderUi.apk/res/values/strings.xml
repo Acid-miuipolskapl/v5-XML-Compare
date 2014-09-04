@@ -34,6 +34,7 @@
   <string name="dialog_title_not_available">Download Failed</string>
   <string name="dialog_title_queued_body">File not yet available</string>
   <string name="disable">Disable</string>
+  <string name="display_expire_netiv1">Month Owner</string>
   <string name="download_complete">Complete</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">Insufficient space</string>
