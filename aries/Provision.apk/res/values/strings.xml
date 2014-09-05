@@ -9,11 +9,11 @@
   <string name="other_service_label">Other services</string>
   <string name="other_service_location">Location access</string>
   <string name="other_service_location_summary">Allows apps to use GPS to pinpoint your location</string>
-  <string name="other_service_permission_manager">Prompt for permission</string>
-  <string name="other_service_permission_manager_summary">"Ask for your permission before allowing apps to send SMS, make calls, view contacts, or make changes to your device's settings"</string>
+  <string name="other_service_permission_manager">Permission manager</string>
+  <string name="other_service_permission_manager_summary">Ask your permission before allowing apps to read your contacts, view your call log, change system settings, or access camera and other device resources</string>
   <string name="other_service_user_experience">User Experience program</string>
-  <string name="other_service_user_experience_summary0">"Help improve MIUI by sending anonymous usage data "</string>
-  <string name="other_service_user_experience_summary1">(view Privacy Policy)</string>
+  <string name="other_service_user_experience_summary0">Help improve MIUI by sending anonymous usage data (%s)</string>
+  <string name="other_service_user_experience_summary1">view Privacy Policy</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="setup_complete_info"/>
   <string name="setup_complete_label">"You're all set!"</string>
@@ -29,6 +29,6 @@
 
 Your use of MIUI and related services is subject to the terms above."</string>
   <string name="terms_disagree">Cancel</string>
-  <string name="terms_label">Terms and conditions</string>
+  <string name="terms_label">Terms and Conditions</string>
   <string name="terms_of_service">Terms of Service</string>
 </resources>
