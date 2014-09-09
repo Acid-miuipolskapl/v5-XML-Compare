@@ -43,7 +43,7 @@
   <string name="connect_network_setting_des">Remind me when accessing network</string>
   <string name="copy_failed">Failed to copy</string>
   <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
-  <string name="create_kuaipan_shortcut_pref">Add to shortcut Home screen</string>
+  <string name="create_kuaipan_shortcut_pref">Add shortcut to Home screen</string>
   <string name="create_new_folder_desctiption">Creating folder…</string>
   <string name="create_new_folder_failed">"Can't create folder"</string>
   <string name="create_share_link_description">Creating link…</string>
@@ -116,8 +116,8 @@
   <string name="instruction">Enter the following address into an FTP client:</string>
   <string name="instruction_pre">Touch to start FTP server</string>
   <string name="kuaipan_alert_message">Download the KuaiPan app from the Play Store, then sign in with your Mi Account</string>
-  <string name="kuaipan_alert_title">Caution</string>
-  <string name="kuaipan_app">KuaiPan App</string>
+  <string name="kuaipan_alert_title">Attention</string>
+  <string name="kuaipan_app">KuaiPan app</string>
   <string name="kuaipan_can_not_find_play">"Can't find Play Store"</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Not enough space</string>

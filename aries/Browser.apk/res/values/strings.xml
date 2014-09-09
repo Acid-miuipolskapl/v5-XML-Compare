@@ -166,7 +166,7 @@
   <string name="download">Download</string>
   <string name="download_complete">Download complete</string>
   <string name="download_default_path_txt">Remember this choice</string>
-  <string name="download_dialog_default_path_invalid">Download path is invalid, use the default download path</string>
+  <string name="download_dialog_default_path_invalid">Download path is invalid, try using the default download path</string>
   <string name="download_dialog_file_length_hint_txt">"File size: "</string>
   <string name="download_dialog_file_length_lessthan1kb">less than 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Download failed</string>
@@ -390,8 +390,8 @@
   <string name="pref_extras_website_settings_summary">Advanced settings for individual websites</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Restore default settings</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restore default settings</string>
-  <string name="pref_file_download_save_modify_default_path">Put downloaded files in…</string>
-  <string name="pref_file_download_save_title">Download</string>
+  <string name="pref_file_download_save_modify_default_path">Save files to</string>
+  <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border_enabled">Swipe from edge</string>
   <string name="pref_fling_on_border_enabled_title_summary">Swipe from the left or right edge of the screen to switch between tabs</string>
   <string name="pref_font_size_category">Text size</string>
