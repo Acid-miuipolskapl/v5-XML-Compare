@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">Your Weibo account has expired. Try binding it again.</string>
   <string name="access_token_invalid_warning">Weibo account is invalid.</string>
   <string name="account">Account</string>
-  <string name="account_dspt">With a Mi Account, you can use services, such as Mi Cloud, MIUI Themes, and Mi Store, from anywhere.</string>
+  <string name="account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
   <string name="account_hint_text">Email or phone number</string>
   <string name="account_name">Account: %1$s</string>
   <string name="activate">Activate</string>
