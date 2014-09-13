@@ -56,8 +56,7 @@
     </array>
     <string-array name="power_mode_entries">
         <item>High performance</item>
-        <item>Balance</item>
-        <item>Battery saving</item>
+        <item>Balance(default)</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>After 1 minute</item>
@@ -77,7 +76,6 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>High performance</item>
         <item>Balance</item>
-        <item>Battery saving</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Never vibrate</item>
@@ -100,7 +98,7 @@
         <item>Enable blocklist</item>
         <item>Enable app permission controls</item>
         <item>Clean garbage</item>
-        <item>Update virus library</item>
+        <item>Update virus definitions</item>
         <item>"You're running a lot of apps in the background…"</item>
     </string-array>
     <string-array name="timezone_filters">
@@ -928,17 +926,17 @@
         <item>24,14,-20,6,12,16,8</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Device connected, creating session…</item>
-        <item>Session created.</item>
-        <item>Session tearing down…</item>
-        <item>Session failed.</item>
-        <item>Timed out, retrying…</item>
+        <item>Starting session…</item>
+        <item>Session started</item>
+        <item>Tearing down…</item>
+        <item>"Can't start session"</item>
+        <item>Timed out. Retrying…</item>
         <item>Device connected</item>
     </string-array>
     <string-array name="msd_pc_system">
-        <item>Windows XP and older versions of Windows</item>
-        <item>Windows Vista and newer versions of Windows</item>
-        <item>Mac OS</item>
+        <item>Windows XP and older</item>
+        <item>Windows Vista and newer</item>
+        <item>OSX</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_start_summary">
@@ -950,10 +948,7 @@ driver must be installed manually"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Ignore the Setup Wizard)
-When connected, Xiaomi will appear as a USB mass storage device.
- Open and select Setup.exe to install"</item>
-        <item></item>
+        <item>2.Follow the onscreen instructions</item>
         <item>"When connected, Xiaomi will appear as a USB mass storage device on your desktop.
 Open and select AndroidFileTransfer.dmg to install."</item>
         <item></item>
