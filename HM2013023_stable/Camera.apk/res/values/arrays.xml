@@ -622,4 +622,26 @@
         <item>@string/pref_scan_qrcode_value_on</item>
         <item>@string/pref_scan_qrcode_value_off</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_006b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_006f">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0070">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0071">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0072">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0073">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0074">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0075">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0076">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0077">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0078">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0079">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_007f">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0080">false</item>
 </resources>

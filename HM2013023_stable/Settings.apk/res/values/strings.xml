@@ -42,7 +42,7 @@
   <string name="Network_Used">Network Used</string>
   <string name="Phone_vibrate_summary">Vibrate devices for incoming calls</string>
   <string name="Settings_title_anti_spam">Antispam settings</string>
-  <string name="Settings_title_anti_virus">AntiVirus settings</string>
+  <string name="Settings_title_anti_virus">Antivirus settings</string>
   <string name="Settings_title_garbage_cleanup">Garbage cleanup settings</string>
   <string name="Settings_title_network_assistants">Network assistant settings</string>
   <string name="Settings_title_power_center">Power manager settings</string>
@@ -106,7 +106,9 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_service_default_description">No description provided.</string>
   <string name="accessibility_service_disable_warning_summary">Touching OK will stop %1$s.</string>
   <string name="accessibility_service_disable_warning_title">Stop %1$s?</string>
+  <string name="accessibility_service_no_apps_confirm">OK</string>
   <string name="accessibility_service_no_apps_message">TalkBack provides spoken feedback to help blind and low-vision users. Do you want to install it for free from Android Market?</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack provides spoken feedback to help blind and low-vision users. Get this service for free from the Google Play Store.</string>
   <string name="accessibility_service_no_apps_title">Need a screen reader?</string>
   <string name="accessibility_service_security_warning_summary">%1$s can collect all of the text you type, except passwords. This includes personal data such as credit card numbers. It can also collect data about your interactions with the phone.</string>
   <string name="accessibility_service_security_warning_title">Use %1$s?</string>
@@ -263,7 +265,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_factory_reset">Uninstall updates</string>
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
-  <string name="app_feedback">Report Bug</string>
+  <string name="app_feedback">Report bug</string>
   <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app.
 Disable floating windows?"</string>
   <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires the app to restart. You can also stop running the app manually.
@@ -277,12 +279,12 @@ Enable floating windows?"</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
   <string name="app_not_found_dlg_title"/>
-  <string name="app_notifications_switch_label">Custom notification</string>
+  <string name="app_notifications_switch_label">Notifications</string>
   <string name="app_process_limit_title">Background process limit</string>
   <string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
   <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
   <string name="app_uninstall_residual">Clean up residual uninstall files?</string>
-  <string name="application_forbid_auto_startup">Forbid %s from starting in background</string>
+  <string name="application_forbid_auto_startup">Stop %s from starting in background</string>
   <string name="application_info_label">App info</string>
   <string name="application_item_already_permission">Allowed</string>
   <string name="application_item_disable">Deny</string>
@@ -293,7 +295,6 @@ Enable floating windows?"</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="applications_sort_type_item_size">Size</string>
   <string name="applications_sort_type_item_time">Frequently used</string>
-  <string name="applications_sort_type_title">Sort</string>
   <string name="ask_compatibility">Ask when launched</string>
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
@@ -643,6 +644,8 @@ Enable floating windows?"</string>
   <string name="button_text_uninstall_apps">Uninstall</string>
   <string name="button_text_view">View</string>
   <string name="button_text_view_power">View power</string>
+  <string name="cache_data_sort_type_item_name">Name</string>
+  <string name="cache_data_sort_type_item_size">Size</string>
   <string name="cache_garbage">Cache</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_list_empty_hints">No cached files</string>
@@ -783,12 +786,12 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="crypt_keeper_unplugged_text">Plug in your charger and try again.</string>
   <string name="cryptkeeper_emergency_call">Emergency call</string>
   <string name="cryptkeeper_return_to_call">Return to call</string>
-  <string name="cta_button_text_agree">同意</string>
-  <string name="cta_button_text_cancel">取消</string>
-  <string name="cta_checkbox_title">不再提示</string>
-  <string name="cta_dialog_msg">您将使用小米公司的安全中心服务，为了保证功能的正常使用以及相关病毒库能够得到及时的更新，在使用过程中需要联网，您是否同意？</string>
-  <string name="cta_dialog_title">声明和条款</string>
-  <string name="cta_settings">允许联网</string>
+  <string name="cta_button_text_agree">OK</string>
+  <string name="cta_button_text_cancel">Cancel</string>
+  <string name="cta_checkbox_title">"Don't show again"</string>
+  <string name="cta_dialog_msg">Security Center may need to connect to the internet to get updates.</string>
+  <string name="cta_dialog_title">Internet connection</string>
+  <string name="cta_settings">Allow internet connection</string>
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Default</string>
   <string name="current_suffix">(Current)</string>
@@ -920,8 +923,10 @@ This setting affects all users on this phone."</string>
   <string name="deep_clean_title_residual">Residuals</string>
   <string name="deep_clean_title_uninstall_apps">Apps</string>
   <string name="deep_cleaning">Advanced</string>
+  <string name="deepclean_cache_header_left">Cache files: %d</string>
+  <string name="deepclean_sort_type_title">Sort</string>
   <string name="default_date_format">MM/dd/yyyy</string>
-  <string name="default_input_method">Choose default input method</string>
+  <string name="default_input_method">Choose default keyboard</string>
   <string name="default_name">Default</string>
   <string name="default_usb_mode">USB connection</string>
   <string name="delete">Delete</string>
@@ -951,9 +956,9 @@ This setting affects all users on this phone."</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI version</string>
   <string name="device_name">Device name</string>
-  <string name="device_name_input_error">Failed to save device name</string>
+  <string name="device_name_input_error">"Couldn't to save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
-  <string name="device_name_usage_point">This name will be visable to other Bluetooth enabled devices in your area</string>
+  <string name="device_name_usage_point">This name will be visible to other Bluetooth devices in your area</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="device_sd_memory">SD card</string>
   <string name="device_status">Status</string>
@@ -987,10 +992,10 @@ This setting affects all users on this phone."</string>
   <string name="dirac_mode_general_inear">General inear</string>
   <string name="dirac_mode_in_ear">Mi in-ear headphones lite</string>
   <string name="dirac_mode_off">Dirac off</string>
-  <string name="dirac_mode_piston_1">Xiaomi piston-1</string>
+  <string name="dirac_mode_piston_1">Mi piston-1</string>
   <string name="dirac_mode_piston_100">Mi in-ear headphones</string>
-  <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
-  <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+  <string name="dirac_mode_piston_2">Mi piston-2</string>
+  <string name="dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="dirac_switch_summary">"Use Dirac Sound enhancer when using phone's speakers"</string>
   <string name="dirac_switch_title">Dirac sound technology</string>
   <string name="disableNetwork">disableNetwork</string>
@@ -1114,6 +1119,7 @@ This setting affects all users on this phone."</string>
   <string name="edit_whitelist">Edit note</string>
   <string name="emergency_tone_summary">Set behavior when an emergency call is placed</string>
   <string name="emergency_tone_title">Emergency tone</string>
+  <string name="empty_content_size">None</string>
   <string name="empty_folder_title">Empty folder (%d)</string>
   <string name="empty_folder_title_hints">Empty folder</string>
   <string name="empty_list_msg">"You don't have any third-party apps installed."</string>
@@ -1133,6 +1139,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_firewall">Block unwanted calls</string>
   <string name="enable_gps">Enable gps</string>
   <string name="enable_gps_confirm_message">It needs a wireless data connection to acquire GPS assistance data (EPO, A-GPS) that may cause extra network fee. Are you sure to turn on GPS?</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_sim">Enable</string>
   <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
@@ -1233,8 +1240,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="firewall_settings">Do not disturb settings</string>
   <string name="firewall_settings_tab_title">Rules</string>
   <string name="firmware_version">Android version</string>
-  <string name="floating_window_switch_label">Show popup windows</string>
-  <string name="floating_window_switch_label_disable">Hide popup windows</string>
+  <string name="floating_window_switch_label">Enable floating windows</string>
+  <string name="floating_window_switch_label_disable">Disable floating windows</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -1253,7 +1260,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="free_ram">Memory</string>
-  <string name="free_wifi_confirm">I know</string>
+  <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
   <string name="free_wifi_connect_dialog_title">WLAN available</string>
@@ -1500,9 +1507,14 @@ Are you sure to use GPS provided time?"</string>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
+  <string name="high_performance_notif_summary">Performance mode is on.</string>
+  <string name="high_performance_notif_title">Battery usage warning</string>
+  <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
   <string name="history_details_title">History details</string>
   <string name="home_key">Home</string>
-  <string name="ime_security_warning">%1$sThis input method can record everything you type, including passwords, credit card numbers, and other personal data. Do you want to use this input method?</string>
+  <string name="ime_privacy_policy">Keyboard Privacy Policy</string>
+  <string name="ime_privacy_policy_no_network">No network connection. You can view this policy at %s</string>
+  <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data. Do you want to use this keyboard?</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
@@ -1512,7 +1524,7 @@ Are you sure to use GPS provided time?"</string>
   <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
   <string name="incoming_call_volume_title">Ringtone</string>
   <string name="incomming_command_summary_format">You can say %1$s or %2$s to answer or reject incomming calls.</string>
-  <string name="input_method">Input method</string>
+  <string name="input_method">Keyboard</string>
   <string name="input_method_selector">Input method selector</string>
   <string name="input_method_selector_always_hide_title">Always hide</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -1605,6 +1617,8 @@ Are you sure to use GPS provided time?"</string>
   <string name="language_picker_title">Language</string>
   <string name="language_settings">Language &amp; input</string>
   <string name="language_settings_category">Language settings</string>
+  <string name="large_file_sort_type_item_name">Name</string>
+  <string name="large_file_sort_type_item_size">Size</string>
   <string name="large_file_sort_type_name">Sort by name</string>
   <string name="large_file_sort_type_size">Sort by size</string>
   <string name="large_font">Large</string>
@@ -1650,8 +1664,8 @@ Are you sure to use GPS provided time?"</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
-  <string name="local_backup_section_summary">Backup system settings, account and apps</string>
-  <string name="local_backup_section_title">ocal backups</string>
+  <string name="local_backup_section_summary">Backup system settings, account, and apps</string>
+  <string name="local_backup_section_title">Local backups</string>
   <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
   <string name="location_access_title">Access to my location</string>
   <string name="location_gps">GPS satellites</string>
@@ -1823,8 +1837,8 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="menu_item_about_title">About</string>
   <string name="menu_item_app_details">Details</string>
   <string name="menu_item_force_stop">Force stop</string>
-  <string name="menu_item_notification_antispam_text_avail">Spam</string>
-  <string name="menu_item_notification_antispam_text_normal">Spam</string>
+  <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
+  <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Error</string>
   <string name="menu_item_notification_power_text">Power</string>
@@ -1865,47 +1879,47 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="move_app_to_where">Move to %s</string>
   <string name="moving">Moving</string>
   <string name="msd_driver_download">Download driver</string>
-  <string name="msd_driver_mac_download">"For OSX, download the driver and click AndroidFileTransfer.dmg to install
+  <string name="msd_driver_mac_download">"OSX: Download the driver and install AndroidFileTransfer.dmg.
 Get the driver at http://miui.com/mac"</string>
-  <string name="msd_driver_windows_xp_download">"For Windows, download the driver and click Setup.exe to install
+  <string name="msd_driver_windows_xp_download">"Windows: Download the driver and click Setup.exe to install
 Get the driver at http://miui.com/win"</string>
-  <string name="msd_help_summary">"Having trouble accessing your device via computer?
+  <string name="msd_help_summary">"Can't connect to your device?
 Select your operating system:"</string>
-  <string name="msd_help_title">MTP Help</string>
+  <string name="msd_help_title">Help</string>
   <string name="msd_install">Reinstall driver?</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Next</string>
-  <string name="msd_install_retry_linux">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_linux">"If the computer fails to detect your device,
 Try the following:
-1) Use the install tool \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Create a directory \"mkdir\" /media/mtp
-3) Confirm user group permissions in the current fuse user group
+1) Use the install tool \"$sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
+2) Create a directory \"$mkdir\" /media/mtp
+3) Confirm user group permissions in the user group
 4) Sign in again
-5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
-6) Uninstall device fusermount -u /media/mtp
+5) Access mounted device mtpfs /media/mtp via File explorer (same as the local directory)
+6) Uninstall device $fusermount -u /media/mtp
  (Ubuntu 8.04)"</string>
-  <string name="msd_install_retry_mac">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_mac">"If the computer fails to detect your device,
 Try the following:
 "&lt;li&gt;"1) Do a search for
 Android File Transfer,
 and run the software."&lt;/li&gt;"
 "&lt;li&gt;2) Reconnect the USB cable.&lt;/li&gt;"
 "&lt;li&gt;3) Reinstall the driver.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_vista">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_windows_vista">"If the computer fails to detect your device,
 Try reconnecting the USB cable."</string>
-  <string name="msd_install_retry_windows_xp">"If the computer failed to detect your phone,
+  <string name="msd_install_retry_windows_xp">"If the computer fails to detect your device,
 Try the following:
 "&lt;li&gt;1) Reconnect the USB cable.&lt;/li&gt;"
 "&lt;li&gt;2) Reinstall the driver.&lt;/li&gt;</string>
-  <string name="msd_install_status_done">Driver installed.</string>
+  <string name="msd_install_status_done">Driver installed</string>
   <string name="msd_install_status_undo">Install driver</string>
   <string name="msd_install_succeed">Driver installed</string>
   <string name="msd_install_windows_xp_step_2_1">Follow the steps in the Setup Wizard to complete installation.</string>
-  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer versions of Windows,
+  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer,
 the %1$s music player will appear on your computer automatically"</string>
-  <string name="msd_pc_system_install_finish_summary_xp">"After you install this driver
-%1$s will appear as a USB mass storage device when connected to a computer."</string>
-  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer versions of Windows, 
+  <string name="msd_pc_system_install_finish_summary_xp">"After you install the driver
+%1$s will appear as a USB storage device when connected to a computer."</string>
+  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer, 
 %1$s will appear automatically as a USB mass storage"</string>
   <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s will appear as a USB mass storage
  device when connected to your computer."</string>
@@ -1981,10 +1995,10 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="notification_sound_dialog_title">Default notification</string>
   <string name="notification_sound_title">Default notification</string>
   <string name="notification_summary_of_garbage_cleanup">Trash size is over %s.</string>
-  <string name="notification_summary_of_low_memory">System memory is low.</string>
+  <string name="notification_summary_of_low_memory">No room for new apps.</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notification_title_of_garbage_cleanup">Consider emptying trash</string>
-  <string name="notification_title_of_low_memory">%s in use</string>
+  <string name="notification_title_of_low_memory">%s used</string>
   <string name="notification_volume_title">Notification</string>
   <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
   <string name="nsd_quick_toggle_title">Network service discovery</string>
@@ -1993,7 +2007,7 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="ok">OK</string>
   <string name="oldman_mode_confirm_title">Reboot phone?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Your phone will reboot and enter Lite mode.</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">Your phone will reboot to enter Lite mode.</string>
   <string name="oldman_mode_enabled_name">Lite mode</string>
   <string name="oldman_mode_entry_name">Lite mode</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
@@ -2041,7 +2055,7 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="optimize_cache_header_left">Cache files: %d</string>
   <string name="optimize_cache_list_empty_content">No cache files found</string>
   <string name="optimize_done">"Ok, you're all set!"</string>
-  <string name="optimize_installed_apps_header_left">Downloaded apps: %d</string>
+  <string name="optimize_installed_apps_header_left">Installed apps: %d</string>
   <string name="optimize_installed_apps_list_empty_content">No apps found</string>
   <string name="optimize_large_file_header_left">Large files: %d</string>
   <string name="optimize_large_file_list_empty_content">No large files found</string>
@@ -2247,7 +2261,7 @@ Be careful, granting root permission to third-party apps may destabilize your de
   <string name="perm_user_app">Downloaded apps (%d)</string>
   <string name="perm_version">Version: %1$s</string>
   <string name="permission_detail_info">Permission details</string>
-  <string name="permission_detail_info_summary">Permissions: Security %1$d | Privacy %2$d | Other %3$d</string>
+  <string name="permission_detail_info_summary">Security: %1$d | Privacy: %2$d | Other: %3$d</string>
   <string name="permission_manage">Manage permissions</string>
   <string name="permission_manage_summary">Auto start, privacy, secure permission management</string>
   <string name="permission_manage_title">%s permission details</string>
@@ -2507,6 +2521,10 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="preferred_application_warning_use_system">Use %s</string>
   <string name="preferred_launcher_title">Default launcher</string>
   <string name="preferred_media_app_summary">Choose music player</string>
+  <string name="priority_storage_app_settings">Userdata will be saved to %1$s</string>
+  <string name="priority_storage_settings_summary">"If no SD card is detected, userdata will be saved to your device's internal storage automatically"</string>
+  <string name="priority_storage_summary">Choose the default location to save userdata</string>
+  <string name="priority_storage_title">Storage settings</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, pictures, and incoming calls</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
   <string name="privacy_protect_title">Privacy protection</string>
@@ -2531,6 +2549,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="protection_perm">Permission setting</string>
   <string name="protection_sms">SMS filter</string>
   <string name="provider_label">Push subscriptions</string>
+  <string name="provision_inputmethod_policy_description">Privacy Policy for selected keyboard</string>
   <string name="proxy_action_text">Done</string>
   <string name="proxy_clear_text">Clear</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
@@ -2905,6 +2924,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_pin_change">Change SIM PIN</string>
   <string name="sim_pin_toggle">Lock SIM card</string>
   <string name="sim_pins_dont_match">"PINs don't match"</string>
+  <string name="sim_radio_off">Not activated</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
   <string name="sim_remain">(Remains:%d)</string>
   <string name="sim_slot">SIM Slot</string>
@@ -3066,7 +3086,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_color_calibration">Color Correction preset</string>
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
-  <string name="title_dolby_control">Dobly digital plus</string>
+  <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font_current">Using</string>
   <string name="title_font_size">Font size</string>
@@ -3215,7 +3235,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unmount_inform_text">SD card will be unmounted.</string>
   <string name="unmount_usb_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
-  <string name="upload_debug_log_summary">Help Xiaomi improve its products and services by sending anonymous diagnostic and usage data</string>
+  <string name="upload_debug_log_summary">Help improve MIUI by sending anonymous usage data</string>
   <string name="upload_debug_log_title">User experience program</string>
   <string name="usage_log">App usage statistics</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
@@ -3270,7 +3290,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_default_tts_settings_title">Always use my settings</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
-  <string name="use_network_warning">Xiaomi Service Framework and Cloud Service require network connection</string>
+  <string name="use_network_warning">Connect to the internet to set up your Mi Account</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_user_menu">Add user</string>
@@ -3408,7 +3428,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_safe">Clear</string>
   <string name="virus_scan_settings">Settings</string>
   <string name="virus_scan_settings_title">Virus definition settings</string>
-  <string name="virus_scan_start">Virus scan</string>
+  <string name="virus_scan_start">Scan</string>
   <string name="virus_scan_stop">Pause</string>
   <string name="virus_scan_support">Powered by Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (install pkg)</string>
@@ -3791,8 +3811,8 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_share_qrcode_summary">Use Camera to scan QR Code</string>
   <string name="wifi_share_qrcode_title">Share WLAN</string>
   <string name="wifi_share_show_network">Show networks</string>
-  <string name="wifi_share_summary1">MIUI users can share public WLAN networks (cafes, resteraunts, hotels, etc.) with one another.</string>
-  <string name="wifi_share_summary2">" When another MIUI user shares a network, you can connect directly without using a password."</string>
+  <string name="wifi_share_summary1">MIUI users can share public WLAN networks (cafes, restaurants, hotels, etc.) with one another.</string>
+  <string name="wifi_share_summary2">When another MIUI user shares a network, you can connect directly without using a password.</string>
   <string name="wifi_share_summary3">Give back by sharing your public WLAN networks with other MIUI users.</string>
   <string name="wifi_share_turn_off">Off</string>
   <string name="wifi_share_turn_on">On</string>
