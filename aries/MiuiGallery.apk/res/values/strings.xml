@@ -694,7 +694,7 @@ albums from anywhere.
   <string name="menu_item_sort_size_desc">Size (descending)</string>
   <string name="menu_view_contact">View contact</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
-  <string name="message_no_delete_access_with_count">"You don't have permission these %d files."</string>
+  <string name="message_no_delete_access_with_count">"You don't have permission to delete these %d files."</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
@@ -788,7 +788,7 @@ albums from anywhere.
   <string name="rename_failed_duplicated_name">A file with the same name already exists.</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code_failed">"Couldn't get QR code"</string>
-  <string name="request_sms_url_failed">"Cloudn't get info"</string>
+  <string name="request_sms_url_failed">"Couldn't get info"</string>
   <string name="request_sms_url_msg">Requesting info…</string>
   <string name="request_sms_url_title">Hint</string>
   <string name="retry_to_create_album">Retry</string>
