@@ -448,8 +448,8 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="grain_buds">小满</string>
   <string name="grain_in_ear">芒种</string>
   <string name="grain_rain">谷雨</string>
-  <string name="grant_permissions_account">Access account request</string>
-  <string name="grant_permissions_apps">Access apps request</string>
+  <string name="grant_permissions_account">Accounts</string>
+  <string name="grant_permissions_apps">Apps below can access your accounts</string>
   <string name="great_cold">大寒</string>
   <string name="great_heat">大暑</string>
   <string name="group_name_contacts">Contacts</string>
@@ -490,7 +490,7 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="lockscreen_transport_play_description">Play button</string>
   <string name="lockscreen_transport_prev_description">Previous</string>
   <string name="lockscreen_unlock_sim_via_puk">Enter PUK code to unlock SIM card</string>
-  <string name="login_website_in_case_forget_password">To reset your password, go to i.xiaomi.com.</string>
+  <string name="login_website_in_case_forget_password">To reset your password, go to i.mi.com.</string>
   <string name="lunar_ba">八</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_chu">初</string>
@@ -520,6 +520,7 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit User agreement</string>
+  <string name="miui_micloud_license_title">Xiaomi Cloud Service Agreement</string>
   <string name="miui_privacy_policy_title">Privacy policy</string>
   <string name="miui_unlockscreen_password_wrong">Try again:</string>
   <string name="miui_user_agreement_title">User agreement</string>
@@ -593,12 +594,14 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">"The SIM card you're using has been deactivated. An international SMS will be sent to reactivate it. You will incur international charges from your carrier."</string>
   <string name="sim_changed_reactivate_notice">"The SIM card you're using has been deactivated. An SMS will be sent to reactivate it. You will incur regular charges from your carrier."</string>
-  <string name="sim_in_airplane_mode">Turn off airplane mode</string>
+  <string name="sim_in_airplane_mode">Turn off airplane mode.</string>
   <string name="sim_locked">SIM card is locked</string>
-  <string name="sim_not_ready">SIM card is in use. Try again later.</string>
+  <string name="sim_not_ready">SIM card is currently in use.</string>
   <string name="sim_unavailable">SIM card unavailable</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_heat">小暑</string>
+  <string name="softap_notifif_summary">%d connected</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" enabled</string>
   <string name="solar_calendar">公历</string>
   <string name="speaker">Speaker</string>
   <string name="spring_begins">立春</string>
@@ -667,7 +670,7 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Call</string>
   <string name="volume_icon_description_media">Media</string>
-  <string name="volume_icon_description_notification">Notification</string>
+  <string name="volume_icon_description_notification">Notifications</string>
   <string name="volume_icon_description_ringer">Ringer</string>
   <string name="volume_ring_description">Ringtone &amp; notifications</string>
   <string name="wake_alarm_message">Shutdown notification will sound at %s</string>
