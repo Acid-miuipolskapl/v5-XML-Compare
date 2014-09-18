@@ -159,7 +159,7 @@
   <string name="st_antispam_des_uesless">Disabled</string>
   <string name="st_antispam_mode_add_new">Add rules</string>
   <string name="st_antispam_mode_blacklist">Blocked numbers</string>
-  <string name="st_antispam_mode_blacklist_state">1111210</string>
+  <string name="st_antispam_mode_blacklist_state">1111211</string>
   <string name="st_antispam_mode_blacklist_sum">"Block messages and calls from numbers you've added manually to the blocklist"</string>
   <string name="st_antispam_mode_customize_sum">Create blocklist rules</string>
   <string name="st_antispam_mode_denyownself_sum">Custom rules</string>
@@ -173,7 +173,7 @@
   <string name="st_antispam_mode_only_whitelist_state">1100000</string>
   <string name="st_antispam_mode_only_whitelist_sum">Only allow calls and messages from numbers on the exceptions list</string>
   <string name="st_antispam_mode_smart">Shared blocklist</string>
-  <string name="st_antispam_mode_smart_state">1111110</string>
+  <string name="st_antispam_mode_smart_state">1111111</string>
   <string name="st_antispam_mode_smart_sum">"Block numbers you've added manually and block numbers that have been reported by other users"</string>
   <string name="st_antispam_notification_sum">Show notification when call or message is blocked</string>
   <string name="st_antispam_title_anoy_incoming">Calls from strangers</string>
