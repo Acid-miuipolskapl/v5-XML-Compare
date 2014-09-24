@@ -114,7 +114,7 @@
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
   <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including: %s"</string>
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Inbox</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
   <string name="account_setup_incoming_delete_policy_label">Delete email from server</string>
   <string name="account_setup_incoming_delete_policy_never_label">Never</string>
   <string name="account_setup_incoming_headline">Incoming server settings</string>
@@ -200,7 +200,7 @@
   <string name="address_display_format">%1$s | %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s%2$s via %3$s</string>
   <string name="all_folders_heading">All folders</string>
-  <string name="allread">All Readed</string>
+  <string name="allread">All Read</string>
   <string name="always_bcc_myself">Always Bcc myself</string>
   <string name="always_show_images">Always show pictures from this sender</string>
   <string name="always_show_images_toast">Pictures from this sender will be shown automatically.</string>
@@ -553,7 +553,6 @@ CC: %4$s
   <string name="message_invite_accept">Yes</string>
   <string name="message_invite_calendar_view">View in Calendar</string>
   <string name="message_invite_decline">No</string>
-  <string name="message_invite_label_attending">Going?</string>
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">Message saved as draft.</string>
@@ -574,7 +573,9 @@ CC: %4$s
   <string name="new_messages">%1$d new messages</string>
   <string name="next_action">Next</string>
   <string name="no">No</string>
+  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app can open this attachment for viewing.</string>
+  <string name="no_contacts">Empty</string>
   <string name="no_conversations">No messages</string>
   <string name="no_mails">Empty</string>
   <string name="no_matched_attachment">Nothing matched your search</string>
