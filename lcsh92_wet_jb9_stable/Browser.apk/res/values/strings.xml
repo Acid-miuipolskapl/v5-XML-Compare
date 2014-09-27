@@ -296,7 +296,7 @@
   <string name="name">Label</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Do you want to connect?</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">WLAN available</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_title">"If you're using mobile data to access the internet, MIUI will notify you if a nearby WLAN connection is available"</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">"If you're using mobile data to access the internet, MIUI will notify you if a nearby WLAN connection is availab\u0088"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Local WLAN connection available</string>
   <string name="new_incognito_tab">New incognito tab</string>
   <string name="new_tab">New window</string>
