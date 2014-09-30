@@ -32,6 +32,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Incoming: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="check_network">Network settings</string>
+  <string name="choose_upload">Choose file for upload</string>
   <string name="colon">:</string>
   <string name="confirm_delete_all_call_log_title">Delete all call logs?</string>
   <string name="confirm_delete_call_log_title">Delete call log?</string>
@@ -167,8 +168,10 @@ You'll receive a notification from them shortly."</string>
   <string name="group_name_about">About</string>
   <string name="group_name_basic"/>
   <string name="group_name_data_source">Source</string>
+  <string name="group_name_enroll"/>
   <string name="group_name_gallery">Gallery</string>
   <string name="group_name_group_buying">Group buying</string>
+  <string name="group_name_management">Manage</string>
   <string name="group_name_more">Miscellaneous</string>
   <string name="group_name_review">Reviews (%s total)</string>
   <string name="group_name_service">Service</string>
@@ -292,6 +295,7 @@ Total amount: RMB %3$s"</string>
   <string name="turn_on_smart_antispam_summary_on">Upload and identify unknown numbers in call logs and SMS</string>
   <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
   <string name="turn_on_yellowpage_service_title">Use directory service</string>
+  <string name="uploads_disabled">File uploads are disabled</string>
   <string name="user_notice_identify_summary_format">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_yp_detail_summary_format">"Some of your database info is outdated. Do you want to update it? By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>

@@ -7,6 +7,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Version code</string>
   <string name="actors_colon">"Cast: "</string>
+  <string name="ad_countdown">advertisement %s seconds left</string>
   <string name="ad_moredetail">more detail</string>
   <string name="add_more_addons">Add more</string>
   <string name="add_review">Add comment</string>

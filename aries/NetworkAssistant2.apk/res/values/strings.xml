@@ -99,6 +99,7 @@ For more info check the message you received from your service provider"</string
   <string name="input_aviable_traffic">Set data usage limit</string>
   <string name="input_traffic_pkg">Enter data usage</string>
   <string name="input_used_hint">Enter data usage</string>
+  <string name="input_used_max_hint">Enter data usage(less than %s)</string>
   <string name="international_roaming_setting">International roaming</string>
   <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
   <string name="left_precent">60%</string>
