@@ -400,6 +400,7 @@
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
   <string name="vp_support_by">Support by %1$s</string>
+  <string name="vp_toast_downloadapk">Download apk in the background for you …</string>
   <string name="vp_unknown_source">Unknown source</string>
   <string name="waitfornewset">Follow content</string>
   <string name="waitfornewset_tip_content">You will be notified when a new episode or additional content becomes available.</string>
