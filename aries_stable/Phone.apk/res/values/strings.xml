@@ -527,6 +527,10 @@ Switch to the new provider anyway?"</string>
   <string name="ip_prefix_miui">IP prefix</string>
   <string name="ip_prefix_required_miui">IP prefix is required</string>
   <string name="ip_prefix_sum_miui">"Carrier's IP prefix: %s"</string>
+  <string name="ivr_menu_dialing_msg">Forwarding…</string>
+  <string name="ivr_menu_dialing_msg_no_mute">Transferring to selected service (ignore the error messages)…</string>
+  <string name="ivr_menu_list_sub_menu_count_format">Press %s</string>
+  <string name="ivr_menu_list_title">Voice menu</string>
   <string name="jituan_number_format_error_message_miui">%s only supports numbers and wildcards</string>
   <string name="labelCDMAMore">CDMA call settings</string>
   <string name="labelCF">Call forwarding</string>
@@ -630,6 +634,8 @@ Switch to the new provider anyway?"</string>
   <string name="no_voip">Internet calling not supported</string>
   <string name="no_wifi_available">You need to be connected to a WLAN network for Internet calls (use the Wireless &amp; Network settings).</string>
   <string name="no_wifi_available_title">No WLAN connection</string>
+  <string name="non_ivr_menu_collapse_menu">Collapse menu</string>
+  <string name="non_ivr_menu_view_menu">View menu</string>
   <string name="not_a_valid_port">Port number should be within 1000 and 65534.</string>
   <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
   <string name="not_connected_miui">"Didn't connect"</string>

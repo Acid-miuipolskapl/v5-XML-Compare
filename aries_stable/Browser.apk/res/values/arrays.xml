@@ -67,7 +67,7 @@
         <item>0xffcdc3b5</item>
         <item>0xffb0c0b6</item>
         <item>0xffbdc7d6</item>
-        <item>0xff333333</item>
+        <item>0xff111214</item>
     </integer-array>
     <integer-array name="readmode_theme_fontcolors">
         <item>0xff000000</item>
@@ -76,7 +76,7 @@
         <item>0xff543b20</item>
         <item>0xff2e3833</item>
         <item>0xff36495d</item>
-        <item>0xffbbbbbb</item>
+        <item>0xff646974</item>
     </integer-array>
     <string-array name="pref_content_plugins_choices">
         <item>Always on</item>
