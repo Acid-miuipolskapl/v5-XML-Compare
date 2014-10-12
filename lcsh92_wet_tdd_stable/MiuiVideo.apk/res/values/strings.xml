@@ -256,7 +256,7 @@
   <string name="null_category">Empty</string>
   <string name="null_videoname">Empty</string>
   <string name="offline_alert_title">Data usage warning</string>
-  <string name="offline_alert_wifi"/>
+  <string name="offline_alert_wifi">"You're not connected to WLAN. To reduce your data usage, the current downloads have been paused and will resume automatically when you're connected to a WLAN network.h\u0001"</string>
   <string name="offline_continue">Continue</string>
   <string name="offline_max_promote">"Waiting to download. Can't download more than 2 files at the same time."</string>
   <string name="offline_media">Available offline</string>

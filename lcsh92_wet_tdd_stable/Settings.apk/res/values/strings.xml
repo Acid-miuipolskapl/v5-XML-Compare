@@ -3498,7 +3498,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wapi_user_certificate">User certificate</string>
   <string name="wfd_available_devices">Available devices</string>
   <string name="wfd_change_resolution_menu_title">Change resolution</string>
-  <string name="wfd_disconnect_diag_msg">If you stop the WLAN display session, your connection to %1$s will be terminatedh</string>
+  <string name="wfd_disconnect_diag_msg">If you stop the WLAN display session, your connection to %1$s will be terminated.</string>
   <string name="wfd_disconnect_diag_title">Tear down session?</string>
   <string name="wfd_disconnect_multiple_diag_message">If you stop the WLAN display session, your connection to %1$s and %2$s other devices will be terminated.</string>
   <string name="wfd_enable_wifi_diag_title">You can only use WLAN Display when WLAN is enabled. Enable it now?</string>
