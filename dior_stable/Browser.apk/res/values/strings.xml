@@ -14,9 +14,11 @@
   <string name="accessibility_time_picker_minute">Minute</string>
   <string name="accessibility_time_picker_second">Second</string>
   <string name="account">Account</string>
+  <string name="account_prifix">"Account: "</string>
   <string name="action">Sign in</string>
   <string name="actionbar_share">Share</string>
   <string name="actionbar_web_search">Web search</string>
+  <string name="adblock_notification">%d ads blocked</string>
   <string name="add_bookmark">Add bookmark</string>
   <string name="add_folder">Add folder</string>
   <string name="add_new_bookmark">Add bookmark</string>
@@ -65,13 +67,14 @@
   <string name="bookmark_saved">Saved to bookmarks</string>
   <string name="bookmark_this_page_to_readmodelist">Add page to reading list</string>
   <string name="bookmark_title">Bookmark name</string>
-  <string name="bookmark_to_readmodelist_not_saved">Failed to save to reading list</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Couldn't save to reading list"</string>
   <string name="bookmark_to_readmodelist_saved">Saved to reading list</string>
   <string name="bookmark_url">Url http://</string>
   <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
   <string name="bookmarks">Bookmarks</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
-  <string name="bookmarks_management">Manage Bookmarks</string>
+  <string name="bookmarks_history">Bookmarks/History</string>
+  <string name="bookmarks_management">Bookmarks</string>
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">Browser</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>
@@ -92,10 +95,13 @@
   <string name="clip_dialog_title">Open the copied url?</string>
   <string name="close_all_tab_alert_message">Close all tabs?</string>
   <string name="close_all_tab_alert_title">Close all tabs</string>
+  <string name="close_cloud_tab_tip">Close cloud tabs on %s?</string>
   <string name="cloud_loading_tips">Pull down to sync</string>
-  <string name="cloud_no_new_data_toast">No new data, please retry later</string>
-  <string name="cloud_tab">Cloud Tab</string>
-  <string name="cloud_time_tips">Last sync time</string>
+  <string name="cloud_no_new_data_toast">Up to date</string>
+  <string name="cloud_sync_closed_toast">Sync is off</string>
+  <string name="cloud_sync_failed_toast">"Couldn't update"</string>
+  <string name="cloud_tab">Cloud tab</string>
+  <string name="cloud_time_tips">Last sync</string>
   <string name="cloud_up_to_loading_tips">Release to sync</string>
   <string name="color_picker_button_black">Black</string>
   <string name="color_picker_button_blue">Blue</string>
@@ -151,6 +157,7 @@
   <string name="delete_bookmark">unbookmark</string>
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_folder">Delete folder</string>
+  <string name="delete_homepage">Delete homepage</string>
   <string name="delete_multi_bookmarks_alert_title">Delete %1$s items?</string>
   <string name="dialog_geolocation_reject">Reject</string>
   <string name="dialog_geolocation_share">Agree</string>
@@ -160,7 +167,7 @@
   <string name="download_complete">Download complete</string>
   <string name="download_default_path_txt">Remember this choice</string>
   <string name="download_dialog_default_path_invalid">Download path is invalid, use the default download path</string>
-  <string name="download_dialog_file_length_hint_txt">File size:</string>
+  <string name="download_dialog_file_length_hint_txt">"File size: "</string>
   <string name="download_dialog_file_length_lessthan1kb">less than 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Download failed</string>
   <string name="download_dialog_file_length_nolength_txt">Downloading…</string>
@@ -183,6 +190,7 @@
   <string name="empty_bookmarks_folder">No bookmarks</string>
   <string name="empty_history">No history.</string>
   <string name="empty_snapshots_folder">No saved pages.</string>
+  <string name="enter_developer_mode">Enter developer mode</string>
   <string name="error_console_eval_button_text">Evaluate</string>
   <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript console</string>
@@ -205,7 +213,7 @@
   <string name="geolocation_permissions_prompt_remember">Remember preference</string>
   <string name="geolocation_permissions_prompt_share">Share location</string>
   <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location. Change this on the Settings &gt; Advanced &gt; Website data screen.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">This site cannot access your location</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">Site cannot access your location</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel</string>
   <string name="geolocation_settings_page_dialog_message">Clear location access for this website?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -257,6 +265,8 @@
   <string name="menu_save_bandwidth_mode_open_toast">Reducing data usage</string>
   <string name="menu_save_snapshot">Save for offline reading</string>
   <string name="menu_theme_setting">Theme settings</string>
+  <string name="miui_autologin_bar_error">"Couldn't sign in"</string>
+  <string name="miui_autologin_bar_title">Use another account to sign in</string>
   <string name="miui_content_copy">Copy</string>
   <string name="miui_content_cut">Cut</string>
   <string name="miui_content_paste">Paste</string>
@@ -285,8 +295,8 @@
   <string name="move_to_up_folder">Go up one level</string>
   <string name="name">Label</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Do you want to connect?</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">WLAN available notification</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_title">"If you're using mobile data to access the Internet, MIUI will notify you if a nearby WLAN connection is available"</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">WLAN available</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">"If you're using mobile data to access the internet, MIUI will notify you if a nearby WLAN connection is available"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Local WLAN connection available</string>
   <string name="new_incognito_tab">New incognito tab</string>
   <string name="new_tab">New window</string>
@@ -308,6 +318,8 @@
   <string name="pref_accessibility_title">Accessibility</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one press in the address bar</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
+  <string name="pref_adblock_counts">%d blocked</string>
+  <string name="pref_adblock_title">Ad Blocker</string>
   <string name="pref_autofill_enabled">Form auto-fill</string>
   <string name="pref_autofill_enabled_summary">Fill out web forms with a single touch</string>
   <string name="pref_autofill_profile_editor">Auto-fill text</string>
@@ -316,6 +328,10 @@
   <string name="pref_autologin_progress_in_background">Signing into Google sites using %s in the background</string>
   <string name="pref_autologin_title">Automatic Google sign-in</string>
   <string name="pref_category_title_version">Version</string>
+  <string name="pref_check_security_url_summary">Submit current URL when accessing a Web site to the server detects its security</string>
+  <string name="pref_check_security_url_title">Security URL check</string>
+  <string name="pref_clear_adblock_statistics">Clear Ad Blocker history</string>
+  <string name="pref_clear_adblock_statistics_dlg">Clear blocked ad count?</string>
   <string name="pref_clear_cache_for_exit">Clear cache upon exit</string>
   <string name="pref_clear_history_for_exit">Clear history upon exit</string>
   <string name="pref_confirm_for_exit">Confirm before exit</string>
@@ -363,6 +379,7 @@
   <string name="pref_development_trace">Enable tracing</string>
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
+  <string name="pref_enable_adblock_notification">Ad Blocker</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Close app with last tab</string>
   <string name="pref_extras_reset_default">Reset to default</string>
   <string name="pref_extras_reset_default_dlg">Revert settings to default values?</string>
@@ -456,7 +473,7 @@
   <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">User agent string</string>
   <string name="pref_ua_title">User agent management</string>
-  <string name="pref_version_summary">Version:%s</string>
+  <string name="pref_version_summary">Version: %s</string>
   <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_dialogtitle">Video preloading</string>
   <string name="pref_video_preload_summary">: Allow browser to preload videos when server allows</string>
@@ -549,6 +566,8 @@
   <string name="set_as_homepage">Set as homepage</string>
   <string name="share_link">share link</string>
   <string name="share_page">share page</string>
+  <string name="show_check_security_url_check_tip_dialog_description">In order to protect the security of your Internet browser to access the site, the current URL will be submit to the server to detects its security, If you do not need this feature, turn off the Security URL check in the settings can be</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Security URL check tip</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Couldn't save for offline reading"</string>
   <string name="snapshot_go_live">Go live</string>
@@ -599,8 +618,8 @@
   <string name="uploads_disabled">File uploads are disabled</string>
   <string name="url_copy_done">URL copied to clipboard.</string>
   <string name="url_hint">Search or type URL</string>
-  <string name="use_cellular_network_alert_message">WLAN not available，use mobile networks?</string>
-  <string name="use_cellular_network_alert_title">Network Alert</string>
+  <string name="use_cellular_network_alert_message">No WLAN network available. Use mobile data connection instead?</string>
+  <string name="use_cellular_network_alert_title">Data usage warning</string>
   <string name="user_defined_webpage">Add to start page</string>
   <string name="user_defined_webpage_title">Add to start page</string>
   <string name="username">Name</string>

@@ -25,31 +25,31 @@
         <item>Leisure:</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rain storms</item>
-        <item>Rain storm</item>
-        <item>Heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Showers</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Blizzard</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sand storm</item>
-        <item>Sand storm</item>
-        <item>Light sand storms</item>
-        <item>Sand storm</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
+        <item>clear</item>
+        <item>cloudy</item>
+        <item>hazy</item>
+        <item>foggy</item>
+        <item>pouring</item>
+        <item>raining</item>
+        <item>raining</item>
+        <item>stormy</item>
+        <item>pouring</item>
+        <item>pouring</item>
+        <item>raining</item>
+        <item>drizzling</item>
+        <item>sleeting</item>
+        <item>snowing</item>
+        <item>snowing</item>
+        <item>snowing</item>
+        <item>snowing</item>
+        <item>snowing</item>
+        <item>stormy</item>
+        <item>stormy</item>
+        <item>stormy</item>
+        <item>stormy</item>
+        <item>hailing</item>
+        <item>dusty</item>
+        <item>hazy</item>
     </string-array>
     <string-array name="weather_details_key">
         <item>Unavailable</item>
