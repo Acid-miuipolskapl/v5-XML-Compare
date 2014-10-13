@@ -275,6 +275,8 @@ Enable floating windows?"</string>
   <string name="battery_action_display">Screen settings</string>
   <string name="battery_action_stop">Force stop</string>
   <string name="battery_action_wifi">WLAN settings</string>
+  <string name="battery_decrease_background_process_summary">By not allowing some apps to run in the background, you can reduce battery and memory usage. This may prevent some apps from syncing normally.</string>
+  <string name="battery_decrease_background_process_title">Limit background processes</string>
   <string name="battery_desc_apps">Battery used by app</string>
   <string name="battery_desc_bluetooth">Battery used by Bluetooth</string>
   <string name="battery_desc_display">Battery used by the display and backlight</string>
