@@ -218,6 +218,8 @@ Used"</string>
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Data usage warning level</string>
   <string name="pref_whitelist_setting">Exceptions</string>
+  <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=http://max.oupeng.com/eula.html&gt; Terms and Conditions&lt;/a&gt;."</string>
+  <string name="privacy_declare_dialog_title">Terms and Conditions</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Apps on exceptions list will be able to connect to data services when roaming internationally.</string>
   <string name="roaming_not_start_title">International roaming</string>
