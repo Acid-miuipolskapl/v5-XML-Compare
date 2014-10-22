@@ -54,6 +54,7 @@
   <string name="button_show">Variety</string>
   <string name="button_sport">Sports</string>
   <string name="cancel">Cancel</string>
+  <string name="cancel_button">Cancel</string>
   <string name="cancel_favorite">Unstar</string>
   <string name="cancel_hide">Unhide</string>
   <string name="cancel_select_all">Deselect all</string>
@@ -92,7 +93,10 @@
   <string name="count_myfavorite">" starred"</string>
   <string name="day">Day</string>
   <string name="declaration">Terms of Use</string>
-  <string name="declaration_content">By touching \"Agree\", you agree to the Terms of Use outlined by Sohu Video, iQiyi, and other video content providers.</string>
+  <string name="declaration_content">1.By using this service, you agree to the &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;&amp;#12298;Terms of Use&amp;#12299;&lt;/a&gt;" of Sohu Video, iQiyi, and other content providers.
+2.to improve user playback experience, part of the equipment and play data will be uploaded
+3.Enjoy HD audition, we will install HD plug-in for you
+4.Will you agree to connect the internet when you use video?"</string>
   <string name="declaration_content_short">By touching \"Agree\", you agree to the Terms of Use outlined by Sohu Video, iQiyi, and other video content providers.</string>
   <string name="delete">Delete</string>
   <string name="delete_addon">Delete</string>
@@ -356,8 +360,13 @@
   <string name="tudou">Tudou</string>
   <string name="unknown_source">Unknown source</string>
   <string name="update">Updated</string>
+  <string name="update_apk_statusbar">downloading the new version of video apk</string>
+  <string name="update_button">Update</string>
+  <string name="update_size_prefix">&lt;CDATA&gt;Size:&lt;/CDATA&gt;</string>
+  <string name="update_title">update notes</string>
   <string name="update_to_count_ji">Updated to Ep. %d</string>
   <string name="update_to_count_qi">Updated to S. %s</string>
+  <string name="update_version_prefix">&lt;CDATA&gt;We recommend that you upgrade to new versions:&lt;/CDATA&gt;</string>
   <string name="updatedalready">Updated</string>
   <string name="upgrade">Upgrade</string>
   <string name="use_cellular_network">Use mobile data connection</string>
