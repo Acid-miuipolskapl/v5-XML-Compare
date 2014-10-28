@@ -559,7 +559,9 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="perm_tigger_toggle_lab">Trigger toggles from status bar</string>
   <string name="perm_use_find_device">Find device</string>
   <string name="permdesc_accessNote">Malicious apps can use this to access your personal info.</string>
+  <string name="permdesc_sendSmsNoConfirmation">Allows the app to send SMS messages. This may result in unexpected charges. Malicious apps may cost you money by sending messages without your confirmation.</string>
   <string name="permlab_accessNote">Access your notes</string>
+  <string name="permlab_sendSmsNoConfirmation">send SMS messages with no confirmation</string>
   <string name="pin_operation_failed">PIN operation failed.</string>
   <string name="pincode_set_to_default_msg">PIN code is set to 1234, you can change it here:</string>
   <string name="private_num">Private number</string>

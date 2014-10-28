@@ -329,7 +329,7 @@
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
   <string name="default_setup">DEFAULT SETTINGS</string>
-  <string name="default_signature">Sent from my Xiaomi</string>
+  <string name="default_signature">Sent from my Mi phone</string>
   <string name="delete">Delete</string>
   <string name="delete_conversation_hint_message">%1$d %2$s has been deleted</string>
   <string name="deleted">Deleted</string>
