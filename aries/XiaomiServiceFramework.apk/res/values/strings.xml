@@ -81,6 +81,10 @@
   <string name="all_cloud_service_dspt">"Choose which of the Mi Cloud services below you would like to use.
 You can turn them on and off anytime in Settings."</string>
   <string name="app_name">Xiaomi Service Framework</string>
+  <string name="apple_10gb">20GB</string>
+  <string name="apple_cloud">Apple Cloud Service</string>
+  <string name="apple_cloud_eng">iCloud</string>
+  <string name="apple_cloud_price">About RMB 72 per year</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="bank_cards">Bank cards</string>
   <string name="barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
@@ -88,6 +92,14 @@ You can turn them on and off anytime in Settings."</string>
   <string name="bind_weibo_description">Sync your friends from Sina Weibo.</string>
   <string name="binded">Bound</string>
   <string name="button_cancel">Cancel</string>
+  <string name="buy_space_expire">Purchased space will expire in %s</string>
+  <string name="buy_space_expire_concat">%1$s to %2$s</string>
+  <string name="buy_space_sulotion_auto_renew">Renew automatically</string>
+  <string name="buy_space_sulotion_message">Buy %sGB additional storage space</string>
+  <string name="buy_space_sulotion_not_auto_renew">"Don't renew automatically"</string>
+  <string name="buy_space_sulotion_renew_message">Valid for %s</string>
+  <string name="buy_space_sulotion_renew_title">Renew subscription</string>
+  <string name="buy_space_sulotion_title">Buy storage space</string>
   <string name="captcha">Enter code</string>
   <string name="checking_account">Checking password…</string>
   <string name="checking_input">Checking input…</string>
@@ -96,6 +108,9 @@ You can turn them on and off anytime in Settings."</string>
 You can turn this feature on and off anytime in settings."</string>
   <string name="cloud_messaging">Cloud Messaging</string>
   <string name="cloud_messaging_dspt">Enable Cloud Messaging</string>
+  <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud</string>
+  <string name="cloud_space_upgrade_no_quota_info">Failed to load. Wait a minute or two and try again.</string>
+  <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
   <string name="cmcc_data_sync_notice">Sync messages and contacts across devices.</string>
   <string name="cmcc_micloud_dspt">Backup your data, locate your phone, and share things with friends.</string>
   <string name="completed">Finish</string>
@@ -156,7 +171,15 @@ You can turn this service on and off anytime in Settings."</string>
   <string name="find_password_on_web_msg">Go to account.mi.com to reset your password.</string>
   <string name="foreign_login">&lt;u&gt;Add country code&lt;/u&gt;</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="free_space_has_received">You already added free space this month</string>
+  <string name="free_space_receive_fail">"Can't upgrade"</string>
   <string name="get_back_pwd">Retrieve account password</string>
+  <string name="get_first_month_gb">Get %s of free space</string>
+  <string name="get_this_month_gb">Get %s of free space this month</string>
+  <string name="google_100gb">100GB</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">About RMB 143 per year</string>
   <string name="header_data_and_synchronization">Data &amp; sync</string>
   <string name="i_know">OK</string>
   <string name="input_captcha_hint">Enter code</string>
@@ -164,6 +187,7 @@ You can turn this service on and off anytime in Settings."</string>
   <string name="input_vcode_hint">Enter verification code</string>
   <string name="int_phone_user_notice">Add your country code when using a mobile number to sign in.</string>
   <string name="internet_comm">Messaging</string>
+  <string name="loading_hint">Loading</string>
   <string name="login">Sign in</string>
   <string name="login_failed">"Can't sign in"</string>
   <string name="login_instead_reg">Use this number</string>
@@ -224,6 +248,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_intro_03_part_02">Locate, lock, or erase your device from any browser at i.xiaomi.com</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_none">None</string>
+  <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_password_confirm_hint">Confirm password</string>
   <string name="micloud_password_error_inconsistent">"Passwords don't match"</string>
   <string name="micloud_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
@@ -235,7 +260,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_title_dspt" formatted="false">"Total space: %s 
  Used %s | Remaining %s"</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit"</string>
-  <string name="micloud_upgrade_space">Get more storage space</string>
+  <string name="micloud_upgrade_space">Buy storage space</string>
   <string name="micloud_use_existing">Sign in</string>
   <string name="micloud_user_base_info">User info</string>
   <string name="micloud_user_email">Email</string>
@@ -250,7 +275,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_web_discription_01">Sign in at i.xiaomi.com</string>
   <string name="micloud_web_discription_02">"to access the files you've in stored Mi Cloud"</string>
   <string name="micloud_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
+  <string name="microsoft_cloud">Microsoft Cloud Service</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">About RMB 80 per year</string>
   <string name="mili_center">Mi Credit</string>
+  <string name="more_activity_in_upgrade_space">Learn more at &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt_in_all_setting">Send SMS messages to other MIUI users for free</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't show again"</string>
@@ -293,6 +322,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="start_micloud">Go back to Mi Cloud start page</string>
   <string name="sub_alert_notif_dspt" formatted="false">"%s contacts, %s messages, %s photos, and %s notes haven't been synced."</string>
   <string name="sub_alert_notif_title">Not syncing</string>
+  <string name="success_upgraded_space">%s added</string>
   <string name="sync_dspt">Enable sync</string>
   <string name="sync_dspt_in_all_setting">Sync your photos, text messages, notes, and more across your Mi devices</string>
   <string name="sync_off">Off</string>
@@ -303,6 +333,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="sync_sub_2_intl_sms">Your carrier may charge for 2 international SMS messages used to activate %s.</string>
   <string name="sync_sub_2_sms">Your carrier may charge for 2 SMS messages used to activate %s.</string>
   <string name="title_reg">Create an account</string>
+  <string name="total_space_upgraded_to">Total space:%s</string>
   <string name="trust_device">Trust this device</string>
   <string name="unactivated_user">Almost there…</string>
   <string name="unbind">Unbind</string>
@@ -310,6 +341,12 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="update_contacts_description">"Sina Weibo will use your Mi Account to your sync contacts' info across platforms."</string>
   <string name="updated_contacts">Updated %s contacts</string>
   <string name="updated_nothing">"Everything's up to date"</string>
+  <string name="upgrade_space">Add space</string>
+  <string name="upgrade_space_gb">GB</string>
+  <string name="upgrade_space_mibipreyear">%s Mi Credits per year</string>
+  <string name="upgrade_space_successful">Added %sGB</string>
+  <string name="upgrade_space_successful_total">%sGB available</string>
+  <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement_p1">"By signing in, you're agreeing to Xiaomi's
   "</string>
   <string name="user_agreement_p2">Terms of Service</string>
