@@ -15,6 +15,7 @@
   <string name="add_to_favorite">Add to favorites</string>
   <string name="added_to_favorite">Added</string>
   <string name="agree">Agree</string>
+  <string name="allow">Allow</string>
   <string name="app_label">Directory</string>
   <string name="average_price">Average %s RMB</string>
   <string name="back">Back</string>
@@ -264,6 +265,7 @@ You'll receive a notification from them shortly."</string>
 Total amount: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">OK</string>
   <string name="refresh">Refresh</string>
+  <string name="remember_preference">Remember preference</string>
   <string name="remind_another_time">"Don't show again"</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
@@ -301,6 +303,7 @@ Total amount: RMB %3$s"</string>
   <string name="user_notice_yp_detail_summary_format">"Some of your database info is outdated. Do you want to update it? By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Some of your database info is outdated. Do you want to update it? By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="voicemail">Voicemail</string>
+  <string name="web_permission_message">%1$s needs to view your %2$s to function properly.</string>
   <string name="yellow_page_detail_title">About</string>
   <string name="yellow_page_website">Official website</string>
 </resources>
