@@ -23,6 +23,9 @@
   <string name="deselect_all">Deselect All</string>
   <string name="determine">OK</string>
   <string name="dialog_cannot_resume">Download interrupted. It cannot be resumed.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Delete local files</string>
+  <string name="dialog_confirm_delete_downloads_message">Delete %d tasks?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">These tasks will be deleted.</string>
   <string name="dialog_failed_body">Do you want to retry downloading the file later or delete it from the queue?</string>
   <string name="dialog_file_already_exists">Cannot download. The destination file already exists.</string>
   <string name="dialog_file_missing_body">The downloaded file cannot be found.</string>
@@ -113,6 +116,7 @@
   <string name="select_all">Select All</string>
   <string name="select_operation_items">Choose items</string>
   <string name="selected_count">Selected %1$d out of %2$d</string>
+  <string name="size_unknown">Unknown</string>
   <string name="turn_off_xunlei_message">You may experience slower download speeds.</string>
   <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
   <string name="turn_off_xunlei_title">Disable Xunlei download engine</string>
