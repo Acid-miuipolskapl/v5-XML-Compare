@@ -245,8 +245,8 @@
   <string name="mx_int_warning_notice">An international SMS will be sent to activate Cloud Messaging. You will incur international charges from your carrier.</string>
   <string name="mx_msg">Cloud Messaging</string>
   <string name="mx_offline">Offline</string>
-  <string name="mx_on_sim_1">Cloud Messaging with SIM slot %s</string>
-  <string name="mx_on_sim_2">Cloud Messaging with SIM slot %s</string>
+  <string name="mx_on_sim_1">Cloud Messaging with SIM slot 1</string>
+  <string name="mx_on_sim_2">Cloud Messaging with SIM slot 2</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Reactivate Cloud Messaging</string>
   <string name="mx_recommend_msg">Touch to enable Cloud Messaging.</string>

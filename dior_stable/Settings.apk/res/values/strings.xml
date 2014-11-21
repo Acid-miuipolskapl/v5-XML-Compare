@@ -546,8 +546,10 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="build_number">Build number</string>
   <string name="builtin_keyboard_settings_summary">Physical keyboard settings</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
+  <string name="button_antivirus">OK</string>
   <string name="button_disconnect_network">Disconnect from network</string>
   <string name="button_light_timeout">Button light settings</string>
+  <string name="button_optimizer">OK</string>
   <string name="button_start_optimize">Check</string>
   <string name="button_text_a_key_clean_up">Clean up</string>
   <string name="button_text_a_key_optimize">Optimize</string>
@@ -1271,6 +1273,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="hdmi_color_calibration_srgb">sRGB</string>
   <string name="header_account_settings">Account settings</string>
   <string name="header_add_an_account">Add an account</string>
+  <string name="header_antivirus">"By using this feature, you are agreeing to Tencent's "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Terms of Service&lt;/a&gt;.</string>
   <string name="header_application_sync_settings">App sync settings</string>
   <string name="header_category_accounts">Accounts</string>
   <string name="header_category_device">DEVICE</string>
@@ -1278,6 +1281,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="header_category_system">SYSTEM</string>
   <string name="header_category_wireless_networks">WIRELESS &amp; NETWORKS</string>
   <string name="header_data_and_synchronization">Data &amp; synchronization</string>
+  <string name="header_optimizer">"By using this feature, you are agreeing to Clean Master's "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Terms of Service&lt;/a&gt;.</string>
   <string name="headset_calibrate">Assign buttons</string>
   <string name="headset_calibrate_apply">Use</string>
   <string name="headset_calibrate_confirm">Apply these settings?</string>
@@ -2291,12 +2295,14 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="pref_summary_cleanup_white_list">Trash associated with the apps in this list will be ignored during cleanup.</string>
   <string name="pref_summary_expand_cache_group">Groups in the cache list will default expand</string>
   <string name="pref_summary_garbage_cleanup_check_size">Notify me when Trash reaches a certain size</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Upload and compare unknown file names with online definitions</string>
   <string name="pref_title_auto_update_cleanup_db">Auto update</string>
   <string name="pref_title_cleanup_white_list">Cleanup exceptions</string>
   <string name="pref_title_expand_cache_group">Expand the cache groups</string>
   <string name="pref_title_garbage_cleanup_check_size">Trash alarm size</string>
   <string name="pref_title_garbage_cleanup_check_time">Trash alarm</string>
   <string name="pref_title_manual_check_cleanup_db_update">Update now</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="preference_change_password_title">Change password</string>
@@ -2315,6 +2321,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
   <string name="preference_key_module_network_assistant">key_network_assistant</string>
   <string name="preference_key_module_power_center">module_power_center</string>
+  <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
   <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
   <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
   <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
@@ -2899,9 +2906,11 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
   <string name="subs_settings">SUBS Status</string>
   <string name="sum_carrier_select">Choose a network operator</string>
+  <string name="summary_antivirus">Upload and scan app names and details using online virus definitions</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
+  <string name="summary_optimizer">Upload and compare unknown folder names with online definitions</string>
   <string name="summary_permission">Protect my privacy from third-party apps</string>
   <string name="summary_usb">Avoid viruses spreading via USB connection</string>
   <string name="summary_virus">Found %2$d viruses</string>
@@ -2952,9 +2961,12 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tethering_help_button_text">Help</string>
+  <string name="text_antivirus">Use online virus definitions</string>
+  <string name="text_optimizer">Use online Cleaner engine</string>
   <string name="time_picker_title">Time</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Time zone</string>
+  <string name="title_antivirus">Virus scan</string>
   <string name="title_app_update_no">%d apps have updates</string>
   <string name="title_app_update_yes">All apps up to date</string>
   <string name="title_color_calibration">Color Correction preset</string>
@@ -2971,6 +2983,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_miui_update_yes">MIUI is up to date</string>
   <string name="title_mms_no">Message filter disabled</string>
   <string name="title_mms_yes">Message filter enabled</string>
+  <string name="title_optimizer">Cleaner</string>
   <string name="title_permission_no">Permission monitor off</string>
   <string name="title_permission_yes">Permission monitor on</string>
   <string name="title_show_notification_no">Show in notification shade off</string>

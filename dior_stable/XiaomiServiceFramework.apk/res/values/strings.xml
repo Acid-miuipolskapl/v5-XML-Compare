@@ -117,6 +117,8 @@ You can turn this feature on and off anytime in Settings.
   <string name="enable_micloud">Create an account or sign in</string>
   <string name="enable_sync">Turn on</string>
   <string name="enable_sync_dspt">Sync is off</string>
+  <string name="error_data_in_transfer">Sync will finish in %s hours remaining.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud not available.</string>
   <string name="error_device_id">"Can't get IMEI"</string>
   <string name="error_dup_phone">This phone number is already associated with another account</string>
   <string name="error_invalid_dev_id">Invalid device ID</string>
