@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d days "</item>
-        <item quantity="one">"%d day "</item>
+        <item quantity="other">"%dd "</item>
+        <item quantity="one">"%dd "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d hrs "</item>
-        <item quantity="one">"%d hr "</item>
+        <item quantity="other">"%dh "</item>
+        <item quantity="one">"%dh "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d mins "</item>
-        <item quantity="one">"%d min "</item>
+        <item quantity="other">"%dm "</item>
+        <item quantity="one">"%dm "</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Password must contain at least %d letters.</item>

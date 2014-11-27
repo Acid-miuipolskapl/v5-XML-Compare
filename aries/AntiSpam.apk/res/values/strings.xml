@@ -44,7 +44,7 @@
   <string name="ad_update_time">Last updated: %s</string>
   <string name="ad_update_time_unKnown">Last updated: unknown</string>
   <string name="ad_update_title">Auto Update</string>
-  <string name="address_choose_hint">%1$s、%2$s and %3$d locations</string>
+  <string name="address_choose_hint">%1$s, %2$s, and %3$d other locations</string>
   <string name="addwhitelist">Add to exceptions</string>
   <string name="all_address_choose_hint">All locations</string>
   <string name="app_name">Blocklist</string>
@@ -104,7 +104,7 @@
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
   <string name="dlg_remove_blacklist">Unblock this number?</string>
   <string name="dlg_remove_blacklist_ing">Removing from blocklist…</string>
-  <string name="dlg_remove_blacklist_ok">Unblock</string>
+  <string name="dlg_remove_blacklist_ok">Remove</string>
   <string name="dlg_remove_whitelist">Remove these numbers from exceptions?</string>
   <string name="dlg_remove_whitelist_ing">Removing from exceptions…</string>
   <string name="dlg_retore">Restore to message inbox?</string>
@@ -167,7 +167,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="note_list_none">Empty</string>
   <string name="note_preference_delete">"Can't delete this rule while it's in use"</string>
   <string name="note_sms_none">Empty</string>
-  <string name="one_address_choose_hint">%s1 location</string>
+  <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">On</string>
   <string name="read_all_sms">Read all</string>
   <string name="report">Report</string>
@@ -295,7 +295,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="toast_keyword_blank">You need to enter a keyword</string>
   <string name="toast_keyword_exist">Keyword added to filter</string>
   <string name="toast_keyword_invalid">Invalid keyword</string>
-  <string name="two_address_choose_hint">%1$s, %2$s2 locations</string>
+  <string name="two_address_choose_hint">%1$s and %2$s</string>
   <string name="user_define_title">Add rules</string>
   <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
   <string name="wl_no_whitelist">No exceptions</string>

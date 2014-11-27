@@ -31,8 +31,8 @@
   <string name="alert_tips">This site may be a security risk</string>
   <string name="allow">Allow</string>
   <string name="already_in_top_level">The bookmark is already in top level</string>
-  <string name="app_new_version">Download complete: the latest version of this app is already installed</string>
-  <string name="app_update_install">Download complete! Ready to install upgraded version.</string>
+  <string name="app_new_version">The latest version of this app is already installed</string>
+  <string name="app_update_install">Ready to install update.</string>
   <string name="application_name">Browser</string>
   <string name="autofill_profile_editor_address_line_1">Address line 1</string>
   <string name="autofill_profile_editor_address_line_1_hint">Street address, P.O. box, c/o</string>

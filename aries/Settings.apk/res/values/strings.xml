@@ -1884,10 +1884,10 @@ Be careful, granting root permission to third-party apps may destabilize your de
   <string name="power_autorun_control_desc">"Increasing the number of auto-start programs may increase you're phone's power consumption"</string>
   <string name="power_autorun_control_title">Auto-start</string>
   <string name="power_autorun_empty">None of your apps can be added</string>
-  <string name="power_battery_history_days">%1$d Days %2$d Hrs%3$d Mins</string>
-  <string name="power_battery_history_hours">%1$d Hrs %2$d Mins</string>
-  <string name="power_battery_history_minutes">%1$d Mins</string>
-  <string name="power_battery_history_zero_minutes">0 Mins</string>
+  <string name="power_battery_history_days">%1$dd %2$dh %3$dm</string>
+  <string name="power_battery_history_hours">%1$dh %2$dm</string>
+  <string name="power_battery_history_minutes">%1$dm</string>
+  <string name="power_battery_history_zero_minutes">0m</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Delete</string>
   <string name="power_cell">Mobile signal</string>

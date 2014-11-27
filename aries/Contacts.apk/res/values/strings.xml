@@ -25,8 +25,8 @@
   <string name="add_organization">Add organization</string>
   <string name="add_to_my_contacts">Add to My Contacts</string>
   <string name="add_wait">Add wait</string>
-  <string name="add_xiaomi_account_dialog_btn">Use Xiaomi Account</string>
-  <string name="add_xiaomi_account_dialog_msg">Back up your contacts to your Xiaomi Account to access them from anywhere!</string>
+  <string name="add_xiaomi_account_dialog_btn">Use Mi Account</string>
+  <string name="add_xiaomi_account_dialog_msg">Back up your contacts to your Mi Account to access them from anywhere!</string>
   <string name="add_xiaomi_account_dialog_title">Choose account</string>
   <string name="aggregation_suggestion_edit_dialog_message">Switch to editing the same-name contact? Information you entered so far will be copied.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
@@ -434,13 +434,13 @@ Reason: \"%s\""</string>
   <string name="import_to_xiaomi_account_confirm">Import</string>
   <string name="import_to_xiaomi_account_progress_finish">Finished importing</string>
   <string name="import_to_xiaomi_account_progress_message">Importing…</string>
-  <string name="import_to_xiaomi_account_progress_title">Import contacts to Xiaomi Account</string>
-  <string name="import_to_xiaomi_account_title">Do you want to import the following contacts into your Xiaomi Account?</string>
+  <string name="import_to_xiaomi_account_progress_title">Import contacts to Mi Account</string>
+  <string name="import_to_xiaomi_account_title">Do you want to import the following contacts into your Mi Account?</string>
   <string name="import_vcard_description">"Import contacts from your phone's internal storage"</string>
   <string name="import_weibo_dialog_title">Import Weibo contacts</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
   <string name="import_weibo_error_no_network">Network error</string>
-  <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Xiaomi Account.</string>
+  <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
   <string name="import_weibo_error_unknown">Unknown error</string>
   <string name="import_weibo_error_user_cancel">Cancelled</string>
   <string name="import_weibo_fetch_followers">Fetching contacts…</string>
@@ -571,8 +571,8 @@ Reason: \"%s\""</string>
   <string name="nickname_picker_name_column">Contact name</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">To create groups you need an account.</string>
-  <string name="noContactHelpTextAccountsInfo">Sync Xiaomi, Google, and Exchange contacts</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contacts data using Xiaomi Account</string>
+  <string name="noContactHelpTextAccountsInfo">Sync Mi Account, Google, and Exchange contacts</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contacts data using Mi Account</string>
   <string name="noContacts">No contacts</string>
   <string name="noContactsHelpText">"You don't have any contacts to display.
 
@@ -715,9 +715,9 @@ To add a contact to your list of favorites:
   <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>
   <string name="pref_key_sim_manage">Configure SIM card</string>
   <string name="pref_key_sim_manage2">Configure SIM card 2</string>
-  <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Xiaomi Account</string>
+  <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Mi Account</string>
   <string name="pref_title_account_import">Import from account</string>
-  <string name="pref_title_import_from_account">Import from Xiaomi Account</string>
+  <string name="pref_title_import_from_account">Import from Mi Account</string>
   <string name="preference_auto_ip_summary_disable">Disabled</string>
   <string name="preference_auto_ip_summary_on">Carrier IP prefix: %s</string>
   <string name="preference_auto_ip_title">Automatic IP prefix</string>
@@ -883,7 +883,7 @@ To add a contact to your list of favorites:
   <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">Expand</string>
-  <string name="resource_failed_to_load_list">Failed to load list</string>
+  <string name="resource_failed_to_load_list">"Couldn't load list"</string>
   <string name="resource_get_auth_checking">Checking authorization…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Ten devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
@@ -920,7 +920,7 @@ To add a contact to your list of favorites:
   <string name="resource_ringtone_playing_error">playing error</string>
   <string name="resource_ringtone_volume_mute">Your ringer is silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
-  <string name="resource_search_list_empty">"Coundn't find anything"</string>
+  <string name="resource_search_list_empty">"Couldn't find anything"</string>
   <string name="resource_see_more">See more</string>
   <string name="resource_select">Select</string>
   <string name="resource_selected">Featured</string>
