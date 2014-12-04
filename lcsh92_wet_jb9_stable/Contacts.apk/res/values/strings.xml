@@ -1174,7 +1174,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_network_location_enable">Enable now</string>
   <string name="yellowpage_navigation_network_location_enable_later">Enable later</string>
   <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling WLAN &amp; mobile network location service can improve the quality of servic </string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling Wi-Fi &amp; mobile network location service can improve the quality of services.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Enable network location service</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>

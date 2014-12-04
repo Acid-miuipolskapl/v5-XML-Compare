@@ -743,8 +743,8 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the card.</string>
   <string name="no_voip">Internet calling not supported</string>
-  <string name="no_wifi_available">You need to be connected to a WLAN network for Internet calls (use the Wireless &amp; Network settings).</string>
-  <string name="no_wifi_available_title">No WLAN connection</string>
+  <string name="no_wifi_available">You need to be connected to a Wi-Fi network for Internet calls (use the Wireless &amp; Network settings).</string>
+  <string name="no_wifi_available_title">No Wi-Fi connection</string>
   <string name="not_a_valid_port">Port number should be within 1000 and 65534.</string>
   <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
   <string name="not_connected_miui">"Didn't connect"</string>
@@ -829,7 +829,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="ota_listen">Follow the spoken instructions until you hear that activation is complete.</string>
   <string name="ota_next">Next</string>
   <string name="ota_progress">Please wait while your phone is being programmed.</string>
-  <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to WLAN networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
+  <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
   <string name="ota_skip_activation_dialog_skip_label">Skip</string>
   <string name="ota_skip_activation_dialog_title">Skip activation?</string>
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
@@ -964,7 +964,7 @@ Will use preferred network instead."</string>
   <string name="registration_status_failed_try_later">Account registration unsuccessful: (%s); will try later</string>
   <string name="registration_status_invalid_credentials">Account registration unsuccessful: Incorrect username or password.</string>
   <string name="registration_status_no_data">Account registration stopped because there is no Internet connection.</string>
-  <string name="registration_status_no_wifi_data">Account registration stopped because there is no WLAN connection.</string>
+  <string name="registration_status_no_wifi_data">Account registration stopped because there is no Wi-Fi connection.</string>
   <string name="registration_status_not_receiving">Not receiving calls.</string>
   <string name="registration_status_not_running">Account registration unsuccessful.</string>
   <string name="registration_status_registering">Registering…</string>
@@ -1083,7 +1083,7 @@ Will use preferred network instead."</string>
   <string name="sip_call_options_title">Use Internet calling</string>
   <string name="sip_call_options_title_single_sim">Internet calling options</string>
   <string name="sip_call_options_wifi_only_entry_1">For all calls</string>
-  <string name="sip_call_options_wifi_only_title">Use Internet calling (WLAN only)</string>
+  <string name="sip_call_options_wifi_only_title">Use Internet calling (Wi-Fi only)</string>
   <string name="sip_edit_new_title">SIP account details</string>
   <string name="sip_edit_title">SIP account details</string>
   <string name="sip_menu_add">Add</string>

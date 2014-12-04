@@ -300,11 +300,11 @@ Please try again in %d seconds."</string>
   <string name="wifi_display_sound_path_reminder">"Multimedia sound won't play from your headset."</string>
   <string name="wifi_display_unstable_connection">Unstable connection</string>
   <string name="wifi_display_unstable_suggestion">The current connection of wireless display is not steady, please try to get closer to your display device.</string>
-  <string name="wifi_display_wfd_and_wifi_are_turned_on">Wireless display and WLAN are turned on.</string>
+  <string name="wifi_display_wfd_and_wifi_are_turned_on">Wireless display and Wi-Fi are turned on.</string>
   <string name="wifi_display_wfd_off_bt_on">Wireless display will be turned off when you turn on Bluetooth. Do you want to continue?</string>
   <string name="wifi_display_wfd_off_hdmi_on">Wireless display will be turned off when you turn on HDMI. Do you want to continue?</string>
-  <string name="wifi_display_wifi_ap_affects_quality">Current WLAN AP may affect the quality of Wireless display.</string>
-  <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Current WLAN Direct connection will be disconnected when you connect to the wireless display device. Do you want to continue?</string>
+  <string name="wifi_display_wifi_ap_affects_quality">Current Wi-Fi AP may affect the quality of Wireless display.</string>
+  <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Current Wi-Fi Direct connection will be disconnected when you connect to the wireless display device. Do you want to continue?</string>
   <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
   <string name="wifi_wps_failed_overlap">Another WPS session was detected. Please try again in a few minutes.</string>
   <string name="wikiPediaName">wikipedia</string>

@@ -689,7 +689,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
   <string name="ctia_interval">Period of Counter log(sec)</string>
   <string name="ctia_label">0x</string>
   <string name="ctia_rate">Rate Selection</string>
-  <string name="ctia_title">WLAN Test Mode</string>
+  <string name="ctia_title">Wi-Fi Test Mode</string>
   <string name="ctia_value"/>
   <string name="cw_test">CW Test</string>
   <string name="cw_test_clock_drift">Clock Drift(ppm)</string>
@@ -1557,7 +1557,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wfd_sec_tv_shows_0">TV shows black</string>
   <string name="wfd_sec_tv_shows_1">TV shows prohibited image</string>
   <string name="wfd_security">Security</string>
-  <string name="wfd_settings">WLAN Display</string>
+  <string name="wfd_settings">WiFi Display</string>
   <string name="wfd_sqc_tx">Enable sqc info</string>
   <string name="wfd_vdo_1080p">1080p(30 frames/sec)</string>
   <string name="wfd_vdo_720p_1">720p(30 frames/sec)</string>
@@ -1568,39 +1568,39 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wfd_vdo_normal_definition">General(30p)</string>
   <string name="wfd_vdo_setting_menu">Enable resolution setting menu</string>
   <string name="wfd_video_capability">Video Capability</string>
-  <string name="wfd_wifi_info">WLAN info</string>
-  <string name="wifi">WLAN</string>
+  <string name="wfd_wifi_info">Wi-Fi info</string>
+  <string name="wifi">WiFi</string>
   <string name="wifi_addr_content"/>
   <string name="wifi_addr_content_string"/>
   <string name="wifi_addr_text">addr(h,byte):</string>
   <string name="wifi_addr_text_string">addr(h,byte):</string>
   <string name="wifi_alc">ALC Function for Normal Packet Tx/Rx</string>
-  <string name="wifi_ap_wps2_support_enabler">Enable WPS2 test to remove WPA security in WLAN hotspot</string>
+  <string name="wifi_ap_wps2_support_enabler">Enable WPS2 test to remove WPA security in Wi-Fi hotspot</string>
   <string name="wifi_bandwidth">Bandwidth:</string>
   <string name="wifi_burnbtn">Burn From File</string>
   <string name="wifi_cancel">Cancel</string>
   <string name="wifi_channel_text">Channel:</string>
   <string name="wifi_clearbtn">Clear</string>
-  <string name="wifi_ctia">WLAN CTIA</string>
+  <string name="wifi_ctia">WiFi CTIA</string>
   <string name="wifi_ctia_enabler">Enable CTIA test UI</string>
   <string name="wifi_ctia_test">CTIA Test Mode Setting</string>
   <string name="wifi_ctia_test_summary">CTIA Test Mode configuration</string>
   <string name="wifi_dialog_error">Error</string>
   <string name="wifi_dialog_error_message">Wifi is not initialized</string>
   <string name="wifi_dialog_fail">Error</string>
-  <string name="wifi_dialog_fail_message">Enable WLAN failed</string>
+  <string name="wifi_dialog_fail_message">Enable Wi-Fi failed</string>
   <string name="wifi_dialog_init">Progress</string>
   <string name="wifi_dialog_init_message">Please wait for device to initialize ...</string>
   <string name="wifi_dialog_input_file_name">Please input a file name</string>
   <string name="wifi_dialog_warn">Error</string>
-  <string name="wifi_dialog_warn_message">Please turn off WLAN first</string>
+  <string name="wifi_dialog_warn_message">Please turn off Wi-Fi first</string>
   <string name="wifi_dpd_calibration">calibration</string>
   <string name="wifi_dpd_import">import DPD parameters from file</string>
   <string name="wifi_dpd_info"/>
   <string name="wifi_dpd_read">read DPD parameters</string>
   <string name="wifi_dpd_save">save DPD parameters to file</string>
   <string name="wifi_dpd_text">DPD calibration:</string>
-  <string name="wifi_eeprom">WLAN_NVRAM</string>
+  <string name="wifi_eeprom">WiFi_NVRAM</string>
   <string name="wifi_eeprom_save_dialog_title">Save as</string>
   <string name="wifi_eeprom_save_dir">Please input a file name</string>
   <string name="wifi_eeprom_save_dir_done">OK</string>
@@ -1609,19 +1609,19 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wifi_fcs_text">FCS ERR:</string>
   <string name="wifi_go">Go</string>
   <string name="wifi_guard_interval">Guard interval:</string>
-  <string name="wifi_help_msg">"Feature name: WLAN
+  <string name="wifi_help_msg">"Feature name: WiFi
 
- Used to do WLAN test and check WLAN status by RD.
+ Used to do WiFi test and check WiFi status by RD.
 
  There are 4 test items: Tx, Rx, MCR, NVRAM and some check boxes as a switch.
 
- Tx: Test WLAN send packages at different frequencies, rates, power and so on. It needs special instruments to analyze the results.
+ Tx: Test WiFi send packages at different frequencies, rates, power and so on. It needs special instruments to analyze the results.
 
- Rx: Test WLAN receive packages at different frequencies and bandwidth. It will show the results of received packages.
+ Rx: Test WiFi receive packages at different frequencies and bandwidth. It will show the results of received packages.
 
- MCR: Read and write WLAN control register. Warning: The operation of non-professionals is forbidden.
+ MCR: Read and write WiFi control register. Warning: The operation of non-professionals is forbidden.
 
- NVRAM: Read and write WLAN NVRAM, could accessed in word or byte string.
+ NVRAM: Read and write WiFi NVRAM, could accessed in word or byte string.
 
  Switch: Some switches used by RD.
 
@@ -1634,7 +1634,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wifi_item_tx">Tx</string>
   <string name="wifi_length_content_string"/>
   <string name="wifi_length_text_string">length(byte):</string>
-  <string name="wifi_mcr">WLAN_MCR</string>
+  <string name="wifi_mcr">WiFi_MCR</string>
   <string name="wifi_mcr_addr_text">Addr(h):</string>
   <string name="wifi_mcr_readbtn">Read</string>
   <string name="wifi_mcr_text">MCR:</string>
@@ -1656,16 +1656,16 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
   <string name="wifi_rate_text">Rate:</string>
   <string name="wifi_read_word">Read</string>
   <string name="wifi_readallbtn">Read All</string>
-  <string name="wifi_rx">WLAN_Rx</string>
+  <string name="wifi_rx">WiFi_Rx</string>
   <string name="wifi_rx_content">0</string>
   <string name="wifi_rx_text">RX OK:</string>
   <string name="wifi_savebtn">NVRAM Save As File</string>
   <string name="wifi_stop">Stop</string>
   <string name="wifi_stringaccess_text">Byte String Access:</string>
-  <string name="wifi_temperature_sensor">WLAN_Temperature_Sensor</string>
+  <string name="wifi_temperature_sensor">WiFi_Temperature_Sensor</string>
   <string name="wifi_toast_packet_error">Do not accept packet count = 0, unlimited on Android</string>
   <string name="wifi_toast_select_error">item select error</string>
-  <string name="wifi_tx">WLAN_Tx</string>
+  <string name="wifi_tx">WiFi_Tx</string>
   <string name="wifi_tx_edit">22</string>
   <string name="wifi_tx_gain_edit">22</string>
   <string name="wifi_tx_gain_format">%.1f</string>

@@ -11,7 +11,7 @@
   <string name="auto_backup_choose_empty">No backups</string>
   <string name="auto_backup_choose_title">Choose backup items</string>
   <string name="auto_backup_date">Backup frequency</string>
-  <string name="auto_backup_only_wifi">Only when connected to WLAN</string>
+  <string name="auto_backup_only_wifi">Only when connected to Wi-Fi</string>
   <string name="auto_backup_open">Automatic backup</string>
   <string name="auto_backup_progress">Backing up…</string>
   <string name="auto_backup_select_user_apps">Choose apps</string>
@@ -139,7 +139,7 @@
   <string name="sc_precondition_failed">You need to link your Mi Account with a valid email address</string>
   <string name="sc_request_timeout">Request timed out</string>
   <string name="sc_service_unavailable">Mi Cloud unavailable</string>
-  <string name="sc_unaccess_password_file">"Don't store WLAN password"</string>
+  <string name="sc_unaccess_password_file">"Don't store Wi-Fi password"</string>
   <string name="sc_unauthorized">Please sign in again</string>
   <string name="sdcard_no_enough_space">Not enough space</string>
   <string name="sdcard_no_enough_space_message">"There's not enough space on your phone's SD card."</string>
@@ -186,5 +186,5 @@
   <string name="unit_byte">"  bytes"</string>
   <string name="unit_piece">"  items"</string>
   <string name="unknown_hint">Unknown</string>
-  <string name="wifi_title">WLAN settings</string>
+  <string name="wifi_title">Wi-Fi settings</string>
 </resources>

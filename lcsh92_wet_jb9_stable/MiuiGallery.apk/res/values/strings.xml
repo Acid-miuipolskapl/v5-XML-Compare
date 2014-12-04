@@ -510,7 +510,7 @@ albums from anywhere.
   <string name="confirm_delete_this_video">Delete this video?</string>
   <string name="confirm_delete_videos">Delete %s videos?</string>
   <string name="confirm_download">You need to download %s.</string>
-  <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
+  <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when Wi-Fi is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="contact_photo">Set as contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
@@ -672,7 +672,7 @@ albums from anywhere.
   <string name="loading_failure">"Can't load photo"</string>
   <string name="loading_image">Downloading image…</string>
   <string name="loading_members">Loading members026</string>
-  <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
+  <string name="loading_suspend">Download paused. Will resume when Wi-Fi is available.</string>
   <string name="loading_thumbnail">Downloading thumbnail…</string>
   <string name="loading_video">Downloading video…</string>
   <string name="local_albums">Local images</string>
@@ -884,7 +884,7 @@ albums from anywhere.
   <string name="sync_album_summary">Upload photos to your cloud</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
   <string name="sync_in_progress_message">Syncing…</string>
-  <string name="sync_only_in_wifi">Upload via WLAN only</string>
+  <string name="sync_only_in_wifi">Upload via Wi-Fi only</string>
   <string name="sync_only_in_wifi_alert">Turning off this option may increase your mobile data usage.</string>
   <string name="sync_only_in_wifi_summary">Gallery will use your mobile network to upload images when this feature is switched off</string>
   <string name="system_album">System album</string>

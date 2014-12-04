@@ -66,13 +66,13 @@
   <string name="web_url_warning">The linked website is from an unknown source and may be a security risk.</string>
   <string name="website_details">Website details:</string>
   <string name="wechat_details">WeChat details:</string>
-  <string name="wifi_connect_current_connetion">Connected to WLAN</string>
+  <string name="wifi_connect_current_connetion">Connected to Wi-Fi</string>
   <string name="wifi_connect_fail">"Can't connect to the network"</string>
-  <string name="wifi_connect_not_found">No WLAN networks detected</string>
+  <string name="wifi_connect_not_found">No Wi-Fi networks detected</string>
   <string name="wifi_connect_success">Connected</string>
   <string name="wifi_connecting">Connecting…</string>
-  <string name="wifi_details">WLAN details:</string>
-  <string name="wifi_open_fail">"Couldn't open WLAN"</string>
+  <string name="wifi_details">Wi-Fi details:</string>
+  <string name="wifi_open_fail">"Couldn't open Wi-Fi"</string>
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>

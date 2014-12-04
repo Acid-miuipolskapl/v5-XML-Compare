@@ -117,6 +117,8 @@ You can turn this feature on and off anytime in Settings.
   <string name="enable_micloud">Create an account or sign in</string>
   <string name="enable_sync">Turn on</string>
   <string name="enable_sync_dspt">Sync is off</string>
+  <string name="error_data_in_transfer">Sync will finish in %s hours remaining.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud not available.</string>
   <string name="error_device_id">"Can't get IMEI"</string>
   <string name="error_dup_phone">This phone number is already associated with another account</string>
   <string name="error_invalid_dev_id">Invalid device ID</string>
@@ -214,7 +216,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
   <string name="micloud_input_password_prompt">Create a password</string>
   <string name="micloud_intro_01_part_01">Conserve data usage</string>
-  <string name="micloud_intro_01_part_02">Cloud Messaging lets you send messages back and forth with other MIUI users using WLAN.</string>
+  <string name="micloud_intro_01_part_02">Cloud Messaging lets you send messages back and forth with other MIUI users using Wi-Fi.</string>
   <string name="micloud_intro_02_part_01">Migrate effortlessly</string>
   <string name="micloud_intro_02_part_02">Sync contacts, messages, photos, and more across devices.</string>
   <string name="micloud_intro_03_part_01">Access from anywhere</string>
