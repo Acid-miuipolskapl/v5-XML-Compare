@@ -40,15 +40,17 @@
   <string name="ad_permission_hint">"Using Ad Blocker may affect your apps' performance or prevent them from working normally."</string>
   <string name="ad_relative_setting">Related settings</string>
   <string name="ad_single_block_hint">Blocked</string>
+  <string name="ad_update_check_text">Update automatically</string>
   <string name="ad_update_setting">Update ad blocker settings</string>
   <string name="ad_update_time">Last updated: %s</string>
-  <string name="ad_update_time_unKnown">Last updated: unknown</string>
-  <string name="ad_update_title">Auto Update</string>
+  <string name="ad_update_time_unKnown">Last update unknown</string>
+  <string name="ad_update_title">Update automatically</string>
+  <string name="ad_update_warn_info">"Ad Blocker's version info will be uploaded to Xiaomi's servers to update ad definitions"</string>
   <string name="address_choose_hint">%1$s, %2$s, and %3$d other locations</string>
   <string name="addwhitelist">Add to exceptions</string>
   <string name="all_address_choose_hint">All locations</string>
   <string name="app_name">Blocklist</string>
-  <string name="backsound_set_hint">Set your backsound to %s?</string>
+  <string name="backsound_set_hint">Set your away message to %s?</string>
   <string name="baidu_thanks">Powered by Baidu</string>
   <string name="bl_block_info" formatted="false">Blocked: %d | SMS: %d</string>
   <string name="bl_no_blacklist">No blocked numbers</string>
@@ -127,17 +129,17 @@
   <string name="label_callwait">Call waiting</string>
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Sales agent</string>
-  <string name="mark_agent_block">Marked as agent</string>
+  <string name="mark_agent_block">Reported as agent</string>
   <string name="mark_express">Courier</string>
-  <string name="mark_express_block">Marked as courier</string>
+  <string name="mark_express_block">Reported as courier</string>
   <string name="mark_fraud">Fraud</string>
-  <string name="mark_fraud_block">Marked as fraud</string>
+  <string name="mark_fraud_block">Reported as fraud</string>
   <string name="mark_meal">Food delivery</string>
-  <string name="mark_meal_block">Marked as food delivery</string>
+  <string name="mark_meal_block">Reported as food delivery</string>
   <string name="mark_number_info">"
 Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
   <string name="mark_sell">Telemarketer</string>
-  <string name="mark_sell_block">Marked as telemarketer</string>
+  <string name="mark_sell_block">Reported as telemarketer</string>
   <string name="marked_by_others">"%d other users marked it as "</string>
   <string name="marked_by_user">"you marked it as "</string>
   <string name="menu_add">Add</string>
@@ -277,7 +279,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="st_title_man_editwhitelist">Choose an location code to add to exceptions</string>
   <string name="st_title_man_head_addblacklist">Add phone number prefix to blocklist</string>
   <string name="st_title_man_head_addwhitelist">Add phone number prefix to exceptions</string>
-  <string name="st_title_markednumber_group">Marked number blocklist</string>
+  <string name="st_title_markednumber_group">Reported numbers</string>
   <string name="st_title_mode_choose_group">Blocklist rules</string>
   <string name="st_title_not_sim">Empty</string>
   <string name="st_title_open_antispam">Blocklist</string>
@@ -297,6 +299,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="toast_keyword_invalid">Invalid keyword</string>
   <string name="two_address_choose_hint">%1$s and %2$s</string>
   <string name="user_define_title">Add rules</string>
+  <string name="warning">Attention</string>
   <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
   <string name="wl_no_whitelist">No exceptions</string>
 </resources>

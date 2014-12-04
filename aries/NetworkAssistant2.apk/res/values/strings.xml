@@ -189,7 +189,7 @@ Used"</string>
   <string name="pref_month_first_day">First day of the month</string>
   <string name="pref_more_traffic_settings">Additional settings</string>
   <string name="pref_new_installed_preconfig_title">Default settings for new apps</string>
-  <string name="pref_open_adjust_traffic">"Sync your data usage stats with your carrier's servers"</string>
+  <string name="pref_open_adjust_traffic">Update your data usage balance using stats from your carrier everyday</string>
   <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
   <string name="pref_package_traffic_normal">Peak: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
@@ -220,6 +220,9 @@ Used"</string>
   <string name="pref_whitelist_setting">Exceptions</string>
   <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=http://max.oupeng.com/eula.html&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Terms and Conditions</string>
+  <string name="privacy_prompt_purchase_history_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get your mobile data purchase history."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to update SMS query templates and to check if this feature is available in your area."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get more info about data purchasing options."</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Apps on exceptions list will be able to connect to data services when roaming internationally.</string>
   <string name="roaming_not_start_title">International roaming</string>
