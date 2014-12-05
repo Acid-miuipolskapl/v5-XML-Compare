@@ -160,6 +160,9 @@
   <string name="copy_link">copy link</string>
   <string name="copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
   <string name="create_shortcut_bookmark">Add shortcut to home</string>
+  <string name="data_traffic_prompt_change">No WIFI available, continue to watch may generate a lot of traffic cost. Do you want to continue?</string>
+  <string name="data_traffic_prompt_message">You are currently using a data network, may have a lot of traffic expenses. Do you want to continue?</string>
+  <string name="data_traffic_prompt_title">Data network tip</string>
   <string name="date_picker_dialog_clear">Clear</string>
   <string name="date_picker_dialog_other_button_label">Other</string>
   <string name="date_picker_dialog_set">Set</string>
@@ -636,6 +639,9 @@
   <string name="user_defined_webpage">Add to start page</string>
   <string name="user_defined_webpage_title">Add to start page</string>
   <string name="username">Name</string>
+  <string name="video_project_button">Stop</string>
+  <string name="video_project_msg">Video is projected onto the %s</string>
+  <string name="video_project_title">Video Projection</string>
   <string name="view_certificate">View certificate</string>
   <string name="warning">Warning</string>
   <string name="webapp_add_to_desktop">Add to desktop</string>
