@@ -56,7 +56,7 @@
     </array>
     <string-array name="power_mode_entries">
         <item>High performance</item>
-        <item>Balance(default)</item>
+        <item>Balanced (default)</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>After 1 minute</item>

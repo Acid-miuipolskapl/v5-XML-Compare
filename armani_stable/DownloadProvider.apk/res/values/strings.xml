@@ -29,6 +29,11 @@
   <string name="permlab_downloadManagerAdvanced">Advanced download manager functions.</string>
   <string name="permlab_downloadWithoutNotification">download files without notification</string>
   <string name="permlab_seeAllExternal">See all downloads to SD card</string>
+  <string name="privacy_button_cancel">Cancel</string>
+  <string name="privacy_button_ok">OK</string>
+  <string name="privacy_msg_body">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="size_unknown">Unknown</string>
   <string name="task_already_exist">Task already exists</string>
   <string name="wifi_recommended_body" formatted="false">"About to download via the operator nextwork：
 

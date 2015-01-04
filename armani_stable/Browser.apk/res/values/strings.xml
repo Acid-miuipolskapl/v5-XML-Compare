@@ -19,6 +19,10 @@
   <string name="actionbar_share">Share</string>
   <string name="actionbar_web_search">Web search</string>
   <string name="adblock_notification">%d ads blocked</string>
+  <string name="adblock_rules_number_text">%d items blocked</string>
+  <string name="adblock_rules_restore">Restore</string>
+  <string name="adblock_websites_settings_empyt_hint">Empty rules</string>
+  <string name="adblock_websites_settings_title">Custom rules</string>
   <string name="add_bookmark">Add bookmark</string>
   <string name="add_folder">Add folder</string>
   <string name="add_new_bookmark">Add bookmark</string>
@@ -27,8 +31,8 @@
   <string name="alert_tips">This site may be a security risk</string>
   <string name="allow">Allow</string>
   <string name="already_in_top_level">The bookmark is already in top level</string>
-  <string name="app_new_version">Download complete: the latest version of this app is already installed</string>
-  <string name="app_update_install">Download complete! Ready to install upgraded version.</string>
+  <string name="app_new_version">The latest version of this app is already installed</string>
+  <string name="app_update_install">Ready to install update.</string>
   <string name="application_name">Browser</string>
   <string name="autofill_profile_editor_address_line_1">Address line 1</string>
   <string name="autofill_profile_editor_address_line_1_hint">Street address, P.O. box, c/o</string>
@@ -56,6 +60,10 @@
   <string name="autologin_bar_text">Sign in as</string>
   <string name="back">Back</string>
   <string name="block">Block</string>
+  <string name="block_ads_choice_block">Block</string>
+  <string name="block_ads_choice_continue">Continue</string>
+  <string name="block_ads_message">Do you want to block messages from this website?</string>
+  <string name="block_ads_title">Content may contain ads</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_cannot_save_url">"This URL can't be bookmarked."</string>
   <string name="bookmark_folder_needs_title">Enter a folder name</string>
@@ -69,7 +77,7 @@
   <string name="bookmark_title">Bookmark name</string>
   <string name="bookmark_to_readmodelist_not_saved">"Couldn't save to reading list"</string>
   <string name="bookmark_to_readmodelist_saved">Saved to reading list</string>
-  <string name="bookmark_url">Url http://</string>
+  <string name="bookmark_url">Url</string>
   <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
   <string name="bookmarks">Bookmarks</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
@@ -93,6 +101,10 @@
   <string name="clear_history_group">Clear history (%s pages)</string>
   <string name="clear_search_history">Clear history</string>
   <string name="clip_dialog_title">Open the copied url?</string>
+  <string name="close_ads_choice_no">No</string>
+  <string name="close_ads_choice_yes">Yes</string>
+  <string name="close_ads_message">You will close this content。Block this content automatically later? The content that is blocked will be displayed in Settings &gt; Advanced &gt; Custom rules</string>
+  <string name="close_ads_title">Hint</string>
   <string name="close_all_tab_alert_message">Close all tabs?</string>
   <string name="close_all_tab_alert_title">Close all tabs</string>
   <string name="close_cloud_tab_tip">Close cloud tabs on %s?</string>
@@ -148,6 +160,9 @@
   <string name="copy_link">copy link</string>
   <string name="copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
   <string name="create_shortcut_bookmark">Add shortcut to home</string>
+  <string name="data_traffic_prompt_change">No WIFI available, continue to watch may generate a lot of traffic cost. Do you want to continue?</string>
+  <string name="data_traffic_prompt_message">You are currently using a data network, may have a lot of traffic expenses. Do you want to continue?</string>
+  <string name="data_traffic_prompt_title">Data network tip</string>
   <string name="date_picker_dialog_clear">Clear</string>
   <string name="date_picker_dialog_other_button_label">Other</string>
   <string name="date_picker_dialog_set">Set</string>
@@ -166,7 +181,7 @@
   <string name="download">Download</string>
   <string name="download_complete">Download complete</string>
   <string name="download_default_path_txt">Remember this choice</string>
-  <string name="download_dialog_default_path_invalid">Download path is invalid, use the default download path</string>
+  <string name="download_dialog_default_path_invalid">Download path is invalid, try using the default download path</string>
   <string name="download_dialog_file_length_hint_txt">"File size: "</string>
   <string name="download_dialog_file_length_lessthan1kb">less than 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Download failed</string>
@@ -245,6 +260,7 @@
   <string name="location">Address</string>
   <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
   <string name="max_tabs_warning">Tab limit reached</string>
+  <string name="maximum_input_alert">Maximum input 2048 characters</string>
   <string name="media_player_error_button">OK</string>
   <string name="media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
   <string name="media_player_error_text_unknown">Sorry, this video cannot be played.</string>
@@ -290,7 +306,7 @@
   <string name="miuichromium_save_password_never">Never</string>
   <string name="miuichromium_save_password_notnow">Not now</string>
   <string name="miuichromium_save_password_remember">Remember</string>
-  <string name="modify_download_path_no_sdcard_dlg_msg">An SD card is required to modify this path</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">Insert SD card to modify this path</string>
   <string name="month_picker_dialog_title">Set month</string>
   <string name="move_to_up_folder">Go up one level</string>
   <string name="name">Label</string>
@@ -328,8 +344,8 @@
   <string name="pref_autologin_progress_in_background">Signing into Google sites using %s in the background</string>
   <string name="pref_autologin_title">Automatic Google sign-in</string>
   <string name="pref_category_title_version">Version</string>
-  <string name="pref_check_security_url_summary">Submit current URL when accessing a Web site to the server detects its security</string>
-  <string name="pref_check_security_url_title">Security URL check</string>
+  <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
+  <string name="pref_check_security_url_title">Check URL security</string>
   <string name="pref_clear_adblock_statistics">Clear Ad Blocker history</string>
   <string name="pref_clear_adblock_statistics_dlg">Clear blocked ad count?</string>
   <string name="pref_clear_cache_for_exit">Clear cache upon exit</string>
@@ -379,7 +395,7 @@
   <string name="pref_development_trace">Enable tracing</string>
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-  <string name="pref_enable_adblock_notification">Ad Blocker</string>
+  <string name="pref_enable_adblock_notification">Ad Blocker notifications</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Close app with last tab</string>
   <string name="pref_extras_reset_default">Reset to default</string>
   <string name="pref_extras_reset_default_dlg">Revert settings to default values?</string>
@@ -390,8 +406,8 @@
   <string name="pref_extras_website_settings_summary">Advanced settings for individual websites</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Restore default settings</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restore default settings</string>
-  <string name="pref_file_download_save_modify_default_path">Put downloaded files in…</string>
-  <string name="pref_file_download_save_title">Download</string>
+  <string name="pref_file_download_save_modify_default_path">Save files to</string>
+  <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border_enabled">Swipe from edge</string>
   <string name="pref_fling_on_border_enabled_title_summary">Swipe from the left or right edge of the screen to switch between tabs</string>
   <string name="pref_font_size_category">Text size</string>
@@ -566,8 +582,8 @@
   <string name="set_as_homepage">Set as homepage</string>
   <string name="share_link">share link</string>
   <string name="share_page">share page</string>
-  <string name="show_check_security_url_check_tip_dialog_description">In order to protect the security of your Internet browser to access the site, the current URL will be submit to the server to detects its security, If you do not need this feature, turn off the Security URL check in the settings can be</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Security URL check tip</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
+  <string name="show_check_security_url_check_tip_dialog_title">URL security</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Couldn't save for offline reading"</string>
   <string name="snapshot_go_live">Go live</string>
@@ -623,6 +639,9 @@
   <string name="user_defined_webpage">Add to start page</string>
   <string name="user_defined_webpage_title">Add to start page</string>
   <string name="username">Name</string>
+  <string name="video_project_button">Stop</string>
+  <string name="video_project_msg">Video is projected onto the %s</string>
+  <string name="video_project_title">Video Projection</string>
   <string name="view_certificate">View certificate</string>
   <string name="warning">Warning</string>
   <string name="webapp_add_to_desktop">Add to desktop</string>
