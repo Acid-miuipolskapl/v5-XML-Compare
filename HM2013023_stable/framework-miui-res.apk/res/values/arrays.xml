@@ -64,8 +64,6 @@
     <string-array name="mobile_operator_display_names">
         <item>3</item>
         <item>3(2G)</item>
-        <item>PCCW-HKT</item>
-        <item>PCCW-HKT</item>
         <item>China Telecom</item>
         <item>China Mobile</item>
         <item>China Unicom</item>
@@ -74,6 +72,7 @@
         <item>China Telecom</item>
         <item>China Unicom</item>
         <item>China Mobile</item>
+        <item>China Telecom</item>
         <item>China Telecom</item>
         <item>FarEasTone</item>
         <item>Asia Pacific</item>
@@ -371,8 +370,6 @@
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>45403</item>
         <item>45404</item>
-        <item>45416</item>
-        <item>45419</item>
         <item>45502</item>
         <item>46000</item>
         <item>46001</item>
@@ -381,6 +378,7 @@
         <item>46003</item>
         <item>46001</item>
         <item>46000</item>
+        <item>46003</item>
         <item>46003</item>
         <item>46601</item>
         <item>46605</item>
@@ -678,8 +676,6 @@
     <string-array name="mobile_operator_numeric_values">
         <item>45403</item>
         <item>45404</item>
-        <item>45416</item>
-        <item>45419</item>
         <item>45502</item>
         <item>46000</item>
         <item>46001</item>
@@ -689,6 +685,7 @@
         <item>46006</item>
         <item>46007</item>
         <item>46009</item>
+        <item>46011</item>
         <item>46601</item>
         <item>46605</item>
         <item>46689</item>

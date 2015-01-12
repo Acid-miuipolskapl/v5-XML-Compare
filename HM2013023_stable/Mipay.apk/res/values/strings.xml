@@ -93,8 +93,8 @@ Please check your local date and try again."</string>
   <string name="mipay_process_modify_password">Modify payment password</string>
   <string name="mipay_process_pay">Payment</string>
   <string name="mipay_process_unbind_bank_card">Unbind bank card</string>
-  <string name="mipay_query_failed">Payment complete</string>
-  <string name="mipay_query_success">Payment failed</string>
+  <string name="mipay_query_failed">Payment failed</string>
+  <string name="mipay_query_success">Payment complete</string>
   <string name="mipay_query_timeout">Payment timeout</string>
   <string name="mipay_query_timeout_contact">Please contact our customer service</string>
   <string name="mipay_query_wait">Paying</string>

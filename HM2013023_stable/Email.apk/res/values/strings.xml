@@ -114,7 +114,7 @@
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
   <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including: %s"</string>
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Inbox</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
   <string name="account_setup_incoming_delete_policy_label">Delete email from server</string>
   <string name="account_setup_incoming_delete_policy_never_label">Never</string>
   <string name="account_setup_incoming_headline">Incoming server settings</string>
@@ -200,7 +200,7 @@
   <string name="address_display_format">%1$s | %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s%2$s via %3$s</string>
   <string name="all_folders_heading">All folders</string>
-  <string name="allread">All Readed</string>
+  <string name="allread">All Read</string>
   <string name="always_bcc_myself">Always Bcc myself</string>
   <string name="always_show_images">Always show pictures from this sender</string>
   <string name="always_show_images_toast">Pictures from this sender will be shown automatically.</string>
@@ -258,6 +258,8 @@
   <string name="change_account_type">Change account type</string>
   <string name="change_folders_selection_dialog_title">Change folders</string>
   <string name="change_sync_settings">Change sync settings</string>
+  <string name="chat_type_name">chat</string>
+  <string name="check_setup_data">Validating server settings…</string>
   <string name="checking_for_mail">Checking for mail</string>
   <string name="choosertitle_sharevia">Share via</string>
   <string name="clear">Clear</string>
@@ -304,7 +306,6 @@
   <string name="conversation_folder_moved">Moved to %1$s</string>
   <string name="conversation_item_mark_read">Read</string>
   <string name="conversation_item_mark_unread">Unread</string>
-  <string name="conversation_list_net_check">Unavailable to connect to the network, please check the network configuration or try again later</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
@@ -328,8 +329,9 @@
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
   <string name="default_setup">DEFAULT SETTINGS</string>
-  <string name="default_signature">Sent from my Xiaomi</string>
+  <string name="default_signature">Sent from my Mi phone</string>
   <string name="delete">Delete</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s has been deleted</string>
   <string name="deleted">Deleted</string>
   <string name="device_activity_btn_str">Return To Activate</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
@@ -358,9 +360,12 @@
   <string name="download_confirm_message">Download %1$s attachment?</string>
   <string name="download_confirm_title">Download attachment</string>
   <string name="download_failed">"Couldn't download. Touch to retry."</string>
+  <string name="downloading_message_body">Downloading email, please wait…</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
+  <string name="eas_hotmail_email">hotmail.com</string>
+  <string name="eas_outlook_email">outlook.com</string>
   <string name="eas_template">domain\\user</string>
   <string name="edit_quick_response_dialog">Quick response</string>
   <string name="elided_padding_token"> </string>
@@ -383,6 +388,7 @@
   <string name="failed">"Couldn't load image"</string>
   <string name="feedback">Send feedback</string>
   <string name="feedback_body">Feedback information</string>
+  <string name="feedback_sent">"Thanks for your feedback. We'll keep on improving for you"</string>
   <string name="fetching_attachment">Fetching attachment</string>
   <string name="file_deleted_success">File deleted</string>
   <string name="file_not_found">"Can't find file"</string>
@@ -453,10 +459,13 @@
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_attachment">@string/load_more</string>
+  <string name="load_from_remote">Continue to search on the server</string>
   <string name="load_more">Load more</string>
   <string name="loading_conversation">Loading…</string>
   <string name="loading_conversations">Loading…</string>
+  <string name="loading_from_remote">Searching on the server...</string>
   <string name="local_search">Local search</string>
+  <string name="local_search_result">%s emails found from all the local emails</string>
   <string name="login">Login</string>
   <string name="login_failed_ticker">%s signin unsuccessful.</string>
   <string name="login_failed_title">"Can't sign in"</string>
@@ -526,6 +535,9 @@
   <string name="menu_search">Search</string>
   <string name="menu_settings">Settings</string>
   <string name="menu_show_original">Revert auto-sizing</string>
+  <string name="message_body_auto_download_complete">Automatically downloaded email using WLAN</string>
+  <string name="message_body_auto_download_tip">"You're currently using WLAN. it will automatically download email"</string>
+  <string name="message_body_download_failed">Time out when downloading email</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Original Message --------
@@ -544,10 +556,10 @@ CC: %4$s
   <string name="message_invite_accept">Yes</string>
   <string name="message_invite_calendar_view">View in Calendar</string>
   <string name="message_invite_decline">No</string>
-  <string name="message_invite_label_attending">Going?</string>
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">Message saved as draft.</string>
+  <string name="message_type_name">message</string>
   <string name="message_view_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
   <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_total">%1$d attachments</string>
@@ -558,13 +570,15 @@ CC: %4$s
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Mute</string>
   <string name="name_or_number_is_error">The username or password error</string>
-  <string name="net_check_title">Network anomaly, please check the network。</string>
   <string name="network_error">No connection</string>
+  <string name="network_not_available">Network disconnected or abnormal, please check</string>
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
   <string name="new_messages">%1$d new messages</string>
   <string name="next_action">Next</string>
   <string name="no">No</string>
+  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app can open this attachment for viewing.</string>
+  <string name="no_contacts">Empty</string>
   <string name="no_conversations">No messages</string>
   <string name="no_mails">Empty</string>
   <string name="no_matched_attachment">Nothing matched your search</string>
@@ -605,6 +619,9 @@ CC: %4$s
   <string name="password_expired_dialog_content_fmt">The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Do you want to change it now?</string>
   <string name="password_expired_dialog_title">Lock screen password expired</string>
   <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
+  <string name="perference_change_pw">Update password</string>
+  <string name="perference_change_pw_notnull_tips">Password can not be empty</string>
+  <string name="perference_change_pw_ok_tips">Password update sucess</string>
   <string name="permission_access_provider_desc">Allows app to access your email, usernames, and passwords</string>
   <string name="permission_access_provider_label">Access user data</string>
   <string name="permission_read_attachment_desc">"Allows app to read your emails' attachments"</string>
@@ -612,8 +629,8 @@ CC: %4$s
   <string name="phone">phone</string>
   <string name="photo_load_failed">"Couldn't load image"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
-  <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
-  <string name="please_fill_in_your_mailbox_information2">Please fill in your mailbox-related information:</string>
+  <string name="please_fill_in_your_mailbox_information">Fill in your %s mailbox-related information:</string>
+  <string name="please_fill_in_your_mailbox_information2">Fill in your mailbox-related information:</string>
   <string name="please_wait">Please wait…</string>
   <string name="policy_app_blacklist">Disallow specified apps</string>
   <string name="policy_app_whitelist">Allow only specified apps</string>
@@ -660,6 +677,7 @@ CC: %4$s
   <string name="preferences_signature_dialog_title">Signature</string>
   <string name="preferences_signature_summary_not_set">Not set</string>
   <string name="preferences_signature_title">Signature</string>
+  <string name="prefetched_got_it">"I've got it"</string>
   <string name="preview_attachment">Preview</string>
   <string name="previous_action">Back</string>
   <string name="prompt_title">Prompt</string>
@@ -689,6 +707,8 @@ CC: %4$s
   <string name="refreshing">Refreshing…</string>
   <string name="release_to_refresh">Release to refresh</string>
   <string name="remote_folders_heading">Server Folders</string>
+  <string name="remote_search">All the emails on the server</string>
+  <string name="remote_search_result">%s emails found from all the emails on the server</string>
   <string name="remove_account">Remove account</string>
   <string name="remove_account_confirm">The account \"%1$s\" will be removed from WPS Mail.</string>
   <string name="remove_folder">Remove from %1$s</string>
@@ -742,10 +762,8 @@ CC: %4$s
   <string name="sent_folder_selection_title">Select server sent items folder for %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
 \u0009 (Check whether the setting is 'Auto sync time')"</string>
-  <string name="ser_resp_err_map_connect_err">Error in network connection. Please try another network</string>
   <string name="ser_resp_err_map_nouser">No such user</string>
   <string name="ser_resp_err_map_or">Or</string>
-  <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
   <string name="ser_resp_err_map_serclosed">Service closed</string>
   <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
   <string name="set_network">Set network</string>
@@ -800,6 +818,7 @@ CC: %4$s
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
+  <string name="tryrefreshing">Try to Refreshing…</string>
   <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>

@@ -840,6 +840,8 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_buy">Buy</string>
   <string name="resource_can_not_selected">"%1$s can't be selected"</string>
   <string name="resource_category">Category</string>
+  <string name="resource_clear_search_history">Clear search history</string>
+  <string name="resource_clear_search_history_dialog">Clear all search history?</string>
   <string name="resource_comment_1_star">1 Star</string>
   <string name="resource_comment_2_star">2 Stars</string>
   <string name="resource_comment_3_star">3 Stars</string>
@@ -865,6 +867,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_comment_no_comment">No comments</string>
   <string name="resource_comment_publish">Submit</string>
   <string name="resource_comment_rate">Rating:</string>
+  <string name="resource_comment_rating_star_tips">Touch stars to rate:</string>
   <string name="resource_comment_score_count">%1$s users</string>
   <string name="resource_comment_sending">Sending comment…</string>
   <string name="resource_comment_title">Comments: %1$s</string>
@@ -892,7 +895,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Download</string>
-  <string name="resource_download_trial">Free trial</string>
+  <string name="resource_download_trial">Try for free</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
   <string name="resource_downloading">Downloading</string>
   <string name="resource_exchange">Redeem</string>
@@ -914,10 +917,11 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">Expand</string>
+  <string name="resource_failed_to_load_list">"Couldn't load list"</string>
   <string name="resource_get_auth_checking">Checking authorization…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Ten devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
-  <string name="resource_get_auth_missing">Themes from thirdparty sources are not supported</string>
+  <string name="resource_get_auth_missing">Themes from third-party sources are not supported</string>
   <string name="resource_get_auth_retrieving">Retrieving authorization…</string>
   <string name="resource_hint">Alert</string>
   <string name="resource_import_failed">Import failed</string>
@@ -950,6 +954,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_ringtone_playing_error">playing error</string>
   <string name="resource_ringtone_volume_mute">Your ringer is silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
+  <string name="resource_search_list_empty">"Couldn't find anything"</string>
   <string name="resource_see_more">See more</string>
   <string name="resource_select">Select</string>
   <string name="resource_selected">Featured</string>
@@ -967,9 +972,11 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_trial_end_purchase">Purchase</string>
   <string name="resource_trial_end_restore">Finish trial</string>
   <string name="resource_trial_end_title">Trial expired</string>
-  <string name="resource_trial_time">（trial for %1$d minutes）</string>
-  <string name="resource_unable_to_access">"Unfortunately,
-the content you're looking for is not currently available in your region."</string>
+  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_go_settings">Settings</string>
+  <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
+  <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>
+  <string name="resource_trial_time">（trial session: %1$d minutes）</string>
   <string name="resource_unknow_error">An unknown error occurred</string>
   <string name="resource_update">Update</string>
   <string name="resource_user_know">OK</string>

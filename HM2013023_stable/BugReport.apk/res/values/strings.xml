@@ -32,6 +32,7 @@
   <string name="err_type_systemapp">MIUI apps</string>
   <string name="err_type_wifi">WLAN</string>
   <string name="hot_problem">View common bugs</string>
+  <string name="hot_problem_empty">Empty</string>
   <string name="loading_apps">Creating list…</string>
   <string name="loading_hot_problem">Loading…</string>
   <string name="menu_attach_screenshot">Attach screenshot</string>
@@ -60,6 +61,10 @@
   <string name="signal_problem2">Weak signal</string>
   <string name="status_msg_collecting_log">Collecting logs…</string>
   <string name="status_msg_pending_upload">%d waiting to be sent…</string>
+  <string name="submit_dialog_cancel">Cancel</string>
+  <string name="submit_dialog_confirm">Submit</string>
+  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Xiaomi's servers."</string>
+  <string name="submit_dialog_title">Send report to Xiaomi</string>
   <string name="suggestion_description">"I hope you'll add X feature, because…"</string>
   <string name="suggestion_problem1">You should add this feature because…</string>
   <string name="system_app_select">Built-in apps</string>
