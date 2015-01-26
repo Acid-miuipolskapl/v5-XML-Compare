@@ -23,7 +23,7 @@
   <string name="cancel_download_buton_text">Cancel</string>
   <string name="check_update">Check for updates</string>
   <string name="check_update_policy">Updater settings</string>
-  <string name="check_update_when_wifi_available">Only use Wi-Fi to auto check for updates</string>
+  <string name="check_update_when_wifi_available">Only use WLAN to auto check for updates</string>
   <string name="checking_for_updates">Checking for updates…</string>
   <string name="choose_recommend">User feedback</string>
   <string name="comment_invalid">You need to rate this update (touch the stars)</string>
@@ -99,7 +99,7 @@
   <string name="not_recommend">"Wouldn't recommend"</string>
   <string name="now">Reboot now</string>
   <string name="paused_queued_for_network">Waiting for network connection</string>
-  <string name="paused_queued_for_wifi">Waiting for Wi-Fi connection</string>
+  <string name="paused_queued_for_wifi">Waiting for WLAN connection</string>
   <string name="previous">Previous</string>
   <string name="reboot_later">Reboot later</string>
   <string name="reboot_now">Reboot now</string>

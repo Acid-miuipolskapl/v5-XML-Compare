@@ -510,7 +510,7 @@ albums from anywhere.
   <string name="confirm_delete_this_video">Delete this video?</string>
   <string name="confirm_delete_videos">Delete %s videos?</string>
   <string name="confirm_download">You need to download %s.</string>
-  <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when Wi-Fi is available.</string>
+  <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="contact_photo">Set as contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
@@ -573,6 +573,7 @@ albums from anywhere.
   <string name="error_invalid_link">Invalid link</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_repeat_apply">This album has already been shared</string>
+  <string name="error_share_not_support">"This feature isn't supported yet"</string>
   <string name="error_share_with_creator">This album is already being shared with you</string>
   <string name="error_should_not_select_image">"File type isn't supported"</string>
   <string name="error_should_not_select_video">"File type isn't supported"</string>
@@ -672,7 +673,7 @@ albums from anywhere.
   <string name="loading_failure">"Can't load photo"</string>
   <string name="loading_image">Downloading image…</string>
   <string name="loading_members">Loading members026</string>
-  <string name="loading_suspend">Download paused. Will resume when Wi-Fi is available.</string>
+  <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
   <string name="loading_thumbnail">Downloading thumbnail…</string>
   <string name="loading_video">Downloading video…</string>
   <string name="local_albums">Local images</string>
@@ -694,7 +695,7 @@ albums from anywhere.
   <string name="menu_item_sort_size_desc">Size (descending)</string>
   <string name="menu_view_contact">View contact</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
-  <string name="message_no_delete_access_with_count">"You don't have permission these %d files."</string>
+  <string name="message_no_delete_access_with_count">"You don't have permission to delete these %d files."</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
@@ -788,7 +789,7 @@ albums from anywhere.
   <string name="rename_failed_duplicated_name">A file with the same name already exists.</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code_failed">"Couldn't get QR code"</string>
-  <string name="request_sms_url_failed">"Cloudn't get info"</string>
+  <string name="request_sms_url_failed">"Couldn't get info"</string>
   <string name="request_sms_url_msg">Requesting info…</string>
   <string name="request_sms_url_title">Hint</string>
   <string name="retry_to_create_album">Retry</string>
@@ -884,7 +885,7 @@ albums from anywhere.
   <string name="sync_album_summary">Upload photos to your cloud</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
   <string name="sync_in_progress_message">Syncing…</string>
-  <string name="sync_only_in_wifi">Upload via Wi-Fi only</string>
+  <string name="sync_only_in_wifi">Upload via WLAN only</string>
   <string name="sync_only_in_wifi_alert">Turning off this option may increase your mobile data usage.</string>
   <string name="sync_only_in_wifi_summary">Gallery will use your mobile network to upload images when this feature is switched off</string>
   <string name="system_album">System album</string>

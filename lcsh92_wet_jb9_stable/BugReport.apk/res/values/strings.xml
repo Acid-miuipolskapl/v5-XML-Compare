@@ -30,8 +30,9 @@
   <string name="err_type_signal">Network issues</string>
   <string name="err_type_suggestion">Suggestions</string>
   <string name="err_type_systemapp">MIUI apps</string>
-  <string name="err_type_wifi">Wi-Fi</string>
+  <string name="err_type_wifi">WLAN</string>
   <string name="hot_problem">View common bugs</string>
+  <string name="hot_problem_empty">Empty</string>
   <string name="loading_apps">Creating list…</string>
   <string name="loading_hot_problem">Loading…</string>
   <string name="menu_attach_screenshot">Attach screenshot</string>
@@ -60,13 +61,17 @@
   <string name="signal_problem2">Weak signal</string>
   <string name="status_msg_collecting_log">Collecting logs…</string>
   <string name="status_msg_pending_upload">%d waiting to be sent…</string>
+  <string name="submit_dialog_cancel">Cancel</string>
+  <string name="submit_dialog_confirm">Submit</string>
+  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Xiaomi's servers."</string>
+  <string name="submit_dialog_title">Send report to Xiaomi</string>
   <string name="suggestion_description">"I hope you'll add X feature, because…"</string>
   <string name="suggestion_problem1">You should add this feature because…</string>
   <string name="system_app_select">Built-in apps</string>
   <string name="systemui">Notification shade</string>
   <string name="title_hot_problem">Common bugs</string>
   <string name="toast_description_required">You need to write a description</string>
-  <string name="toast_feedback_pending_wlan">"Message will be sent when you're connected to a Wi-Fi network"</string>
+  <string name="toast_feedback_pending_wlan">"Message will be sent when you're connected to a WLAN network"</string>
   <string name="toast_feedback_submitted">Report has been sent</string>
   <string name="toast_feedbackservice_in_submit">Sending previous feedback…</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
@@ -74,12 +79,12 @@
   <string name="toast_report_sent_failed">"Can't send report"</string>
   <string name="toast_report_sent_succeed">Report has been sent</string>
   <string name="userbook_name">User guide</string>
-  <string name="wifi_problem1">"Can't automatically connect to secure Wi-Fi"</string>
-  <string name="wifi_problem2">Wi-Fi signal is weak</string>
-  <string name="wifi_problem3">Wi-Fi disconnects unexpectedly</string>
+  <string name="wifi_problem1">"Can't automatically connect to secure WLAN"</string>
+  <string name="wifi_problem2">WLAN signal is weak</string>
+  <string name="wifi_problem3">WLAN disconnects unexpectedly</string>
   <string name="wifi_problem4">"Can't connect to network"</string>
   <string name="wlan_unavailable_dialog_button_ok">Wait</string>
   <string name="wlan_unavailable_dialog_button_sent">Send</string>
-  <string name="wlan_unavailable_dialog_content">Sending this report will use %s of your mobile data. You can send it now or wait for a Wi-Fi connection.</string>
+  <string name="wlan_unavailable_dialog_content">Sending this report will use %s of your mobile data. You can send it now or wait for a WLAN connection.\u0080</string>
   <string name="wlan_unavailable_dialog_title">Data usage</string>
 </resources>

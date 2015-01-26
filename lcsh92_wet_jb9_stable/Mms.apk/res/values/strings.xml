@@ -140,6 +140,9 @@
   <string name="feedback_description_hint">Write your message here</string>
   <string name="feedback_submit">Send feedback</string>
   <string name="festival">Quick responses</string>
+  <string name="festival_continue">OK</string>
+  <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
+  <string name="festival_never_remind">"Don't show again."</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Time created:</string>
   <string name="file_share_message_description">I want to share some files with you.</string>
@@ -162,7 +165,8 @@
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
-  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a Wi-Fi network</string>
+  <string name="hms_add_image_progress_message">Processing. Please wait...</string>
+  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="importing_progress_private_message">Importing messages…</string>
   <string name="in_sms">Message</string>
   <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
@@ -212,9 +216,9 @@
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
-  <string name="mx_auto_resend_mms_summary">"Send as MMS over mobile data connection when you're not connected to Wi-Fi (normal data usage charges apply)."</string>
+  <string name="mx_auto_resend_mms_summary">"Send as MMS over mobile data connection when you're not connected to WLAN (normal data usage charges apply)."</string>
   <string name="mx_auto_resend_sms">Send as text</string>
-  <string name="mx_auto_resend_sms_summary">"Send as text over mobile data connection when you're not connected to Wi-Fi (normal data usage charges apply)."</string>
+  <string name="mx_auto_resend_sms_summary">"Send as text over mobile data connection when you're not connected to WLAN (normal data usage charges apply)."</string>
   <string name="mx_btn_enable_now">Enable</string>
   <string name="mx_count_dspt">"You've sent %1$d texts and %2$d MMS"</string>
   <string name="mx_current_status">Status: online</string>
@@ -287,6 +291,7 @@
   <string name="pref_title_allow_si_sl_push">Allow WAP push</string>
   <string name="pref_title_card_format">Card share format</string>
   <string name="pref_title_delivery_reports">Delivery reports</string>
+  <string name="pref_title_festival_networking">Connection notification</string>
   <string name="pref_title_fwd_sender_info">Forward sender info</string>
   <string name="pref_title_hide_festival">Hide Recommended tab</string>
   <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
@@ -432,7 +437,7 @@
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">Will send at %s</string>
   <string name="toast_description_required">"Description can't be blank"</string>
-  <string name="toast_feedback_finish">"Your report will be sent when you're connected to Wi-Fi"</string>
+  <string name="toast_feedback_finish">"Your report will be sent when you're connected to WLAN"</string>
   <string name="toast_feedback_max">"You can't submit more than 3 reports a day"</string>
   <string name="toast_feedback_start">Gathering log data…</string>
   <string name="too_many_attachments">There is a limit of %1$s attachments. Only the first %2$s will be added.</string>
@@ -458,6 +463,7 @@ Attempt made: %s."</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>
+  <string name="view_hms_attachment_fail">Download image failed.</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">View details</string>
   <string name="wap_push_title">"[WAP Push] "</string>

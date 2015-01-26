@@ -79,7 +79,7 @@
   <string name="outbound_history_title">Outbound transfers</string>
   <string name="outbound_noti_title">Sent files via Bluetooth</string>
   <string name="panu_disconnect_while_wifi_connected">Bluetooth tethering disconnected</string>
-  <string name="panu_no_need_connect">Unable to use Bluetooth tethering while connected to Wi-Fi</string>
+  <string name="panu_no_need_connect">Unable to use Bluetooth tethering while connected to WLAN</string>
   <string name="pbap_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
   <string name="pbap_authentication_timeout_message">There was time out to input session key with %1$s</string>
   <string name="pbap_session_key_dialog_header">Bluetooth session key required</string>
