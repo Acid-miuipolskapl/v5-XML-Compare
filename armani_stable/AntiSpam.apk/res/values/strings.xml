@@ -173,7 +173,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="open_callwait">On</string>
   <string name="read_all_sms">Read all</string>
   <string name="report">Report</string>
-  <string name="report_error">"Reports will be sent when you're connected to WLAN"</string>
+  <string name="report_error">"Reports will be sent when you're connected to Wi-Fi"</string>
   <string name="report_only">Select at least 1 SMS</string>
   <string name="report_sms">Report SMS</string>
   <string name="report_success">Reported</string>

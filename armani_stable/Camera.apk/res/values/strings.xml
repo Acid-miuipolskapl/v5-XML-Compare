@@ -131,7 +131,7 @@
   <string name="find_qq_qrcode">Find QQ QR code</string>
   <string name="find_web_qrcode">Find Web QR code</string>
   <string name="find_wechat_qrcode">Find WeChat QR code</string>
-  <string name="find_wifi_qrcode">Find WLAN QR code</string>
+  <string name="find_wifi_qrcode">Find Wi-Fi QR code</string>
   <string name="flash">Flash</string>
   <string name="flash_off">No flash</string>
   <string name="flash_on">Flash fired</string>
@@ -626,13 +626,13 @@ touch the Shutter button"</string>
   <string name="wechat_details">WeChat details:</string>
   <string name="white_balance">White balance</string>
   <string name="width">Width</string>
-  <string name="wifi_connect_current_connetion">"You're connected to WLAN"</string>
+  <string name="wifi_connect_current_connetion">"You're connected to Wi-Fi"</string>
   <string name="wifi_connect_fail">Connection timed out</string>
-  <string name="wifi_connect_not_found">"Can't find the WLAN"</string>
+  <string name="wifi_connect_not_found">"Can't find the Wi-Fi"</string>
   <string name="wifi_connect_success">Connected</string>
   <string name="wifi_connecting">Connecting…</string>
-  <string name="wifi_details">WLAN details:</string>
-  <string name="wifi_open_fail">"Couldn't open WLAN"</string>
+  <string name="wifi_details">Wi-Fi details:</string>
+  <string name="wifi_open_fail">"Couldn't open Wi-Fi"</string>
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>

@@ -299,10 +299,10 @@ Free space added %1$s"</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Waiting for the network…</string>
   <string name="wait_sdcard">Waiting for SD card…</string>
-  <string name="wait_wifi">Waiting for WLAN…</string>
+  <string name="wait_wifi">Waiting for Wi-Fi…</string>
   <string name="waiting">Waiting…</string>
   <string name="wangpan_root_path">Kuaipan</string>
-  <string name="wifi_state">WLAN network</string>
+  <string name="wifi_state">Wi-Fi network</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="yes">Yes</string>
 </resources>

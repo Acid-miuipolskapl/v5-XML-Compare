@@ -14,7 +14,7 @@
   <string name="app_mobile">Data</string>
   <string name="app_name">Data usage</string>
   <string name="app_version">Version</string>
-  <string name="app_wifi">WLAN</string>
+  <string name="app_wifi">Wi-Fi</string>
   <string name="background_traffic">Background %s</string>
   <string name="begin_date">Usage cycle reset date</string>
   <string name="cancel_button">Cancel</string>
@@ -86,9 +86,9 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_fragment_tab_title_sys">System</string>
   <string name="firewall_rule_group_title_mobile">Data</string>
   <string name="firewall_rule_group_title_roaming">International roaming</string>
-  <string name="firewall_rule_group_title_wifi">WLAN</string>
+  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s has been restricted from using %2$s networks</string>
-  <string name="force_stop_dlg_text">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
+  <string name="force_stop_dlg_text">"If you restrict background mobile data, some apps and services won't work unless you're connected to a Wi-Fi network."</string>
   <string name="force_stop_dlg_title">Restrict background data</string>
   <string name="foreground_traffic">Foreground %s</string>
   <string name="free_time_traffic">Off-peak data limit</string>
