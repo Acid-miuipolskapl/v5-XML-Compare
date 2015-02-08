@@ -3729,7 +3729,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_p2p_wps_setup">WPS setup</string>
   <string name="wifi_password">Password</string>
   <string name="wifi_poor_network_detection">Avoid poor connections</string>
-  <string name="wifi_poor_network_detection_summary">"Don't use a WLAN network unless it has a good Internet connection"</string>
+  <string name="wifi_poor_network_detection_summary">"Don't use a WLAN network unless it has a good Internet connecti "</string>
   <string name="wifi_priority_changed" formatted="false">Old priority value = %s | New value = %s</string>
   <string name="wifi_priority_label">Priority</string>
   <string name="wifi_priority_settings_label">Priority settings</string>
